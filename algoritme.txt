@@ -1,0 +1,19 @@
+1. Download weekly file at
+https://wegenenverkeer.be/sites/default/files/uploads/documenten/Verkeersborden-Borden.zip
+
+2. Download road signs plugin data
+https://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium/Road_signs_plugin
+
+3. In order to make things work in non-geo software, add x-y to data
+Done in QGIS with built-in QGIS vector tool "add geometry attributes"
+
+4. Keep interesting traffic signs
+- recent removal
+- recent addition
+- of a traffic sign that we find interesting
+
+5. Geographic clustering?
+Open csv in qgis reporject to 4326.
+
+cluster geografisch
+stuur naar maproulette

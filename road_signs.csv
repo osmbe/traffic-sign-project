@@ -1,0 +1,540 @@
+﻿country;ref;useful;name;nl.name;fr.name;help;nl.help;wiki;traffic_sign_tag;nl.wiki;id;supplementary;name.nl;icon;key;value;ident;input;name2;nl.name3;type;ident4;default;suffix;field_width;editable;text;nl.text;values;id5
+BE;BE:A1a;no;Dangerous left curve;Scherpe bocht naar links;;;;;;;;;;;hazard;bend;;;;;;;;;;;;;;
+BE;BE:A1b;no;Dangerous right curve;Scherpe bocht naar rechts;;;;;;;;;;;hazard;bend;;;;;;;;;;;;;;
+BE;BE:A1c;no;Left curve followed by right curve;Bocht naar links gevolgd door bocht naar rechts;;;;;;;;;;;hazard;bend;;;;;;;;;;;;;;
+BE;BE:A1d;no;Right curve followed by left curve;Bocht naar rechts gevolgd door bocht naar links;;;;;;;;;;;hazard;bend;;;;;;;;;;;;;;
+BE;BE:A3;;Steep descent;Steile afdaling;Descente;Applies for the road section with steep incline. (Split the way at the ends of the steep section.)  Positive values indicate movement upward in the direction of the (osm) way and negative values indicate movement downwards in the direction of the way.;Geldt op het gedeelte van de way met sterke hellingsgraad (Splits de weg bij aanvang en einde.)  Positieve waardes betekenen dat de weg stijgt in de richting van de weg, negatieve dat het gaat om een afdaling.;Key:incline;;;;;;;incline;$val%;;;;;;;;;;;;;;
+BE;BE:A3;;Steep descent;Steile afdaling;Descente;Applies for the road section with steep incline. (Split the way at the ends of the steep section.)  Positive values indicate movement upward in the direction of the (osm) way and negative values indicate movement downwards in the direction of the way.;Geldt op het gedeelte van de way met sterke hellingsgraad (Splits de weg bij aanvang en einde.)  Positieve waardes betekenen dat de weg stijgt in de richting van de weg, negatieve dat het gaat om een afdaling.;Key:incline;;;;;;;;;;textfield;max. incline;Maximaal dalingspercentage;int;val;-15;%;3;;;;;
+BE;BE:A5;;Steep ascent;Steile helling;;Applies for the road section with steep incline. (Split the way at the ends of the steep section.)  Positive values indicate movement upward in the direction of the (osm) way and negative values indicate movement downwards in the direction of the way.;Geldt op het gedeelte van de way met sterke hellingsgraad (Splits de weg bij aanvang en einde.)  Positieve waardes betekenen dat de weg stijgt in de richting van de weg, negatieve dat het gaat om een afdaling.;Key:incline;;;;;;;incline;$val%;;;;;;;;;;;;;;
+BE;BE:A5;;Steep ascent;Steile helling;;Applies for the road section with steep incline. (Split the way at the ends of the steep section.)  Positive values indicate movement upward in the direction of the (osm) way and negative values indicate movement downwards in the direction of the way.;Geldt op het gedeelte van de way met sterke hellingsgraad (Splits de weg bij aanvang en einde.)  Positieve waardes betekenen dat de weg stijgt in de richting van de weg, negatieve dat het gaat om een afdaling.;Key:incline;;;;;;;hazard;steep_incline;;;;;;;;;;;;;;
+BE;BE:A5;;Steep ascent;Steile helling;;Applies for the road section with steep incline. (Split the way at the ends of the steep section.)  Positive values indicate movement upward in the direction of the (osm) way and negative values indicate movement downwards in the direction of the way.;Geldt op het gedeelte van de way met sterke hellingsgraad (Splits de weg bij aanvang en einde.)  Positieve waardes betekenen dat de weg stijgt in de richting van de weg, negatieve dat het gaat om een afdaling.;Key:incline;;;;;;;;;;textfield;max. incline;Maximaal stijgingspercentage;int;val;15;%;3;;;;;
+BE;BE:A7a;;Road narrows;Weg versmalt;;;;Key:traffic_calming;;;;;;;traffic_calming;choker;;;;;;;;;;;;;;
+BE;BE:A7b;no;Road narrows right;Weg versmalt rechts;;;;Key:traffic_calming;;;;;;;traffic_calming;choker;;;;;;;;;;;;;;
+BE;BE:A7c;no;Road narrows left;Weg versmalt links;;;;Key:traffic_calming;;;;;;;traffic_calming;choker;;;;;;;;;;;;;;
+BE;BE:A9;no;Bridge which can open and close;Beweegbare brug;;Select a type. Choose from: swing, lift, bascule, drawbridge, transporter;;Key:bridge:movable;;;;;;;bridge;movable;;;;;;;;;;;;;;
+BE;BE:A9;no;Bridge which can open and close;Beweegbare brug;;Select a type. Choose from: swing, lift, bascule, drawbridge, transporter;;Key:bridge:movable;;;;;;;bridge:movable;$val;;;;;;;;;;;;;;
+BE;BE:A9;no;Bridge which can open and close;Beweegbare brug;;Select a type. Choose from: swing, lift, bascule, drawbridge, transporter;;Key:bridge:movable;;;;;;;;;;combo;;;;val;bascule;;12;yes;Type;Type beweegbare brug;swing, lift, bascule, drawbridge, transporter;
+BE;BE:A11;;Quay;Uitweg op een kaai of oever;;;;Key:Proposed_features/hazard;;;;;;;;;;;;;;;;;;;;;;
+BE;BE:A13;;Bumps on road, but not the traffic_calming kind;Overdwarse uitholling of ezelsrug, niet voor verkeersdrempel;;;;Key:Proposed_features/hazard;;;;;;;;;;;;;;;;;;;;;;
+BE;BE:A14;;Speed bump;Verhoogde inrichting(en), verkeersdrempel;;;;Key:traffic_calming;;;;;;;traffic_calming;bump;;;;;;;;;;;;;;
+BE;BE:A15;;Slippery road;Glad wegdek;;;;Key:Proposed_features/hazard;;;;;;;;;;;;;;;;;;;;;;BE:Type_III_nl
+BE;BE:A15;;Slippery road;Glad wegdek;;;;Key:Proposed_features/hazard;;;;;;;;;;;;;;;;;;;;;;BE:A15a
+BE;BE:A17;no;Loose chippings;Kiezelprojectie;;;;;;;;;;;;;;;;;;;;;;;;;;
+BE;BE:A19;no;Falling rocks;Vallende stenen;;;;Key:Proposed_features/hazard;;;;;;;hazard;rock_slide;;;;;;;;;;;;;;
+BE;BE:A21;;Pedestrian crossing;Oversteekplaats voor voetgangers;;;;;;;;;;;highway;crossing;;;;;;;;;;;;;;
+BE;BE:A23;no;School children crossing the way near school;Schoolomgeving;;;;;;;;;;;hazard;school_zone;;;;;;;;;;;;;;
+BE;BE:A25;;Bicycle crossing;Oversteekplaats voor fietsers;;;;;;;;;;;highway;crossing;;;;;;;;;;;;;;
+BE;BE:A25;;Bicycle crossing;Oversteekplaats voor fietsers;;;;;;;;;;;bicycle;yes;;;;;;;;;;;;;;
+BE;BE:A27;no;Wildlife;Overstekend wild;;;;;;;;;;;hazard;deer;;;;;;;;;;;;;;
+BE;BE:A29;no;Cattle;Loslopend vee;;;;;;;;;;;hazard;cattle;;;;;;;;;;;;;;
+BE;BE:A31;no;Roadworks;Wegenwerken;;;;;;;;;;;hazard;roadworks;;;;;;;;;;;;;;
+BE;BE:A33;;Traffic lights;Verkeerslichten;;;;;;;;;;;highway;traffic_signals;;;;;;;;;;;;;;
+BE;BE:A35;no;Low flying airplanes;Laagvliegende vliegtuigen;;;;;;;;;;;hazard;low-flying aircraft;;;;;;;;;;;;;;
+BE;BE:A37;no;Crosswinds;Zijwind;;;;;;;;;;;hazard;crosswinds;;;;;;;;;;;;;;
+BE;BE:A39;;Bidirectional traffic;Verkeer in 2 richtingen;;;;;;;;;;;oneway;no;;;;;;;;;;;;;;
+BE;BE:A41;no;Railroad crossing;Onbewaakte spoorwegovergang;;;;;;;;;;;railway;level_crossing;;;;;;;;;;;;;;
+BE;BE:A43;no;Railroad crossing;Onbewaakte spoorwegovergang;;;;;;;;;;;railway;level_crossing;;;;;;;;;;;;;;
+BE;BE:A45;no;Railroad crossing 1 track;Bewaakte spoorwegovergang 1 spoor;;;;;;;;;;;railway;level_crossing;;;;;;;;;;;;;;
+BE;BE:A47;;Railroad crossing multiple tracks;Bewaakte spoorwegovergang meerdere sporen;;;;;;;;;;;railway;level_crossing;;;;;;;;;;;;;;
+BE;BE:A49;;Tram rails crossing;Tramrails;;;;;;;;;;;railway;level_crossing;;;;;;;;;;;;;;
+BE;BE:A51;no;General danger;Gevaar;;;;;;;;;;;hazard;undefined;;;;;;;;;;;;;;
+BE;BE:B0;;Priority on turning main road;Voorrang op afdraaiende hoofdweg;;;;Key:give_way;;;;;;;highway;give_way;;;;;;;;;;;;;;
+BE;BE:B1;;Give way;Voorrang verlenen;;;;Key:give_way;;;;;;;highway;give_way;;;;;;;;;;;;;;
+BE;BE:B1;;Give way;Voorrang verlenen;;;;Key:give_way;;;;;;;;;;;;;;;;;;;;;;BE:M1
+BE;BE:B1;;Give way;Voorrang verlenen;;;;Key:give_way;;;;;;;;;;;;;;;;;;;;;;BE:M8
+BE;BE:B1;;Give way;Voorrang verlenen;;;;Key:give_way;;;;;;;;;;;;;;;;;;;;;;BE:Type_Ia
+BE;BE:B1;;Give way;Voorrang verlenen;;;;Key:give_way;;;;;;;;;;;;;;;;;;;;;;BE:Type_Ib
+BE;BE:B3;no;Give way;Voorrang verlenen verderop;;;;Key:give_way;;;;;;;highway;give_way;;;;;;;;;;;;;;
+BE;BE:B3;no;Give way;Voorrang verlenen verderop;;;;Key:give_way;;;;;;;distance_ahead;$val;;;;;;;;;;;;;;
+BE;BE:B3;no;Give way;Voorrang verlenen verderop;;;;Key:give_way;;;;;;;;;;textfield;;;;val;50;m;3;;;;;
+BE;BE:B5;;Stop sign;Stopbord;;;;Key:stop;;;;;;;highway;stop;;;;;;;;;;;;;;
+BE;BE:B5;;Stop sign;Stopbord;;;;Key:stop;;;;;;;;;;;;;;;;;;;;;;BE:M1
+BE;BE:B5;;Stop sign;Stopbord;;;;Key:stop;;;;;;;;;;;;;;;;;;;;;;BE:M8
+BE;BE:B7;no;Give way;Stopbord verderop;;;;Key:stop;;;;;;;highway;stop;;;;;;;;;;;;;;
+BE;BE:B7;no;Give way;Stopbord verderop;;;;Key:stop;;;;;;;distance_ahead;$val;;;;;;;;;;;;;;
+BE;BE:B7;no;Give way;Stopbord verderop;;;;Key:stop;;;;;;;;;;textfield;;;;val;250;m;3;;;;;
+BE;BE:B9;;Priority road;Voorrangsweg;;;;Key:priority_road;;;;;;;priority_road;designated;;;;;;;;;;;;;;
+BE;BE:B11;;Priority road ends;Einde voorrangsweg;;;;Key:priority_road;;;;;;;priority_road;end;;;;;;;;;;;;;;
+BE;BE:B13;no;Priority road ends in x m;Einde voorrangsweg op x m;;;;Key:priority_road;BE:B13[$val];;;;;;priority_road;end;;;;;;;;;;;;;;
+BE;BE:B13;no;Priority road ends in x m;Einde voorrangsweg op x m;;;;Key:priority_road;BE:B13[$val];;;;;;distance_ahead;$val;;;;;;;;;;;;;;
+BE;BE:B13;no;Priority road ends in x m;Einde voorrangsweg op x m;;;;Key:priority_road;BE:B13[$val];;;;;;;;;textfield;;;;val;250;m;3;;;;;
+BE;BE:C1;;One-way street;Eénrichtingsverkeer;Sens unique;;;Key:oneway;;;;;;;oneway;yes;;;;;;;;;;;;;;
+BE;BE:C1;;One-way street;Eénrichtingsverkeer;Sens unique;;;Key:oneway;;;;;;;;;;;;;;;;;;;;;;BE:M2_nl
+BE;BE:C1;;One-way street;Eénrichtingsverkeer;Sens unique;;;Key:oneway;;;;;;;;;;;;;;;;;;;;;;BE:M2_fr
+BE;BE:C1;;One-way street;Eénrichtingsverkeer;Sens unique;;;Key:oneway;;;;;;;;;;;;;;;;;;;;;;BE:M3_nl
+BE;BE:C1;;One-way street;Eénrichtingsverkeer;Sens unique;;;Key:oneway;;;;;;;;;;;;;;;;;;;;;;BE:M3_fr
+BE;BE:C1;;One-way street;Eénrichtingsverkeer;Sens unique;;;Key:oneway;;;;;;;;;;;;;;;;;;;;;;BE:Type_IV
+BE;BE:C3;;All vehicles prohibited;Verboden doorgang voor alle voertuigen;;;;;;;;;;;vehicle;no;mode;;;;;;;;;;;;;
+BE;BE:C3;;All vehicles prohibited;Verboden doorgang voor alle voertuigen;;;;;;;;;;;;;;;;;;;;;;;;;;BE:M2_nl
+BE;BE:C3;;All vehicles prohibited;Verboden doorgang voor alle voertuigen;;;;;;;;;;;;;;;;;;;;;;;;;;BE:M2_fr
+BE;BE:C3;;All vehicles prohibited;Verboden doorgang voor alle voertuigen;;;;;;;;;;;;;;;;;;;;;;;;;;BE:M3_nl
+BE;BE:C3;;All vehicles prohibited;Verboden doorgang voor alle voertuigen;;;;;;;;;;;;;;;;;;;;;;;;;;BE:M3_fr
+BE;BE:C3;;All vehicles prohibited;Verboden doorgang voor alle voertuigen;;;;;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C5;;Motorcars prohibited;Verboden voor gemotoriseerde voertuigen met meer dan 2 wielen;;;;Key:motorcar;;;;;;;vehicle;no;mode;;;;;;;;;;;;;
+BE;BE:C5;;Motorcars prohibited;Verboden voor gemotoriseerde voertuigen met meer dan 2 wielen;;;;Key:motorcar;;;;;;;;;;;;;;;;;;;;;;BE:M2_nl
+BE;BE:C5;;Motorcars prohibited;Verboden voor gemotoriseerde voertuigen met meer dan 2 wielen;;;;Key:motorcar;;;;;;;;;;;;;;;;;;;;;;BE:M2_fr
+BE;BE:C5;;Motorcars prohibited;Verboden voor gemotoriseerde voertuigen met meer dan 2 wielen;;;;Key:motorcar;;;;;;;;;;;;;;;;;;;;;;BE:M3_nl
+BE;BE:C5;;Motorcars prohibited;Verboden voor gemotoriseerde voertuigen met meer dan 2 wielen;;;;Key:motorcar;;;;;;;;;;;;;;;;;;;;;;BE:M3_fr
+BE;BE:C5;;Motorcars prohibited;Verboden voor gemotoriseerde voertuigen met meer dan 2 wielen;;;;Key:motorcar;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C5-C7;;Motorcars and motorcycles prohibited;Verboden voor gemotoriseerde voertuigen;;;;Key:motorcar;;;;;;;vehicle;no;mode;;;;;;;;;;;;;
+BE;BE:C5-C7;;Motorcars and motorcycles prohibited;Verboden voor gemotoriseerde voertuigen;;;;Key:motorcar;;;;;;;motorcycle;no;mode;;;;;;;;;;;;;
+BE;BE:C5-C7;;Motorcars and motorcycles prohibited;Verboden voor gemotoriseerde voertuigen;;;;Key:motorcar;;;;;;;;;;;;;;;;;;;;;;BE:M2_nl
+BE;BE:C5-C7;;Motorcars and motorcycles prohibited;Verboden voor gemotoriseerde voertuigen;;;;Key:motorcar;;;;;;;;;;;;;;;;;;;;;;BE:M2_fr
+BE;BE:C5-C7;;Motorcars and motorcycles prohibited;Verboden voor gemotoriseerde voertuigen;;;;Key:motorcar;;;;;;;;;;;;;;;;;;;;;;BE:M3_nl
+BE;BE:C5-C7;;Motorcars and motorcycles prohibited;Verboden voor gemotoriseerde voertuigen;;;;Key:motorcar;;;;;;;;;;;;;;;;;;;;;;BE:M3_fr
+BE;BE:C5-C7;;Motorcars and motorcycles prohibited;Verboden voor gemotoriseerde voertuigen;;;;Key:motorcar;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C5-C7-C9;;Motorcars and motorcycles prohibited;Verboden voor alle gemotoriseerde voertuigen;;;;Key:motorcar;;;;;;;vehicle;no;mode;;;;;;;;;;;;;
+BE;BE:C5-C7-C9;;Motorcars and motorcycles prohibited;Verboden voor alle gemotoriseerde voertuigen;;;;Key:motorcar;;;;;;;motorcycle;no;mode;;;;;;;;;;;;;
+BE;BE:C5-C7-C9;;Motorcars and motorcycles prohibited;Verboden voor alle gemotoriseerde voertuigen;;;;Key:motorcar;;;;;;;moped;no;mode;;;;;;;;;;;;;
+BE;BE:C5-C7-C9;;Motorcars and motorcycles prohibited;Verboden voor alle gemotoriseerde voertuigen;;;;Key:motorcar;;;;;;;;;;;;;;;;;;;;;;BE:M2_nl
+BE;BE:C5-C7-C9;;Motorcars and motorcycles prohibited;Verboden voor alle gemotoriseerde voertuigen;;;;Key:motorcar;;;;;;;;;;;;;;;;;;;;;;BE:M2_fr
+BE;BE:C5-C7-C9;;Motorcars and motorcycles prohibited;Verboden voor alle gemotoriseerde voertuigen;;;;Key:motorcar;;;;;;;;;;;;;;;;;;;;;;BE:M3_nl
+BE;BE:C5-C7-C9;;Motorcars and motorcycles prohibited;Verboden voor alle gemotoriseerde voertuigen;;;;Key:motorcar;;;;;;;;;;;;;;;;;;;;;;BE:M3_fr
+BE;BE:C5-C7-C9;;Motorcars and motorcycles prohibited;Verboden voor alle gemotoriseerde voertuigen;;;;Key:motorcar;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C6;no;Quads prohibited;Verboden voor quads;;;;;;;;;;;atv;no;mode;;;;;;;;;;;;;
+BE;BE:C7;;Motorcycles prohibited;Verboden voor moto's;;;;;;;;;;;motorcycle;no;mode;;;;;;;;;;;;;
+BE;BE:C7;;Motorcycles prohibited;Verboden voor moto's;;;;;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C9;;Mopeds prohibited;Verboden voor motorfietsen;;;;;;;;;;;moped;no;mode;;;;;;;;;;;;;
+BE;BE:C11;;Bicycles prohibited;Verboden voor fietsers;;;;Key:bicycle;;;;;;;bicycle;no;mode;;;;;;;;;;;;;
+BE;BE:C11;;Bicycles prohibited;Verboden voor fietsers;;;;Key:bicycle;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C11-C9;;Bicycles and mopeds prohibited;Verboden voor (motor)fietsen;;;;Key:bicycle;;;;;;;moped;no;mode;;;;;;;;;;;;;
+BE;BE:C11-C9;;Bicycles and mopeds prohibited;Verboden voor (motor)fietsen;;;;Key:bicycle;;;;;;;bicycle;no;mode;;;;;;;;;;;;;
+BE;BE:C11-C9;;Bicycles and mopeds prohibited;Verboden voor (motor)fietsen;;;;Key:bicycle;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C13;no;Push carts prohibited;Verboden voor stootkarren;;;;;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C15;;Horses prohibited;Verboden voor ruiters (ook paarden aan de hand);;;;;;;;;;;horse;no;mode;;;;;;;;;;;;;
+BE;BE:C15;;Horses prohibited;Verboden voor ruiters (ook paarden aan de hand);;;;;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C17;no;Horse carriages prohibited;Verboden voor paardrijtuigen;;;;;;;;;;;horse;no;mode;;;;;;;;;;;;;
+BE;BE:C17;no;Horse carriages prohibited;Verboden voor paardrijtuigen;;;;;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C19;;Pedestrians prohibited;Verboden voor voetgangers;;;;;;;;;;;foot;no;mode;;;;;;;;;;;;;
+BE;BE:C19;;Pedestrians prohibited;Verboden voor voetgangers;;;;;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C21;;Weight limit;Maximaal toegelaten brutogewicht;;;;Key:maxweight;;;;;;;maxweight;$val;;;;;;;;;;;;;;
+BE;BE:C21;;Weight limit;Maximaal toegelaten brutogewicht;;;;Key:maxweight;;;;;;;;;;textfield;;;;val;5.5;t;3;;;;;
+BE;BE:C21;;Weight limit;Maximaal toegelaten brutogewicht;;;;Key:maxweight;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C23;;Heavy goods vehicles prohibited;Vrachtwagens verboden;;;;Key:hgv;;;;;;;hgv;no;mode;;;;;;;;;;;;;
+BE;BE:C23;;Heavy goods vehicles prohibited;Vrachtwagens verboden;;;;Key:hgv;;;;;;;goods;no;mode;;;;;;;;;;;;;
+BE;BE:C23;;Heavy goods vehicles prohibited;Vrachtwagens verboden;;;;Key:hgv;;;;;;;;;;;;;;;;;;;;;;BE:Type_Ia
+BE;BE:C23;;Heavy goods vehicles prohibited;Vrachtwagens verboden;;;;Key:hgv;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIa
+BE;BE:C23;;Heavy goods vehicles prohibited;Vrachtwagens verboden;;;;Key:hgv;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C24a;;Hazardous cargo prohibited;Voertuigen die gevaarlijke goederen vervoeren verboden;;;;Key:hazmat;;;;;;;hazmat;no;mode;;;;;;;;;;;;;
+BE;BE:C24a;;Hazardous cargo prohibited;Voertuigen die gevaarlijke goederen vervoeren verboden;;;;Key:hazmat;;;;;;;;;;;;;;;;;;;;;;BE:Type_Ia
+BE;BE:C24a;;Hazardous cargo prohibited;Voertuigen die gevaarlijke goederen vervoeren verboden;;;;Key:hazmat;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C24b;;Hazardous explosive cargo prohibited;Verboden toegang voor bestuurders van voertuigen die gevaarlijke ontvlambare of ontplofbare stoffen vervoeren;;;;;;;;;;;access:explosives;no;mode;;;;;;;;;;;;;
+BE;BE:C24b;;Hazardous explosive cargo prohibited;Verboden toegang voor bestuurders van voertuigen die gevaarlijke ontvlambare of ontplofbare stoffen vervoeren;;;;;;;;;;;;;;;;;;;;;;;;;;BE:Type_Ia
+BE;BE:C24b;;Hazardous explosive cargo prohibited;Verboden toegang voor bestuurders van voertuigen die gevaarlijke ontvlambare of ontplofbare stoffen vervoeren;;;;;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C24c;;Water polluting cargo prohibited;Verbod voor cargo die gevaar oplevert voor het grondwater;;;;Key:hazmat;;BE:Key:hazmat;;;;;hazmat:water;no;mode;;;;;;;;;;;;;
+BE;BE:C24c;;Water polluting cargo prohibited;Verbod voor cargo die gevaar oplevert voor het grondwater;;;;Key:hazmat;;BE:Key:hazmat;;;;;;;;;;;;;;;;;;;;BE:Type_Ia
+BE;BE:C24c;;Water polluting cargo prohibited;Verbod voor cargo die gevaar oplevert voor het grondwater;;;;Key:hazmat;;BE:Key:hazmat;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:Hazmat_ADR_Tunnel[$val];;Hazardous materials of ADR Class A B C D E forbidden in tunnel;Verbod voor gevaarlijke cargo van ADR-klasse A B C D E in tunnel;;;;Key:hazmat;;BE:Key:hazmat;BE:Hazmat_ADR_Tunnel;;;;hazmat:$val;no;mode;;;;;;;;;;;;;
+BE;BE:Hazmat_ADR_Tunnel[$val];;Hazardous materials of ADR Class A B C D E forbidden in tunnel;Verbod voor gevaarlijke cargo van ADR-klasse A B C D E in tunnel;;;;Key:hazmat;;BE:Key:hazmat;BE:Hazmat_ADR_Tunnel;;;;;;;textfield;;;;val;E;;5;;;;;
+BE;BE:Hazmat_ADR_Tunnel[$val];;Hazardous materials of ADR Class A B C D E forbidden in tunnel;Verbod voor gevaarlijke cargo van ADR-klasse A B C D E in tunnel;;;;Key:hazmat;;BE:Key:hazmat;BE:Hazmat_ADR_Tunnel;;;;;;;;;;;;;;;;;;;BE:Type_Ia
+BE;BE:C25;;Length limit;Maximaal toegelaten lengte;;;;Key:maxlength;;;;;;;maxlength;$val;;;;;;;;;;;;;;
+BE;BE:C25;;Length limit;Maximaal toegelaten lengte;;;;Key:maxlength;;;;;;;;;;textfield;;;;val;10;m;3;;;;;
+BE;BE:C25;;Length limit;Maximaal toegelaten lengte;;;;Key:maxlength;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C25;;Length limit;Maximaal toegelaten lengte;;;;Key:maxlength;;;;;;;;;;;;;;;;;;;;;;BE:Type_Ia
+BE;BE:C27;;Width limit;Maximaal toegelaten breedte;;;;Key:maxwidth;;;;;;;maxwidth;$val;;;;;;;;;;;;;;
+BE;BE:C27;;Width limit;Maximaal toegelaten breedte;;;;Key:maxwidth;;;;;;;;;;textfield;;;;val;2;m;3;;;;;
+BE;BE:C27;;Width limit;Maximaal toegelaten breedte;;;;Key:maxwidth;;;;;;;;;;;;;;;;;;;;;;BE:Type_Ia
+BE;BE:C27;;Width limit;Maximaal toegelaten breedte;;;;Key:maxwidth;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C29;;Height limit;Maximaal toegelaten hoogte;;;;Key:maxheight;;;;;;;maxheight;$val;;;;;;;;;;;;;;
+BE;BE:C29;;Height limit;Maximaal toegelaten hoogte;;;;Key:maxheight;;;;;;;;;;textfield;;;;val;4.2;m;3;;;;;
+BE;BE:C29;;Height limit;Maximaal toegelaten hoogte;;;;Key:maxheight;;;;;;;;;;;;;;;;;;;;;;BE:Type_Ia
+BE;BE:C29;;Height limit;Maximaal toegelaten hoogte;;;;Key:maxheight;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C31d;;Forbidden to turn right;Verboden af te slaan naar rechts;;;;Tag:restriction;;;;;;;type;restriction;;;;;;;;;;;;;;
+BE;BE:C31d;;Forbidden to turn right;Verboden af te slaan naar rechts;;;;Tag:restriction;;;;;;;restriction;no_right_turn;;;;;;;;;;;;;;
+BE;BE:C31d;;Forbidden to turn right;Verboden af te slaan naar rechts;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_nl
+BE;BE:C31d;;Forbidden to turn right;Verboden af te slaan naar rechts;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_fr
+BE;BE:C31d;;Forbidden to turn right;Verboden af te slaan naar rechts;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_nl
+BE;BE:C31d;;Forbidden to turn right;Verboden af te slaan naar rechts;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_fr
+BE;BE:C31g;;Forbidden to turn left;Verboden af te slaan naar links;;;;Tag:restriction;;;;;;;type;restriction;;;;;;;;;;;;;;
+BE;BE:C31g;;Forbidden to turn left;Verboden af te slaan naar links;;;;Tag:restriction;;;;;;;restriction;no_left_turn;;;;;;;;;;;;;;
+BE;BE:C31g;;Forbidden to turn left;Verboden af te slaan naar links;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_nl
+BE;BE:C31g;;Forbidden to turn left;Verboden af te slaan naar links;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_fr
+BE;BE:C31g;;Forbidden to turn left;Verboden af te slaan naar links;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_nl
+BE;BE:C31g;;Forbidden to turn left;Verboden af te slaan naar links;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_fr
+BE;BE:C33;;U-turn not allowed;Verboden terug te keren;;;;Tag:restriction;;;;;;;type;restriction;;;;;;;;;;;;;;
+BE;BE:C33;;U-turn not allowed;Verboden terug te keren;;;;Tag:restriction;;;;;;;restriction;no_u_turn;;;;;;;;;;;;;;
+BE;BE:C35;;No overtaking;Voorbijsteken verboden;;;;Key:overtaking;;;;;;;overtaking;no;;;;;;;;;;;;;;
+BE;BE:C35;;No overtaking;Voorbijsteken verboden;;;;Key:overtaking;;;;;;;;;;;;;;;;;;;;;;BE:Type_II
+BE;BE:C35;;No overtaking;Voorbijsteken verboden;;;;Key:overtaking;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C37;;End of overtaking prohibition;Einde verbod op voorbijsteken;;;;Key:overtaking;;;;;;;overtaking;yes;;;;;;;;;;;;;;
+BE;BE:C37;;End of overtaking prohibition;Einde verbod op voorbijsteken;;;;Key:overtaking;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C39;;No overtaking for trucks;Voorbijsteken verboden voor vrachtwagens +3.5t;;;;Key:overtaking;;;;;;;overtaking:hgv;no;;;;;;;;;;;;;;
+BE;BE:C39;;No overtaking for trucks;Voorbijsteken verboden voor vrachtwagens +3.5t;;;;Key:overtaking;;;;;;;;;;;;;;;;;;;;;;BE:Type_II
+BE;BE:C39;;No overtaking for trucks;Voorbijsteken verboden voor vrachtwagens +3.5t;;;;Key:overtaking;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C41;;End of overtaking prohibition for trucks;Einde verbod op voorbijsteken voor vrachtwagens +3.5t;;;;Key:overtaking;;;;;;;overtaking:hgv;yes;;;;;;;;;;;;;;
+BE;BE:C41;;End of overtaking prohibition for trucks;Einde verbod op voorbijsteken voor vrachtwagens +3.5t;;;;Key:overtaking;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C43;;Speed limit;Maximaal toegelaten snelheid tot aan volgende kruising;;Choose from: 5, 10, 15, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120;;Key:maxspeed;;;;;;;maxspeed;$val;restriction;;;;;;;;;;;;;
+BE;BE:C43;;Speed limit;Maximaal toegelaten snelheid tot aan volgende kruising;;Choose from: 5, 10, 15, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120;;Key:maxspeed;;;;;;;;;;combo;;;int;val;50;km/h;3;yes;Speed limit;Maximaal toegelaten snelheid;5, 10, 15, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120;
+BE;BE:C43;;Speed limit;Maximaal toegelaten snelheid tot aan volgende kruising;;Choose from: 5, 10, 15, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120;;Key:maxspeed;;;;;;;;;;;;;;;;;;;;;;BE:Type_VI_nl
+BE;BE:C45;;End of speed limit;Toegelaten snelheid wordt weer standaard;;Choose from: 5, 10, 15, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120;;Key:maxspeed;;;;;;;maxspeed;$val;;;;;;;;;;;;;;
+BE;BE:C45;;End of speed limit;Toegelaten snelheid wordt weer standaard;;Choose from: 5, 10, 15, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120;;Key:maxspeed;;;;;;;;;;combo;;;int;val;50;km/h;3;yes;speed-limit;Maximaal toegelaten snelheid;5, 10, 15, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120;
+BE;BE:C46;;All limitations suspended;Alle beperkingen vervallen;;;;;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C47_nl;;Toll booth. No driving through without stopping;Grensovergang. Niet voorbijrijden zonder te stoppen;;;;Key:barrier=toll_booth;;;;;;;barrier;toll_booth;;;;;;;;;;;;;;
+BE;BE:C47_nl;;Toll booth. No driving through without stopping;Grensovergang. Niet voorbijrijden zonder te stoppen;;;;Key:barrier=toll_booth;;;;;;;;;;;;;;;;;;;;;;BE:Type_Ia
+BE;BE:C47_nl;;Toll booth. No driving through without stopping;Grensovergang. Niet voorbijrijden zonder te stoppen;;;;Key:barrier=toll_booth;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C47_fr;;Toll booth. No driving through without stopping;Grensovergang. Niet voorbijrijden zonder te stoppen;;;;Key:barrier=toll_booth;;;;;;;barrier;toll_booth;;;;;;;;;;;;;;
+BE;BE:C47_fr;;Toll booth. No driving through without stopping;Grensovergang. Niet voorbijrijden zonder te stoppen;;;;Key:barrier=toll_booth;;;;;;;;;;;;;;;;;;;;;;BE:Type_Ia
+BE;BE:C47_fr;;Toll booth. No driving through without stopping;Grensovergang. Niet voorbijrijden zonder te stoppen;;;;Key:barrier=toll_booth;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C48;;Cruise control prohibited;Gebruik van cruise control verboden;;;;;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:C49;;End of cruise control prohibition;Einde verbod gebruik van cruise control;;;;;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:D01a;;Mandatory to turn into street on the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;type;restriction;;;;;;;;;;;;;;
+BE;BE:D01a;;Mandatory to turn into street on the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;restriction;only_left_turn;;;;;;;;;;;;;;
+BE;BE:D01a;;Mandatory to turn into street on the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_nl
+BE;BE:D01a;;Mandatory to turn into street on the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_fr
+BE;BE:D01a;;Mandatory to turn into street on the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_nl
+BE;BE:D01a;;Mandatory to turn into street on the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_fr
+BE;BE:D01b;;Mandatory to turn into street on the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;type;restriction;;;;;;;;;;;;;;
+BE;BE:D01b;;Mandatory to turn into street on the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;restriction;only_left_turn;;;;;;;;;;;;;;
+BE;BE:D01b;;Mandatory to turn into street on the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_nl
+BE;BE:D01b;;Mandatory to turn into street on the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_fr
+BE;BE:D01b;;Mandatory to turn into street on the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_nl
+BE;BE:D01b;;Mandatory to turn into street on the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_fr
+BE;BE:D01c;;Mandatory to continue into the street straight on;Verplicht straat rechtdoor volgen;;;;Tag:restriction;;;;;;;type;restriction;;;;;;;;;;;;;;
+BE;BE:D01c;;Mandatory to continue into the street straight on;Verplicht straat rechtdoor volgen;;;;Tag:restriction;;;;;;;restriction;only_straight_on;;;;;;;;;;;;;;
+BE;BE:D01c;;Mandatory to continue into the street straight on;Verplicht straat rechtdoor volgen;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_nl
+BE;BE:D01c;;Mandatory to continue into the street straight on;Verplicht straat rechtdoor volgen;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_fr
+BE;BE:D01c;;Mandatory to continue into the street straight on;Verplicht straat rechtdoor volgen;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_nl
+BE;BE:D01c;;Mandatory to continue into the street straight on;Verplicht straat rechtdoor volgen;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_fr
+BE;BE:D01d;;Mandatory to follow arrow to the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;type;restriction;;;;;;;;;;;;;;
+BE;BE:D01d;;Mandatory to follow arrow to the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;restriction;only_left_turn;;;;;;;;;;;;;;
+BE;BE:D01d;;Mandatory to follow arrow to the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_nl
+BE;BE:D01d;;Mandatory to follow arrow to the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_fr
+BE;BE:D01d;;Mandatory to follow arrow to the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_nl
+BE;BE:D01d;;Mandatory to follow arrow to the left;Verplicht straat links inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_fr
+BE;BE:D02a;;Mandatory to turn into street on the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;type;restriction;;;;;;;;;;;;;;
+BE;BE:D02a;;Mandatory to turn into street on the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;restriction;only_right_turn;;;;;;;;;;;;;;
+BE;BE:D02a;;Mandatory to turn into street on the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_nl
+BE;BE:D02a;;Mandatory to turn into street on the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_fr
+BE;BE:D02a;;Mandatory to turn into street on the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_nl
+BE;BE:D02a;;Mandatory to turn into street on the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_fr
+BE;BE:D02b;;Mandatory to turn into street on the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;type;restriction;;;;;;;;;;;;;;
+BE;BE:D02b;;Mandatory to turn into street on the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;restriction;only_right_turn;;;;;;;;;;;;;;
+BE;BE:D02b;;Mandatory to turn into street on the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_nl
+BE;BE:D02b;;Mandatory to turn into street on the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_fr
+BE;BE:D02b;;Mandatory to turn into street on the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_nl
+BE;BE:D02b;;Mandatory to turn into street on the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_fr
+BE;BE:D02c;;Mandatory to follow arrow to the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;type;restriction;;;;;;;;;;;;;;
+BE;BE:D02c;;Mandatory to follow arrow to the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;restriction;only_right_turn;;;;;;;;;;;;;;
+BE;BE:D02c;;Mandatory to follow arrow to the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_nl
+BE;BE:D02c;;Mandatory to follow arrow to the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M2_fr
+BE;BE:D02c;;Mandatory to follow arrow to the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_nl
+BE;BE:D02c;;Mandatory to follow arrow to the right;Verplicht straat rechts inslaan;;;;Tag:restriction;;;;;;;;;;;;;;;;;;;;;;BE:M3_fr
+BE;BE:D05;;Roundabout;Rond punt;Rond point;;;Tag:junction=roundabout;;;;;;;junction;roundabout;;;;;;;;;;;;;;
+BE;BE:D07;;Bicycle path;Verplicht fietspad;;;;;;;;;;;highway;path;;;;;;;;;;;;;;
+BE;BE:D07;;Bicycle path;Verplicht fietspad;;;;;;;;;;;bicycle;official;;;;;;;;;;;;;;
+BE;BE:D07;;Bicycle path;Verplicht fietspad;;;;;;;;;;;access;;mode;;;;;;;;;;;;;
+BE;BE:D07;;Bicycle path;Verplicht fietspad;;;;;;;;;;;;;;;;;;;;;;;;;;BE:M7
+BE;BE:D07;;Bicycle path;Verplicht fietspad;;;;;;;;;;;;;;;;;;;;;;;;;;BE:M6
+BE;BE:D09;;Split pedestrian and bicycle path;Gescheiden verplicht voet- en fietspad;;;;;;;;;;;highway;path;;;;;;;;;;;;;;
+BE;BE:D09;;Split pedestrian and bicycle path;Gescheiden verplicht voet- en fietspad;;;;;;;;;;;foot;official;;;;;;;;;;;;;;
+BE;BE:D09;;Split pedestrian and bicycle path;Gescheiden verplicht voet- en fietspad;;;;;;;;;;;bicycle;official;;;;;;;;;;;;;;
+BE;BE:D09;;Split pedestrian and bicycle path;Gescheiden verplicht voet- en fietspad;;;;;;;;;;;segregated;yes;;;;;;;;;;;;;;
+BE;BE:D09;;Split pedestrian and bicycle path;Gescheiden verplicht voet- en fietspad;;;;;;;;;;;access;;mode;;;;;;;;;;;;;
+BE;BE:D10;;Pedestrian and bicycle path;Gemeenschappelijk verplicht voet- en fietspad;;;;;;;;;;;highway;path;;;;;;;;;;;;;;
+BE;BE:D10;;Pedestrian and bicycle path;Gemeenschappelijk verplicht voet- en fietspad;;;;;;;;;;;foot;official;;;;;;;;;;;;;;
+BE;BE:D10;;Pedestrian and bicycle path;Gemeenschappelijk verplicht voet- en fietspad;;;;;;;;;;;bicycle;official;;;;;;;;;;;;;;
+BE;BE:D10;;Pedestrian and bicycle path;Gemeenschappelijk verplicht voet- en fietspad;;;;;;;;;;;access;;mode;;;;;;;;;;;;;
+BE;BE:D11;;Pedestrian path;Verplicht voetpad;;;;;;;;;;;highway;path;;;;;;;;;;;;;;
+BE;BE:D11;;Pedestrian path;Verplicht voetpad;;;;;;;;;;;foot;official;;;;;;;;;;;;;;
+BE;BE:D11;;Pedestrian path;Verplicht voetpad;;;;;;;;;;;access;;mode;;;;;;;;;;;;;
+BE;BE:D13;;Bridle path;Verplicht pad voor ruiters en koetsiers;;;;;;;;;;;highway;path;;;;;;;;;;;;;;
+BE;BE:D13;;Bridle path;Verplicht pad voor ruiters en koetsiers;;;;;;;;;;;horse;official;;;;;;;;;;;;;;
+BE;BE:D13;;Bridle path;Verplicht pad voor ruiters en koetsiers;;;;;;;;;;;access;;mode;;;;;;;;;;;;;
+BE;BE:E0a;;From this point on;Vanaf hier;;;;;;;;yes;;;;;;;;;;;;;;;;;;
+BE;BE:E0b;;Up to this point;Tot hier;;;;;;;;yes;;;;;;;;;;;;;;;;;;
+BE;BE:E0c[$val];;From this point till x m further;Vanaf hier tot x m verder;;Choose from: 5, 10, 15, 20;;;;;BE:E0c;yes;;;;;;combo;;;int;val;5;m;2;yes;Distance;De volgende;5, 10, 15, 20;
+BE;BE:E0d;;Continues before and after;Loopt door voor en na;;;;;;;;yes;;;;;;;;;;;;;;;;;;
+BE;BE:E1;;No Parking;;;Check and correct tags;;Key:parking;;;;;;;parking:lanes:right;no;;;;;;;;;;;;;;
+BE;BE:E1;;No Parking;;;Check and correct tags;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:M1
+BE;BE:E1;;No Parking;;;Check and correct tags;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:M8
+BE;BE:E1;;No Parking;;;Check and correct tags;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0a
+BE;BE:E1;;No Parking;;;Check and correct tags;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0b
+BE;BE:E1;;No Parking;;;Check and correct tags;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0c
+BE;BE:E1;;No Parking;;;Check and correct tags;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0d
+BE;BE:E1;;No Parking;;;Check and correct tags;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_hours
+BE;BE:E1;;No Parking;;;Check and correct tags;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_weekdays
+BE;BE:E1;;No Parking;;;Check and correct tags;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:E3;;No Halting;;;Check and correct tags;;Key:parking;;;;;;;parking:lanes:right;no;;;;;;;;;;;;;;
+BE;BE:E3;;No Halting;;;Check and correct tags;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0a
+BE;BE:E3;;No Halting;;;Check and correct tags;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0b
+BE;BE:E3;;No Halting;;;Check and correct tags;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0c
+BE;BE:E3;;No Halting;;;Check and correct tags;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0d
+BE;BE:E3;;No Halting;;;Check and correct tags;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:E5;;Parking from 1 till 15th of month;;;These signs go on the side with even housenumbers;;Key:parking;;;;;Beurtelings parkeren 1/15;;;;;;;;;;;;;;;;;BE:Type_VIIb
+BE;BE:E7;;Parking from 16 till 31th of month;;;These signs go on the side with odd housenumbers;;Key:parking;;;;;Beurtelings parkeren 16/31;;;;;;;;;;;;;;;;;BE:Type_VIIb
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;parking:lane:left right both;parallel diagonal perpendicular;;;;;;;;;;;;;;
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;parking:condition:left right both;free ticket disc residents customers private disabled charging;;;;;;;;;;;;;;
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:M1
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:M8
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0a
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0b
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0c
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0d
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_fee
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_hours
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_weekdays
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIb
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIb_except_for_residential_parking_permit
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIc
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIId
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VII_disabled
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VII_bewoners
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VII_parkeerkaart
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VII_autodelen
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VII_charging_station
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VII_charging_station_car
+BE;BE:E9a;;Parking;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:E9a_disabled;;Parking reserved for disabled;;;;;Key:parking;;;;;;;parking:lane:right;parallel diagonal perpendicular;;;;;;;;;;;;;;
+BE;BE:E9a_disabled;;Parking reserved for disabled;;;;;Key:parking;;;;;;;parking:condition:right;disabled;;;;;;;;;;;;;;
+BE;BE:E9a_disabled;;Parking reserved for disabled;;;;;Key:parking;;;;;;;amenity;parking;;;;;;;;;;;;;;
+BE;BE:E9a_disabled;;Parking reserved for disabled;;;;;Key:parking;;;;;;;access;no;;;;;;;;;;;;;;
+BE;BE:E9a_disabled;;Parking reserved for disabled;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0a
+BE;BE:E9a_disabled;;Parking reserved for disabled;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0b
+BE;BE:E9a_disabled;;Parking reserved for disabled;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0c
+BE;BE:E9a_disabled;;Parking reserved for disabled;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0d
+BE;BE:E9a_disabled;;Parking reserved for disabled;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_hours
+BE;BE:E9a_disabled;;Parking reserved for disabled;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_weekdays
+BE;BE:E9a_disc;;Parking with disc;;;;;Key:parking;;;;;;;parking:lane:right;parallel diagonal perpendicular;;;;;;;;;;;;;;
+BE;BE:E9a_disc;;Parking with disc;;;;;Key:parking;;;;;;;parking:condition:right;disc;;;;;;;;;;;;;;
+BE;BE:E9a_disc;;Parking with disc;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0a
+BE;BE:E9a_disc;;Parking with disc;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0b
+BE;BE:E9a_disc;;Parking with disc;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0c
+BE;BE:E9a_disc;;Parking with disc;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0d
+BE;BE:E9a_disc;;Parking with disc;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_hours
+BE;BE:E9a_disc;;Parking with disc;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_weekdays
+BE;BE:E9a_disc;;Parking with disc;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:E9b;;Parking for cars only;;;;;Key:parking;;;;;;;parking:lane:left right both;parallel diagonal perpendicular;;;;;;;;;;;;;;
+BE;BE:E9b;;Parking for cars only;;;;;Key:parking;;;;;;;parking:condition:left right both;free ticket disc residents customers private charging;;;;;;;;;;;;;;
+BE;BE:E9b;;Parking for cars only;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0a
+BE;BE:E9b;;Parking for cars only;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0b
+BE;BE:E9b;;Parking for cars only;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0c
+BE;BE:E9b;;Parking for cars only;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0d
+BE;BE:E9b;;Parking for cars only;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_hours
+BE;BE:E9b;;Parking for cars only;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_weekdays
+BE;BE:E9b;;Parking for cars only;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIb
+BE;BE:E9b;;Parking for cars only;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIb_except_for_residential_parking_permit
+BE;BE:E9b;;Parking for cars only;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIc
+BE;BE:E9b;;Parking for cars only;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIId
+BE;BE:E9b;;Parking for cars only;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VII_charging_station_car
+BE;BE:E9b;;Parking for cars only;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:E9c;;Parking only for trucks;;;;;Key:parking;;;;;;;parking:lane:left right both;parallel diagonal perpendicular;;;;;;;;;;;;;;
+BE;BE:E9c;;Parking only for trucks;;;;;Key:parking;;;;;;;parking:condition:left right both;free ticket disc residents customers private;;;;;;;;;;;;;;
+BE;BE:E9c;;Parking only for trucks;;;;;Key:parking;;;;;;;amenity;parking;;;;;;;;;;;;;;
+BE;BE:E9c;;Parking only for trucks;;;;;Key:parking;;;;;;;access;no;;;;;;;;;;;;;;
+BE;BE:E9c;;Parking only for trucks;;;;;Key:parking;;;;;;;hgv;yes;;;;;;;;;;;;;;
+BE;BE:E9c;;Parking only for trucks;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0a
+BE;BE:E9c;;Parking only for trucks;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0b
+BE;BE:E9c;;Parking only for trucks;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0c
+BE;BE:E9c;;Parking only for trucks;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0d
+BE;BE:E9c;;Parking only for trucks;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_hours
+BE;BE:E9c;;Parking only for trucks;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_weekdays
+BE;BE:E9c;;Parking only for trucks;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIc
+BE;BE:E9c;;Parking only for trucks;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:E9d;;Parking only for autocars;;;;;Key:parking;;;;;;;parking:lane:left right both;parallel diagonal perpendicular;;;;;;;;;;;;;;
+BE;BE:E9d;;Parking only for autocars;;;;;Key:parking;;;;;;;parking:condition:left right both;free ticket disc residents customers private;;;;;;;;;;;;;;
+BE;BE:E9d;;Parking only for autocars;;;;;Key:parking;;;;;;;amenity;parking;;;;;;;;;;;;;;
+BE;BE:E9d;;Parking only for autocars;;;;;Key:parking;;;;;;;access;no;;;;;;;;;;;;;;
+BE;BE:E9d;;Parking only for autocars;;;;;Key:parking;;;;;;;bus;yes;;;;;;;;;;;;;;
+BE;BE:E9d;;Parking only for autocars;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0a
+BE;BE:E9d;;Parking only for autocars;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0b
+BE;BE:E9d;;Parking only for autocars;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0c
+BE;BE:E9d;;Parking only for autocars;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0d
+BE;BE:E9d;;Parking only for autocars;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_hours
+BE;BE:E9d;;Parking only for autocars;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_weekdays
+BE;BE:E9d;;Parking only for autocars;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIc
+BE;BE:E9d;;Parking only for autocars;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:E9e;;Parking only next to the road;;;;;Key:parking;;;;;;;parking:lane:left right both;parallel;;;;;;;;;;;;;;
+BE;BE:E9e;;Parking only next to the road;;;;;Key:parking;;;;;;;parking:condition:left right both;free ticket disc residents customers private;;;;;;;;;;;;;;
+BE;BE:E9e;;Parking only next to the road;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0a
+BE;BE:E9e;;Parking only next to the road;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0b
+BE;BE:E9e;;Parking only next to the road;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0c
+BE;BE:E9e;;Parking only next to the road;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0d
+BE;BE:E9e;;Parking only next to the road;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_hours
+BE;BE:E9e;;Parking only next to the road;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_weekdays
+BE;BE:E9e;;Parking only next to the road;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIb
+BE;BE:E9e;;Parking only next to the road;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIb_except_for_residential_parking_permit
+BE;BE:E9e;;Parking only next to the road;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIc
+BE;BE:E9f;;Parking halfway on road and halfway next to it;;;;;Key:parking;;;;;;;parking:lane:left right both;parallel;;;;;;;;;;;;;;
+BE;BE:E9f;;Parking halfway on road and halfway next to it;;;;;Key:parking;;;;;;;parking:condition:left right both;free ticket disc residents customers private;;;;;;;;;;;;;;
+BE;BE:E9f;;Parking halfway on road and halfway next to it;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0a
+BE;BE:E9f;;Parking halfway on road and halfway next to it;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0b
+BE;BE:E9f;;Parking halfway on road and halfway next to it;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0c
+BE;BE:E9f;;Parking halfway on road and halfway next to it;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0d
+BE;BE:E9f;;Parking halfway on road and halfway next to it;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_hours
+BE;BE:E9f;;Parking halfway on road and halfway next to it;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_weekdays
+BE;BE:E9f;;Parking halfway on road and halfway next to it;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIb
+BE;BE:E9f;;Parking halfway on road and halfway next to it;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIb_except_for_residential_parking_permit
+BE;BE:E9f;;Parking halfway on road and halfway next to it;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIc
+BE;BE:E9g;;Parking forbidden on sidewalk;;;;;Key:parking;;;;;;;parking:lane:left right both;parallel;;;;;;;;;;;;;;
+BE;BE:E9g;;Parking forbidden on sidewalk;;;;;Key:parking;;;;;;;parking:condition:left right both;free ticket disc residents customers private;;;;;;;;;;;;;;
+BE;BE:E9g;;Parking forbidden on sidewalk;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0a
+BE;BE:E9g;;Parking forbidden on sidewalk;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0b
+BE;BE:E9g;;Parking forbidden on sidewalk;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0c
+BE;BE:E9g;;Parking forbidden on sidewalk;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0d
+BE;BE:E9g;;Parking forbidden on sidewalk;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_hours
+BE;BE:E9g;;Parking forbidden on sidewalk;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_weekdays
+BE;BE:E9g;;Parking forbidden on sidewalk;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIb
+BE;BE:E9g;;Parking forbidden on sidewalk;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIb_except_for_residential_parking_permit
+BE;BE:E9g;;Parking forbidden on sidewalk;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIc
+BE;BE:E9g;;Parking forbidden on sidewalk;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VII_charging_station
+BE;BE:E9g;;Parking forbidden on sidewalk;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VII_charging_station_car
+BE;BE:E9h;;Parking only for campingcars/mobilhomes;;;;;Key:parking;;;;;;;parking:lane:left right both;parallel diagonal perpendicular;;;;;;;;;;;;;;
+BE;BE:E9h;;Parking only for campingcars/mobilhomes;;;;;Key:parking;;;;;;;parking:condition:left right both;free ticket disc;;;;;;;;;;;;;;
+BE;BE:E9h;;Parking only for campingcars/mobilhomes;;;;;Key:parking;;;;;;;amenity;parking;;;;;;;;;;;;;;
+BE;BE:E9h;;Parking only for campingcars/mobilhomes;;;;;Key:parking;;;;;;;access;no;;;;;;;;;;;;;;
+BE;BE:E9h;;Parking only for campingcars/mobilhomes;;;;;Key:parking;;;;;;;mobilhome;yes;;;;;;;;;;;;;;
+BE;BE:E9h;;Parking only for campingcars/mobilhomes;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0a
+BE;BE:E9h;;Parking only for campingcars/mobilhomes;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0b
+BE;BE:E9h;;Parking only for campingcars/mobilhomes;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0c
+BE;BE:E9h;;Parking only for campingcars/mobilhomes;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0d
+BE;BE:E9h;;Parking only for campingcars/mobilhomes;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_hours
+BE;BE:E9h;;Parking only for campingcars/mobilhomes;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_weekdays
+BE;BE:E9h;;Parking only for campingcars/mobilhomes;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIc
+BE;BE:E9h;;Parking only for campingcars/mobilhomes;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:ZONE
+BE;BE:E9i;;Parking only for motorcycles;;;;;Key:parking;;;;;;;parking:lane:left right both;parallel diagonal perpendicular;;;;;;;;;;;;;;
+BE;BE:E9i;;Parking only for motorcycles;;;;;Key:parking;;;;;;;parking:condition:left right both;free ticket disc;;;;;;;;;;;;;;
+BE;BE:E9i;;Parking only for motorcycles;;;;;Key:parking;;;;;;;amenity;parking;;;;;;;;;;;;;;
+BE;BE:E9i;;Parking only for motorcycles;;;;;Key:parking;;;;;;;access;no;;;;;;;;;;;;;;
+BE;BE:E9i;;Parking only for motorcycles;;;;;Key:parking;;;;;;;motorcycle;yes;;;;;;;;;;;;;;
+BE;BE:E9i;;Parking only for motorcycles;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0a
+BE;BE:E9i;;Parking only for motorcycles;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0b
+BE;BE:E9i;;Parking only for motorcycles;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0c
+BE;BE:E9i;;Parking only for motorcycles;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:E0d
+BE;BE:E9i;;Parking only for motorcycles;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_hours
+BE;BE:E9i;;Parking only for motorcycles;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_V_weekdays
+BE;BE:E9i;;Parking only for motorcycles;;;;;Key:parking;;;;;;;;;;;;;;;;;;;;;;BE:Type_VIIc
+BE;BE:F1;;Built-up area / City Limits;Bebouwde kom;Agglomération;;;;;;;;;;maxspeed;50;;;;;;;;;;;;;;
+BE;BE:F1;;Built-up area / City Limits;Bebouwde kom;Agglomération;;;;;;;;;;zone:traffic;BE:urban;;;;;;;;;;;;;;
+BE;BE:F1;;Built-up area / City Limits;Bebouwde kom;Agglomération;;;;;;;;;;;;;;;;;;;;;;;;;BE:E11
+BE;BE:F1bh;;Built-up area / City Limits;Bebouwde kom;Agglomération;;;;;;;;;;maxspeed;50;;;;;;;;;;;;;;
+BE;BE:F1bh;;Built-up area / City Limits;Bebouwde kom;Agglomération;;;;;;;;;;zone:traffic;BE:urban;;;;;;;;;;;;;;
+BE;BE:F1bh;;Built-up area / City Limits;Bebouwde kom;Agglomération;;;;;;;;;;;;;;;;;;;;;;;;;BE:E11
+BE;BE:F1bv;;Built-up area / City Limits;Bebouwde kom;Agglomération;;;;;;;;;;maxspeed;50;;;;;;;;;;;;;;
+BE;BE:F1bv;;Built-up area / City Limits;Bebouwde kom;Agglomération;;;;;;;;;;zone:traffic;BE:urban;;;;;;;;;;;;;;
+BE;BE:F1bv;;Built-up area / City Limits;Bebouwde kom;Agglomération;;;;;;;;;;;;;;;;;;;;;;;;;BE:E11
+BE;BE:F3;;End of Built-up area / City Limits;Einde bebouwde kom;Fin d'agglomération;;;;;;;;;;zone:traffic;BE:rural;;;;;;;;;;;;;;
+BE;BE:F3bh;;End of Built-up area / City Limits;Einde bebouwde kom;Fin d'agglomération;;;;;;;;;;zone:traffic;BE:rural;;;;;;;;;;;;;;
+BE;BE:F3bv;;End of Built-up area / City Limits;Einde bebouwde kom;Fin d'agglomération;;;;;;;;;;zone:traffic;BE:rural;;;;;;;;;;;;;;
+BE;BE:F4a;;Speed limit zone;Maximumsnelheid geldig in hele zone;;Choose from: 20, 30, 50, 70;;;;;;;;;maxspeed;$val;;;;;;;;;;;;;;
+BE;BE:F4a;;Speed limit zone;Maximumsnelheid geldig in hele zone;;Choose from: 20, 30, 50, 70;;;;;;;;;zone:maxspeed;BE:$val;;;;;;;;;;;;;;
+BE;BE:F4a;;Speed limit zone;Maximumsnelheid geldig in hele zone;;Choose from: 20, 30, 50, 70;;;;;;;;;;;;combo;;;int;val;30;km/h;2;yes;speed-limit;Maximumsnelheid;20, 30, 50, 70;
+BE;BE:F4b;;End of speed limit zone;Einde zone met snelheidsbeperking;Fin de zone avec vitesse limitée;If the zone wasn't inside city limits, change zone:traffic and new maxspeed accordingly. The following tags could be applied more intelligently. These 2 only apply when coming out of most zone30.;;;;;;;;;zone:traffic;BE:urban;;;;;;;;;;;;;;
+BE;BE:F4b;;End of speed limit zone;Einde zone met snelheidsbeperking;Fin de zone avec vitesse limitée;If the zone wasn't inside city limits, change zone:traffic and new maxspeed accordingly. The following tags could be applied more intelligently. These 2 only apply when coming out of most zone30.;;;;;;;;;maxspeed;50;;;;;;;;;;;;;;
+BE;BE:F5;;Motorway;Autosnelweg;;Choose from: motorway, motorway_link;;;;;;;;;highway;$val;;;;;;;;;;;;;;
+BE;BE:F5;;Motorway;Autosnelweg;;Choose from: motorway, motorway_link;;;;;;;;;motorway;yes;;;;;;;;;;;;;;
+BE;BE:F5;;Motorway;Autosnelweg;;Choose from: motorway, motorway_link;;;;;;;;;maxspeed;120;;;;;;;;;;;;;;
+BE;BE:F5;;Motorway;Autosnelweg;;Choose from: motorway, motorway_link;;;;;;;;;;;;combo;;;string;val;motorway_link;;13;no;link or highway;op-/afrit of snelweg;motorway, motorway_link;
+BE;BE:F7;;End motorway;Einde autosnelweg;;Choose from: motorway, motorway_link;;;;;;;;;highway;$val;;;;;;;;;;;;;;
+BE;BE:F7;;End motorway;Einde autosnelweg;;Choose from: motorway, motorway_link;;;;;;;;;;;;combo;;;string;val;motorway_link;;13;no;link or highway;op-/afrit of snelweg;motorway, motorway_link;
+BE;BE:F8;;Tunnel;Tunnel;;;;Key:tunnel;;;;;;;tunnel;yes;;;;;;;;;;;;;;
+BE;BE:F8;;Tunnel;Tunnel;;;;Key:tunnel;;;;;;;;;;;;;;;;;;;;;;BE:Type_Ia
+BE;BE:F8;;Tunnel;Tunnel;;;;Key:tunnel;;;;;;;;;;;;;;;;;;;;;;BE:Type_II
+BE;BE:F9;;Trunk road;Expressweg;;Choose from: trunk, trunk_link;;;;;;;;;highway;$val;;;;;;;;;;;;;;
+BE;BE:F9;;Trunk road;Expressweg;;Choose from: trunk, trunk_link;;;;;;;;;motorroad;yes;;;;;;;;;;;;;;
+BE;BE:F9;;Trunk road;Expressweg;;Choose from: trunk, trunk_link;;;;;;;;;maxspeed;100;;;;;;;;;;;;;;
+BE;BE:F9;;Trunk road;Expressweg;;Choose from: trunk, trunk_link;;;;;;;;;;;;combo;;;string;val;trunk_link;;10;no;link or highway;op-/afrit of snelweg;trunk, trunk_link;
+BE;BE:F11;;End trunk road;Einde expressweg;;;;;;;;;;;highway;$val;;;;;;;;;;;;;;
+BE;BE:F11;;End trunk road;Einde expressweg;;;;;;;;;;;;;;combo;;;string;val;trunk_link;;10;no;link or highway;op-/afrit of snelweg;trunk, trunk_link;
+BE;BE:F12a;;Living street;Begin woonerf;;;;Tag:highway%3Dliving_street;;;;;;;highway;living_street;;;;;;;;;;;;;;
+BE;BE:F12a;;Living street;Begin woonerf;;;;Tag:highway%3Dliving_street;;;;;;;maxspeed;20;;;;;;;;;;;;;;
+BE;BE:F12b;;End of Living street;Einde woonerf;;;;Tag:highway%3Dliving_street;;;;;;;;;;;;;;;;;;;;;;
+BE;BE:F17;;Bus lane;Busbaan;;Remove the tags which don't apply;;Key:Bus_lanes;;;;;;;lanes;3;;;;;;;;;;;;;;
+BE;BE:F17;;Bus lane;Busbaan;;Remove the tags which don't apply;;Key:Bus_lanes;;;;;;;lanes:psv;1;;;;;;;;;;;;;;
+BE;BE:F17;;Bus lane;Busbaan;;Remove the tags which don't apply;;Key:Bus_lanes;;;;;;;psv:lanes;no|no|yes;;;;;;;;;;;;;;
+BE;BE:F17;;Bus lane;Busbaan;;Remove the tags which don't apply;;Key:Bus_lanes;;;;;;;lanes:psv:forward;1;;;;;;;;;;;;;;
+BE;BE:F17;;Bus lane;Busbaan;;Remove the tags which don't apply;;Key:Bus_lanes;;;;;;;lanes:psv:backward;1;;;;;;;;;;;;;;
+BE;BE:F18;;Bus/tram lane in between dual carriage way;Rijvak voor lijnbus of tram tussen de rijstroken;;Remove the tags which don't apply, map the tram tracks as separate ways and the bus as a separate service way in between. Then all the :lanes: tags aren't needed.;;Key:Bus_lanes;;;;;;;lanes;3;;;;;;;;;;;;;;
+BE;BE:F18;;Bus/tram lane in between dual carriage way;Rijvak voor lijnbus of tram tussen de rijstroken;;Remove the tags which don't apply, map the tram tracks as separate ways and the bus as a separate service way in between. Then all the :lanes: tags aren't needed.;;Key:Bus_lanes;;;;;;;lanes:psv;1;;;;;;;;;;;;;;
+BE;BE:F18;;Bus/tram lane in between dual carriage way;Rijvak voor lijnbus of tram tussen de rijstroken;;Remove the tags which don't apply, map the tram tracks as separate ways and the bus as a separate service way in between. Then all the :lanes: tags aren't needed.;;Key:Bus_lanes;;;;;;;psv:lanes;no|yes|no;;;;;;;;;;;;;;
+BE;BE:F19;;One-way street;Eénrichtingsverkeer;Sens unique;;;Key:oneway;;;;;;;oneway;yes;;;;;;;;;;;;;;
+BE;BE:F19;;One-way street;Eénrichtingsverkeer;Sens unique;;;Key:oneway;;;;;;;;;;;;;;;;;;;;;;BE:M5
+BE;BE:F19;;One-way street;Eénrichtingsverkeer;Sens unique;;;Key:oneway;;;;;;;;;;;;;;;;;;;;;;BE:M6
+BE;BE:F21;;Go around;Kiezen of delen;;;;;;;;;;;;;;;;;;;;;;;;;;
+BE;BE:F43;;Municipality boundary;Gemeentegrens;;;;;;;;;;;;;;;;;;;;;;;;;;
+BE;BE:F45;;No exit;Doodlopende straat;Cul-de-sac;If you add a no_exit tag, it should be added to the final node and not to the way. This is not really necessary.;;Key:no_exit;;;;;;;no_exit;yes;;;;;;;;;;;;;;
+BE;BE:F45b;no;No exit, except for bicycle;Doodlopende straat, behalve voor fietsers;Cul-de-sac, sauf pour cyclistes;If you add a no_exit tag, it should be added to the final node and not to the way. This is not really necessary.;;Key:no_exit;;;;;;;no_exit;yes;;;;;;;;;;;;;;
+BE;BE:F45b;no;No exit, except for bicycle;Doodlopende straat, behalve voor fietsers;Cul-de-sac, sauf pour cyclistes;If you add a no_exit tag, it should be added to the final node and not to the way. This is not really necessary.;;Key:no_exit;;;;;;;no_exit:bicycle;no;;;;;;;;;;;;;;
+BE;BE:F47;no;End of roadworks;Einde wegenwerken;;;;;;;;;;;;;;;;;;;;;;;;;;
+BE;BE:F49;;Pedestrian crossing;Oversteekplaats voor voetgangers;;;;;;;;;;;highway;crossing;;;;;;;;;;;;;;
+BE;BE:F50;;Bicycle crossing;Oversteekplaats voor fietsers;;;;;;;;;;;highway;crossing;;;;;;;;;;;;;;
+BE;BE:F50;;Bicycle crossing;Oversteekplaats voor fietsers;;;;;;;;;;;bicycle;yes;;;;;;;;;;;;;;
+BE;BE:F50bis;;Bicycle crossing behind corner;Oversteekplaats voor fietsers om de hoek;;;;;;;;;;;highway;crossing;;;;;;;;;;;;;;
+BE;BE:F50bis;;Bicycle crossing behind corner;Oversteekplaats voor fietsers om de hoek;;;;;;;;;;;bicycle;yes;;;;;;;;;;;;;;
+BE;BE:F51;;Pedestrian crossing underground;Ondergrondse oversteekplaats voor voetgangers;;;;;;;;;;;layer;-1;;;;;;;;;;;;;;
+BE;BE:F51a;;Pedestrian crossing underground;Ondergrondse oversteekplaats voor voetgangers;;;;;;;;;;;layer;-1;;;;;;;;;;;;;;
+BE;BE:F52;;Emergency exit out of tunnel;Nooduitgang uit tunnel;;;;;;;;;;;layer;-1;;;;;;;;;;;;;;
+BE;BE:F52;;Emergency exit out of tunnel;Nooduitgang uit tunnel;;;;;;;;;;;entrance;emergency;;;;;;;;;;;;;;
+BE;BE:F52bis[$val];;Distance and direction toward emergency exit out of tunnel;Afstand en richingaanwijzer naar nooduitgang uit tunnel;;;;;;;BE:F52bis;;;;layer;-1;;;;;;;;;;;;;;
+BE;BE:F52bis[$val];;Distance and direction toward emergency exit out of tunnel;Afstand en richingaanwijzer naar nooduitgang uit tunnel;;;;;;;BE:F52bis;;;;entrance;emergency;;;;;;;;;;;;;;
+BE;BE:F52bis[$val];;Distance and direction toward emergency exit out of tunnel;Afstand en richingaanwijzer naar nooduitgang uit tunnel;;;;;;;BE:F52bis;;;;;;;combo;;;int;val;50;m;3;yes;Distance;Afstand;50, 100, 150, 200;
+BE;BE:F59;;Parking lot;Parkeerterrein/garage;;;;;;;;;;;amenity;parking;;;;;;;;;;;;;;
+BE;BE:F60;;Indoor parking lot;Overdekte parking;;;;;;;;;;;amenity;parking;;;;;;;;;;;;;;
+BE;BE:F60;;Indoor parking lot;Overdekte parking;;;;;;;;;;;covered;yes;;;;;;;;;;;;;;
+BE;BE:F87;;Speed bump;Verhoogde inrichting(en), verkeersdrempel;;;;Key:traffic_calming;;;;;;;traffic_calming;bump;;;;;;;;;;;;;;
+BE;BE:F95;;Runaway truck ramp;Nooduitweg voor op hol geslagen vrachtwagens;;;;Tag:highway%3Descape;;;;;;;highway;escape;;;;;;;;;;;;;;
+BE;BE:F99c;;Access only for pedestrians, cyclists, horses and agricultural;Enkel voetgangers, fietsers, ruiters en landbouwvoertuigen;;;;;;;;;;;access;destination;;;;;;;;;;;;;;
+BE;BE:F99c;;Access only for pedestrians, cyclists, horses and agricultural;Enkel voetgangers, fietsers, ruiters en landbouwvoertuigen;;;;;;;;;;;foot;yes;;;;;;;;;;;;;;
+BE;BE:F99c;;Access only for pedestrians, cyclists, horses and agricultural;Enkel voetgangers, fietsers, ruiters en landbouwvoertuigen;;;;;;;;;;;horse;yes;;;;;;;;;;;;;;
+BE;BE:F99c;;Access only for pedestrians, cyclists, horses and agricultural;Enkel voetgangers, fietsers, ruiters en landbouwvoertuigen;;;;;;;;;;;bicycle;yes;;;;;;;;;;;;;;
+BE;BE:F99c;;Access only for pedestrians, cyclists, horses and agricultural;Enkel voetgangers, fietsers, ruiters en landbouwvoertuigen;;;;;;;;;;;agricultural;yes;;;;;;;;;;;;;;
+BE;BE:F101c;;End of access only for pedestrians, cyclists, horses and agricultural;Einde enkel voetgangers, fietsers, ruiters en landbouwvoertuigen;;;;;;;;;;;access;destination;;;;;;;;;;;;;;
+BE;BE:F101c;;End of access only for pedestrians, cyclists, horses and agricultural;Einde enkel voetgangers, fietsers, ruiters en landbouwvoertuigen;;;;;;;;;;;foot;yes;;;;;;;;;;;;;;
+BE;BE:F101c;;End of access only for pedestrians, cyclists, horses and agricultural;Einde enkel voetgangers, fietsers, ruiters en landbouwvoertuigen;;;;;;;;;;;horse;yes;;;;;;;;;;;;;;
+BE;BE:F101c;;End of access only for pedestrians, cyclists, horses and agricultural;Einde enkel voetgangers, fietsers, ruiters en landbouwvoertuigen;;;;;;;;;;;bicycle;yes;;;;;;;;;;;;;;
+BE;BE:F101c;;End of access only for pedestrians, cyclists, horses and agricultural;Einde enkel voetgangers, fietsers, ruiters en landbouwvoertuigen;;;;;;;;;;;agricultural;yes;;;;;;;;;;;;;;
+BE;BE:F103;;Pedestrian zone;Winkelwandelstraat;;;;Tag:highway%3Dpedestrian;;;;;;;highway;pedestrian;;;;;;;;;;;;;;
+BE;BE:F103;;Pedestrian zone;Winkelwandelstraat;;;;Tag:highway%3Dpedestrian;;;;;;;access;;mode;;;;;;;;;;;;;
+BE;BE:F103;;Pedestrian zone;Winkelwandelstraat;;;;Tag:highway%3Dpedestrian;;;;;;;;;;;;;;;;;;;;;;BE:M2_nl
+BE;BE:F103;;Pedestrian zone;Winkelwandelstraat;;;;Tag:highway%3Dpedestrian;;;;;;;;;;;;;;;;;;;;;;BE:M2_fr
+BE;BE:F103;;Pedestrian zone;Winkelwandelstraat;;;;Tag:highway%3Dpedestrian;;;;;;;;;;;;;;;;;;;;;;BE:M3_nl
+BE;BE:F103;;Pedestrian zone;Winkelwandelstraat;;;;Tag:highway%3Dpedestrian;;;;;;;;;;;;;;;;;;;;;;BE:M3_fr
+BE;BE:F111;;Bicycle road;Fietsstraat;;;;;;;;;;;bicycle_road;yes;;;;;;;;;;;;;;
+BE;BE:F111;;Bicycle road;Fietsstraat;;;;;;;;;;;bicycle;official;;;;;;;;;;;;;;
+BE;BE:F111;;Bicycle road;Fietsstraat;;;;;;;;;;;vehicle;no;mode;;;;;;;;;;;;;
+BE;BE:F111;;Bicycle road;Fietsstraat;;;;;;;;;;;maxspeed;30;;;;;;;;;;;;;;
+BE;BE:F111;;Bicycle road;Fietsstraat;;;;;;;;;;;source:maxspeed;BE:bicycle_road;;;;;;;;;;;;;;
+BE;BE:M1;;Only for bicycles;Geldt enkel voor fietsers;;Check access and BICYCLE PARKING tags!!!Placed under sign B1, B5 or E9a when that sign only applies to bicycles.;;;;;;yes;;;bicycle;yes;;;;;;;;;;;;;;
+BE;BE:M1;;Only for bicycles;Geldt enkel voor fietsers;;Check access and BICYCLE PARKING tags!!!Placed under sign B1, B5 or E9a when that sign only applies to bicycles.;;;;;;yes;;;amenity;bicycle_parking;;;;;;;;;;;;;;
+BE;BE:M2_fr;;Except for bicycles;Uitgezonderd fietsers;;Check access and ONEWAY tags!!! Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles.;;;BE:M2;;;yes;;;bicycle;yes;;;;;;;;;;;;;;
+BE;BE:M2_fr;;Except for bicycles;Uitgezonderd fietsers;;Check access and ONEWAY tags!!! Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles.;;;BE:M2;;;yes;;;oneway:bicycle;no;;;;;;;;;;;;;;
+BE;BE:M2_nl;;Except for bicycles;Uitgezonderd fietsers;;Check access and ONEWAY tags!!! Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles.;;;BE:M2;;;yes;;;bicycle;yes;;;;;;;;;;;;;;
+BE;BE:M2_nl;;Except for bicycles;Uitgezonderd fietsers;;Check access and ONEWAY tags!!! Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles.;;;BE:M2;;;yes;;;oneway:bicycle;no;;;;;;;;;;;;;;
+BE;BE:M3_nl;;Except for bicycles and mopeds;Uitgezonderd fietsers en bromfietsers;;Check access and ONEWAY tags!!! Remove the ones that don't apply. Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles and mopeds.;;;;;;yes;;;bicycle;yes;;;;;;;;;;;;;;
+BE;BE:M3_nl;;Except for bicycles and mopeds;Uitgezonderd fietsers en bromfietsers;;Check access and ONEWAY tags!!! Remove the ones that don't apply. Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles and mopeds.;;;;;;yes;;;oneway:bicycle;no;;;;;;;;;;;;;;
+BE;BE:M3_nl;;Except for bicycles and mopeds;Uitgezonderd fietsers en bromfietsers;;Check access and ONEWAY tags!!! Remove the ones that don't apply. Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles and mopeds.;;;;;;yes;;;moped;yes;;;;;;;;;;;;;;
+BE;BE:M3_nl;;Except for bicycles and mopeds;Uitgezonderd fietsers en bromfietsers;;Check access and ONEWAY tags!!! Remove the ones that don't apply. Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles and mopeds.;;;;;;yes;;;oneway:mofa;no;;;;;;;;;;;;;;
+BE;BE:M3_fr;;Except for bicycles and mopeds;Uitgezonderd fietsers en bromfietsers;;Check access and ONEWAY tags!!! Remove the ones that don't apply. Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles and mopeds.;;;;;;yes;;;bicycle;yes;;;;;;;;;;;;;;
+BE;BE:M3_fr;;Except for bicycles and mopeds;Uitgezonderd fietsers en bromfietsers;;Check access and ONEWAY tags!!! Remove the ones that don't apply. Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles and mopeds.;;;;;;yes;;;oneway:bicycle;no;;;;;;;;;;;;;;
+BE;BE:M3_fr;;Except for bicycles and mopeds;Uitgezonderd fietsers en bromfietsers;;Check access and ONEWAY tags!!! Remove the ones that don't apply. Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles and mopeds.;;;;;;yes;;;moped;yes;;;;;;;;;;;;;;
+BE;BE:M3_fr;;Except for bicycles and mopeds;Uitgezonderd fietsers en bromfietsers;;Check access and ONEWAY tags!!! Remove the ones that don't apply. Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles and mopeds.;;;;;;yes;;;oneway:mofa;no;;;;;;;;;;;;;;
+BE;BE:M4;;Not oneway for bicycles;Fietsers toegelaten in beide richtingen;;Check ONEWAY tags and way direction!!! Placed under sign F19: when cyclists are allowed to ride in both directions on a one-way road;;;;;;yes;;;oneway:bicycle;no;;;;;;;;;;;;;;
+BE;BE:M5;;Not oneway for bicycles and mofas;Fietsers en bromfietsers (A) toegelaten in beide richtingen;;Check ONEWAY tags!!! Placed under sign F19 when cyclists and mopeds class A are allowed to ride in both directions on a one-way road.;;;;;;yes;;;oneway:bicycle;no;;;;;;;;;;;;;;
+BE;BE:M5;;Not oneway for bicycles and mofas;Fietsers en bromfietsers (A) toegelaten in beide richtingen;;Check ONEWAY tags!!! Placed under sign F19 when cyclists and mopeds class A are allowed to ride in both directions on a one-way road.;;;;;;yes;;;oneway:mofa;no;;;;;;;;;;;;;;
+BE;BE:M6;;Mopeds Class B have to use cycleway;Motorfietsers klasse B verplicht op fietspad;;Check ACCESS tags!!! Placed under sign D7 Mopeds class B have to ride on the cycleway.;;;;;;yes;;;moped;yes;;;;;;;;;;;;;;
+BE;BE:M7;;Mopeds Class B forbidden on cycleway;Motorfietsers verboden op fietspad;;Check ACCESS tags!!! Placed under sign D7 Mopeds class B are not allowed to ride on the cycleway.;;;;;;yes;;;moped;no;;;;;;;;;;;;;;
+BE;BE:M8;;Only for bicycles and mofas;Geldt enkel voor fietsers en bromfietsers;;"Placed under sign B1, B5 or E9a; B1 or B5 only applies to bicycles and mopeds.";;;;;;yes;;;bicycle;yes;;;;;;;;;;;;;;
+BE;BE:M8;;Only for bicycles and mofas;Geldt enkel voor fietsers en bromfietsers;;"Placed under sign B1, B5 or E9a; B1 or B5 only applies to bicycles and mopeds.";;;;;;yes;;;mofa;yes;;;;;;;;;;;;;;
+BE;BE:M11;;Only applies to link road;Geldt enkel voor afrit;;;;;;;;yes;;;;;;;;;;;;;;;;;;
+BE;BE:ZONE;;Limitation or parking rules apply to ZONE, don't use instead of F4a;;;;;Key:ZONE;;;;yes;Beperking of parkeermodaliteiten geldig in gehele ZONE, voor zone30 e.d. gebruik F4a;;;;;;;;;;;;;;;;;
+BE;BE:Type_Ia[$val];;Coming up in x m;Binnen x m;;;;;;;BE:Type_Ia;yes;;;;;;textfield;;;int;val;50;m;3;yes;Distance;Afstand;50, 100, 150, 200;
+BE;BE:Type_Ia[$val];;STOP signing coming up in x m;STOP-bord op x m;;;;;;;BE:Type_Ib;yes;;;;;;textfield;;;int;val;50;m;3;yes;Distance;Afstand;50, 100, 150, 200;
+BE;BE:Type_II[$val];;Over a distance of the next x m;Over een astand van x m;;;;;;;BE:Type_II;yes;;;;;;textfield;;;int;val;50;m;4;yes;Distance;Afstand;50, 100, 150, 200, 1000, 2000, 3000;
+BE;BE:Type_III;;Slippery when road is wet;Bij nat wegdek;;;;Key:Proposed_features/hazard;;;BE:Type_III_nl;yes;;;hazard;slippery_when_wet;;;;;;;;;;;;;;
+BE;BE:Type_IV;;Except for;Uitgezonderd voor;Excepté;;;;;;BE:Type_IV;yes;;;;;;textfield;;;;val;bus, bewoners, riverains, parkeerkaart, carte de stationnement;;20;yes;Vehicle type;;;
+BE;BE:Type_VI;;Reminder;HERHALING;RAPPEL;;;;;;BE:Type_VI_nl;yes;;;;;;;;;;;;;;;;;;
+BE;BE:Type_VIIa[$val];;Max weight indication;Specificatie van maximum toegelaten;;;;;;;BE:Type_VIIa;yes;;;;;;textfield;;;;val;3.5;t;3;yes;Weight;;3.5, 7.5, 10, 20, 30, 40;
+BE;BE:Type_V_fee;;Parking fee;Parking betalend;Parking payant;;;;;;;yes;;;;;;;;;;;;;;;;;;
+BE;BE:Type_V[$val];;From/till hours;Van/tot in uren;;Van 7 tot 19u / De 7 à 19h;;;;;BE:Type_V_hours;yes;;BE_Type_V_hours;;;;textfield;;;;val;Van maandag tot vrijdag van 7 tot 19u / De lundi à vendredi de 7 à 19h;;100;yes;hours;;;
+BE;BE:Type_V[$val];;From/till weekdays;Op welke weekdagen;;Van maandag tot vrijdag / De lundi à vendredi;;;;;BE:Type_V_weekdays;yes;;BE_Type_V_weekdays;;;;textfield;;;;val;Van maandag tot vrijdag van 7 tot 19u / De lundi à vendredi de 7 à 19h;;100;yes;hours;;;
+BE;BE:Type_VIIb;;Parking disc;Parkeerschijf verplicht;;;;;;;;yes;;;;;;;;;;;;;;;;;;
+BE;BE:Type_VIIb_except_for_residential_parking_permit;;Parking disc except for residential parking permit holders;Parkeerschijf verplicht, uitgezonderd voor houders van bewonerskaart;;;;;;;;yes;;;;;;;;;;;;;;;;;;
+BE;BE:Type_VIIc;;Maximum parking duration;Maximale parkeerduur;;;;;;;;yes;;;;;;textfield;;;;val;1 uur 30 minuten;;40;yes;hours / minutes;;;
+BE;BE:Type_VIId;;Reserved for taxis;Voorbehouden voor taxi's;;;;;;;;yes;;;;;;;;;;;;;;;;;;
+BE;BE:Type_VII_disabled;;Reserved for disabled;Voorbehouden voor mensen met handicap;;;;;;;;yes;;;;;;;;;;;;;;;;;;
+BE;BE:Type_VII_bewoners;;Reserved for holders of residential parking permit;Voorbehouden voor mensen met bewonerskaart;;;;;;;;yes;;;;;;;;;;;;;;;;;;
+BE;BE:Type_VII_parkeerkaart;;Reserved for holders of residential parking permit;Voorbehouden voor mensen met parkeerkaart;;;;;;;;yes;;;;;;;;;;;;;;;;;;
+BE;BE:Type_VII_autodelen;;Reserved for car sharing;Voorbehouden voor car sharing;;;;;;;;yes;;;;;;;;;;;;;;;;;;
+BE;BE:Type_VII_charging_station;;Reserved for electric vehicles;Voorbehouden voor elektrische voertuigen;;;;;;;;yes;;;;;;;;;;;;;;;;;;
+BE;BE:Type_VII_charging_station_car;;Reserved for electric cars;Voorbehouden voor elektrische wagens;;;;;;;;yes;;;;;;;;;;;;;;;;;;
+BE;BE:A15a;;Icy road;Glad bij bevroren wegdek;;;;Key:Proposed_features/hazard;;;;yes;;;hazard;icy_road;;;;;;;;;;;;;;
+BE;BE:E11;;Parking alternates in this built-up area;;;;;Key:parking;;;;yes;Beurtelings parkeren in deze bebouwde kom;;;;;;;;;;;;;;;;;

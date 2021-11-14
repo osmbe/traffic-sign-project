@@ -1,0 +1,1631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!-- roadsigns plugin preset file for Belgium-->
+ <roadsignpreset country="BE">
+  <sign ref="BE:A1a"
+    useful="no"
+    name="Dangerous left curve"
+    nl.name="Scherpe bocht naar links">
+    <tag key="hazard" value="bend"/>
+  </sign>
+  <sign ref="BE:A1b"
+    useful="no"
+    name="Dangerous right curve"
+    nl.name="Scherpe bocht naar rechts">
+    <tag key="hazard" value="bend"/>
+  </sign>
+  <sign ref="BE:A1c"
+    useful="no"
+    name="Left curve followed by right curve"
+    nl.name="Bocht naar links gevolgd door bocht naar rechts">
+    <tag key="hazard" value="bend"/>
+  </sign>
+  <sign ref="BE:A1d"
+    useful="no"
+    name="Right curve followed by left curve"
+    nl.name="Bocht naar rechts gevolgd door bocht naar links">
+    <tag key="hazard" value="bend"/>
+  </sign>
+  <sign ref="BE:A3"
+    name="Steep descent"
+    nl.name="Steile afdaling"
+    fr.name="Descente"
+    help="Applies for the road section with steep incline. (Split the way at the ends of the steep section.)  Positive values indicate movement upward in the direction of the (osm) way and negative values indicate movement downwards in the direction of the way."
+    nl.help="Geldt op het gedeelte van de way met sterke hellingsgraad (Splits de weg bij aanvang en einde.)  Positieve waardes betekenen dat de weg stijgt in de richting van de weg, negatieve dat het gaat om een afdaling."
+    wiki="Key:incline">
+    <tag key="incline" value="$val%"/>
+      <parameter
+       input="textfield"
+        name="max. incline"
+        nl.name="Maximaal dalingspercentage"
+        type="int"
+        ident="val"
+        default="-15"
+        suffix="%"
+        field_width="3"
+      />
+  </sign>
+  <sign ref="BE:A5"
+    name="Steep ascent"
+    nl.name="Steile helling"
+    help="Applies for the road section with steep incline. (Split the way at the ends of the steep section.)  Positive values indicate movement upward in the direction of the (osm) way and negative values indicate movement downwards in the direction of the way."
+    nl.help="Geldt op het gedeelte van de way met sterke hellingsgraad (Splits de weg bij aanvang en einde.)  Positieve waardes betekenen dat de weg stijgt in de richting van de weg, negatieve dat het gaat om een afdaling."
+    wiki="Key:incline">
+    <tag key="incline" value="$val%"/>
+      <parameter
+        input="textfield"
+        name="max. incline"
+        nl.name="Maximaal stijgingspercentage"
+        type="int"
+        ident="val"
+        default="15"
+        suffix="%"
+        field_width="3"
+      />
+     <tag key="hazard" value="steep_incline"/>
+   </sign>
+  <sign ref="BE:A7a"
+    name="Road narrows"
+    nl.name="Weg versmalt"
+    wiki="Key:traffic_calming">
+    <tag key="traffic_calming" value="choker"/>
+  </sign>
+  <sign ref="BE:A7b"
+    name="Road narrows right"
+    nl.name="Weg versmalt rechts"
+    useful="no"
+    wiki="Key:traffic_calming">
+    <tag key="traffic_calming" value="choker"/>
+  </sign>
+  <sign ref="BE:A7c"
+    name="Road narrows left"
+    nl.name="Weg versmalt links"
+    useful="no"
+    wiki="Key:traffic_calming">
+    <tag key="traffic_calming" value="choker"/>
+  </sign>
+  <sign ref="BE:A9"
+    name="Bridge which can open and close"
+    nl.name="Beweegbare brug"
+    useful="no"
+    wiki="Key:bridge:movable"
+    help="Select a type. Choose from: swing, lift, bascule, drawbridge, transporter">
+    <tag key="bridge" value="movable"/>
+    <tag key="bridge:movable" value="$val"/>
+      <parameter
+        ident="val"
+        input="combo"
+        editable="yes"
+        text="Type"
+        nl.text="Type beweegbare brug"
+        values="swing, lift, bascule, drawbridge, transporter"
+        default="bascule"
+        field_width="12"
+      />
+  </sign>
+  <sign ref="BE:A11"
+    name="Quay"
+    nl.name="Uitweg op een kaai of oever"
+    wiki="Key:Proposed_features/hazard">
+  </sign>
+  <sign ref="BE:A13"
+    name="Bumps on road, but not the traffic_calming kind"
+    nl.name="Overdwarse uitholling of ezelsrug, niet voor verkeersdrempel"
+    wiki="Key:Proposed_features/hazard">
+  </sign>
+  <sign ref="BE:A14"
+    name="Speed bump"
+    nl.name="Verhoogde inrichting(en), verkeersdrempel"
+    wiki="Key:traffic_calming">
+    <tag key="traffic_calming" value="bump"/>
+  </sign>
+  <sign ref="BE:A15"
+    name="Slippery road"
+    nl.name="Glad wegdek"
+    wiki="Key:Proposed_features/hazard">
+    <supplementary id="BE:Type_III_nl"/> <!--When road is wet"-->
+    <supplementary id="BE:A15a"/> <!--Icy road"-->
+  </sign>
+  <sign ref="BE:A17"
+    useful="no"
+    name="Loose chippings"
+    nl.name="Kiezelprojectie">
+  </sign>
+  <sign ref="BE:A19"
+    useful="no"
+    name="Falling rocks"
+    nl.name="Vallende stenen"
+    wiki="Key:Proposed_features/hazard">
+    <tag key="hazard" value="rock_slide"/>
+  </sign>
+  <sign ref="BE:A21"
+    name="Pedestrian crossing"
+    nl.name="Oversteekplaats voor voetgangers">
+    <tag key="highway" value="crossing"/>
+  </sign>
+  <sign ref="BE:A23"
+    useful="no"
+    name="School children crossing the way near school"
+    nl.name="Schoolomgeving">
+    <tag key="hazard" value="school_zone"/>
+  </sign>
+  <sign ref="BE:A25"
+    name="Bicycle crossing"
+    nl.name="Oversteekplaats voor fietsers">
+    <tag key="highway" value="crossing"/>
+    <tag key="bicycle" value="yes"/>
+  </sign>
+  <sign ref="BE:A27"
+    useful="no"
+    name="Wildlife"
+    nl.name="Overstekend wild">
+    <tag key="hazard" value="deer"/>
+  </sign>
+  <sign ref="BE:A29"
+    useful="no"
+    name="Cattle"
+    nl.name="Loslopend vee">
+    <tag key="hazard" value="cattle"/>
+  </sign>
+  <sign ref="BE:A31"
+    useful="no"
+    name="Roadworks"
+    nl.name="Wegenwerken">
+    <tag key="hazard" value="roadworks"/>
+  </sign>
+  <sign ref="BE:A33"
+    name="Traffic lights"
+    nl.name="Verkeerslichten">
+    <tag key="highway" value="traffic_signals"/>
+  </sign>
+  <sign ref="BE:A35"
+    useful="no"
+    name="Low flying airplanes"
+    nl.name="Laagvliegende vliegtuigen">
+    <tag key="hazard" value="low-flying aircraft"/>
+  </sign>
+  <sign ref="BE:A37"
+    useful="no"
+    name="Crosswinds"
+    nl.name="Zijwind">
+    <tag key="hazard" value="crosswinds"/>
+  </sign>
+  <sign ref="BE:A39"
+    name="Bidirectional traffic"
+    nl.name="Verkeer in 2 richtingen">
+    <tag key="oneway" value="no"/>
+  </sign>
+  <sign ref="BE:A41"
+    useful="no"
+    name="Railroad crossing"
+    nl.name="Onbewaakte spoorwegovergang">
+    <tag key="railway" value="level_crossing"/>
+  </sign>
+  <sign ref="BE:A43"
+    useful="no"
+    name="Railroad crossing"
+    nl.name="Onbewaakte spoorwegovergang">
+    <tag key="railway" value="level_crossing"/>
+  </sign>
+  <sign ref="BE:A45"
+    useful="no"
+    name="Railroad crossing 1 track"
+    nl.name="Bewaakte spoorwegovergang 1 spoor">
+    <tag key="railway" value="level_crossing"/>
+  </sign>
+  <sign ref="BE:A47"
+    name="Railroad crossing multiple tracks"
+    nl.name="Bewaakte spoorwegovergang meerdere sporen">
+    <tag key="railway" value="level_crossing"/>
+  </sign>
+  <sign ref="BE:A49"
+    name="Tram rails crossing"
+    nl.name="Tramrails">
+    <tag key="railway" value="level_crossing"/>
+  </sign>
+  <sign ref="BE:A51"
+    useful="no"
+    name="General danger"
+    nl.name="Gevaar">
+    <tag key="hazard" value="undefined"/>
+  </sign>
+
+  <sign ref="BE:B0"
+    name="Priority on turning main road"
+    nl.name="Voorrang op afdraaiende hoofdweg"
+    wiki="Key:give_way">
+    <tag key="highway" value="give_way"/>
+  </sign>
+  <sign ref="BE:B1"
+    name="Give way"
+    nl.name="Voorrang verlenen"
+    wiki="Key:give_way">
+    <tag key="highway" value="give_way"/>
+    <supplementary id="BE:M1"/> <!--only_applies_to_bicycles"-->
+    <supplementary id="BE:M8"/> <!--only_applies_to_bicycles_and_mofas"-->
+    <supplementary id="BE:Type_Ia"/> <!--Coming up in x m"-->
+    <supplementary id="BE:Type_Ib"/> <!--STOP signs coming up in x m"-->
+  </sign>
+  <sign ref="BE:B3"
+    useful="no"
+    name="Give way"
+    nl.name="Voorrang verlenen verderop"
+    wiki="Key:give_way">
+    <tag key="highway" value="give_way"/>
+    <tag key="distance_ahead" value="$val"/>
+      <parameter
+        ident="val"
+        input="textfield"
+        default="50"
+        suffix="m"
+        field_width="3"
+      />
+  </sign>
+  <sign ref="BE:B5"
+    name="Stop sign"
+    nl.name="Stopbord"
+    wiki="Key:stop">
+    <tag key="highway" value="stop"/>
+    <supplementary id="BE:M1"/> <!--only_applies_to_bicycles"-->
+    <supplementary id="BE:M8"/> <!--only_applies_to_bicycles_and_mofas"-->
+  </sign>
+  <sign ref="BE:B7"
+    useful="no"
+    name="Give way"
+    nl.name="Stopbord verderop"
+    wiki="Key:stop">
+    <tag key="highway" value="stop"/>
+    <tag key="distance_ahead" value="$val"/>
+      <parameter
+        ident="val"
+        input="textfield"
+        default="250"
+        suffix="m"
+        field_width="3"
+      />
+  </sign>
+  <sign ref="BE:B9"
+    name="Priority road"
+    nl.name="Voorrangsweg"
+    wiki="Key:priority_road">
+    <tag key="priority_road" value="designated"/>
+  </sign>
+  <sign ref="BE:B11"
+    name="Priority road ends"
+    nl.name="Einde voorrangsweg"
+    wiki="Key:priority_road">
+    <tag key="priority_road" value="end"/>
+  </sign>
+  <sign ref="BE:B13"
+    traffic_sign_tag="BE:B13[$val]"
+    useful="no"
+    name="Priority road ends in x m"
+    nl.name="Einde voorrangsweg op x m"
+    wiki="Key:priority_road">
+    <tag key="priority_road" value="end"/>
+    <tag key="distance_ahead" value="$val"/>
+      <parameter
+        ident="val"
+        input="textfield"
+        default="250"
+        suffix="m"
+        field_width="3"
+      />
+  </sign>
+
+  <sign ref="BE:C1"
+    name="One-way street"
+    nl.name="Eénrichtingsverkeer"
+    fr.name="Sens unique"
+    wiki="Key:oneway">
+    <tag key="oneway" value="yes"/>
+    <supplementary id="BE:M2_nl"/> <!--except_for_bicycles_nl-->
+    <supplementary id="BE:M2_fr"/> <!--except_for_bicycles_fr-->
+    <supplementary id="BE:M3_nl"/> <!--except_for_bicycles_and_mofas_nl-->
+    <supplementary id="BE:M3_fr"/> <!--except_for_bicycles_and_mofas_fr-->
+    <supplementary id="BE:Type_IV"/> <!--except for vehicle type"-->
+  </sign>
+  <sign ref="BE:C3"
+    name="All vehicles prohibited"
+    nl.name="Verboden doorgang voor alle voertuigen">
+    <tag
+      key="vehicle" value="no" ident="mode"/>
+    <supplementary id="BE:M2_nl"/> <!--except_for_bicycles_nl-->
+    <supplementary id="BE:M2_fr"/> <!--except_for_bicycles_fr-->
+    <supplementary id="BE:M3_nl"/> <!--except_for_bicycles_and_mofas_nl-->
+    <supplementary id="BE:M3_fr"/> <!--except_for_bicycles_and_mofas_fr-->
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C5"
+    name="Motorcars prohibited"
+    nl.name="Verboden voor gemotoriseerde voertuigen met meer dan 2 wielen"
+    wiki="Key:motorcar">
+    <tag
+      key="vehicle" value="no" ident="mode"/>
+    <supplementary id="BE:M2_nl"/> <!--except_for_bicycles_nl-->
+    <supplementary id="BE:M2_fr"/> <!--except_for_bicycles_fr-->
+    <supplementary id="BE:M3_nl"/> <!--except_for_bicycles_and_mofas_nl-->
+    <supplementary id="BE:M3_fr"/> <!--except_for_bicycles_and_mofas_fr-->
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C5-C7"
+    name="Motorcars and motorcycles prohibited"
+    nl.name="Verboden voor gemotoriseerde voertuigen"
+    wiki="Key:motorcar">
+    <tag key="vehicle" value="no" ident="mode"/>
+    <tag key="motorcycle" value="no" ident="mode"/>
+
+    <supplementary id="BE:M2_nl"/> <!--except_for_bicycles_nl-->
+    <supplementary id="BE:M2_fr"/> <!--except_for_bicycles_fr-->
+    <supplementary id="BE:M3_nl"/> <!--except_for_bicycles_and_mofas_nl-->
+    <supplementary id="BE:M3_fr"/> <!--except_for_bicycles_and_mofas_fr-->
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C5-C7-C9"
+    name="Motorcars and motorcycles prohibited"
+    nl.name="Verboden voor alle gemotoriseerde voertuigen"
+    wiki="Key:motorcar">
+    <tag key="vehicle" value="no" ident="mode"/>
+    <tag key="motorcycle" value="no" ident="mode"/>
+    <tag key="moped" value="no" ident="mode"/>
+
+    <supplementary id="BE:M2_nl"/> <!--except_for_bicycles_nl-->
+    <supplementary id="BE:M2_fr"/> <!--except_for_bicycles_fr-->
+    <supplementary id="BE:M3_nl"/> <!--except_for_bicycles_and_mofas_nl-->
+    <supplementary id="BE:M3_fr"/> <!--except_for_bicycles_and_mofas_fr-->
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C6"
+    useful="no"
+    name="Quads prohibited"
+    nl.name="Verboden voor quads">
+    <tag key="atv" value="no" ident="mode"/>
+  </sign>
+  <sign ref="BE:C7"
+    name="Motorcycles prohibited"
+    nl.name="Verboden voor moto's">
+    <tag key="motorcycle" value="no" ident="mode"/>
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C9"
+    name="Mopeds prohibited"
+    nl.name="Verboden voor motorfietsen">
+    <tag key="moped" value="no" ident="mode"/>
+  </sign>
+  <sign ref="BE:C11"
+    name="Bicycles prohibited"
+    nl.name="Verboden voor fietsers"
+    wiki="Key:bicycle">
+    <tag key="bicycle" value="no" ident="mode"/>
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C11-C9"
+    name="Bicycles and mopeds prohibited"
+    nl.name="Verboden voor (motor)fietsen"
+    wiki="Key:bicycle">
+    <tag key="moped" value="no" ident="mode"/>
+    <tag key="bicycle" value="no" ident="mode"/>
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C13"
+    useful="no"
+    name="Push carts prohibited"
+    nl.name="Verboden voor stootkarren">
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C15"
+    name="Horses prohibited"
+    nl.name="Verboden voor ruiters (ook paarden aan de hand)">
+    <tag key="horse" value="no" ident="mode"/>
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C17"
+    useful="no"
+    name="Horse carriages prohibited"
+    nl.name="Verboden voor paardrijtuigen">
+    <tag key="horse" value="no" ident="mode"/>
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C19"
+    name="Pedestrians prohibited"
+    nl.name="Verboden voor voetgangers">
+    <tag key="foot" value="no" ident="mode"/>
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C21"
+    name="Weight limit"
+    nl.name="Maximaal toegelaten brutogewicht"
+    wiki="Key:maxweight">
+    <tag key="maxweight" value="$val"/>
+      <parameter
+        ident="val"
+        input="textfield"
+        default="5.5"
+        suffix="t"
+        field_width="3"
+      />
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C23"
+    name="Heavy goods vehicles prohibited"
+    nl.name="Vrachtwagens verboden"
+    wiki="Key:hgv">
+    <tag key="hgv" value="no" ident="mode"/>
+    <tag key="goods" value="no" ident="mode"/>
+    <supplementary id="BE:Type_Ia"/> <!--Coming up in x m"-->
+    <supplementary id="BE:Type_VIIa"/> <!--Max weight specification"-->
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C24a"
+    name="Hazardous cargo prohibited"
+    nl.name="Voertuigen die gevaarlijke goederen vervoeren verboden"
+    wiki="Key:hazmat">
+    <tag key="hazmat" value="no" ident="mode"/>
+    <supplementary id="BE:Type_Ia"/> <!--Coming up in x m"-->
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C24b"
+    name="Hazardous explosive cargo prohibited"
+    nl.name="Verboden toegang voor bestuurders van voertuigen die gevaarlijke ontvlambare of ontplofbare stoffen vervoeren">
+    <tag key=" 	access:explosives" value="no" ident="mode"/>
+    <supplementary id="BE:Type_Ia"/> <!--Coming up in x m"-->
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C24c"
+    name="Water polluting cargo prohibited"
+    nl.name="Verbod voor cargo die gevaar oplevert voor het grondwater"
+    wiki="Key:hazmat" nl.wiki="BE:Key:hazmat">
+    <tag key="hazmat:water" value="no" ident="mode"/>
+    <supplementary id="BE:Type_Ia"/> <!--Coming up in x m"-->
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign id="BE:Hazmat_ADR_Tunnel"
+    ref="BE:Hazmat_ADR_Tunnel[$val]"
+    name="Hazardous materials of ADR Class A B C D E forbidden in tunnel"
+    nl.name="Verbod voor gevaarlijke cargo van ADR-klasse A B C D E in tunnel"
+    wiki="Key:hazmat" nl.wiki="BE:Key:hazmat">
+    <tag key="hazmat:$val" value="no" ident="mode"/>
+      <parameter
+        ident="val"
+        input="textfield"
+        default="E"
+        field_width="5"
+      />
+    <supplementary id="BE:Type_Ia"/> <!--coming up in x m"-->
+  </sign>
+  <sign ref="BE:C25"
+    name="Length limit"
+    nl.name="Maximaal toegelaten lengte"
+    wiki="Key:maxlength">
+    <tag key="maxlength" value="$val"/>
+      <parameter
+        ident="val"
+        input="textfield"
+        default="10"
+        suffix="m"
+        field_width="3"
+      />
+    <supplementary id="BE:ZONE"/>
+    <supplementary id="BE:Type_Ia"/> <!--Coming up in x m"-->
+  </sign>
+  <sign ref="BE:C27"
+    name="Width limit"
+    nl.name="Maximaal toegelaten breedte"
+    wiki="Key:maxwidth">
+    <tag key="maxwidth" value="$val"/>
+      <parameter
+        ident="val"
+        input="textfield"
+        default="2"
+        suffix="m"
+        field_width="3"
+      />
+    <supplementary id="BE:Type_Ia"/> <!--Coming up in x m"-->
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C29"
+    name="Height limit"
+    nl.name="Maximaal toegelaten hoogte"
+    wiki="Key:maxheight">
+    <tag key="maxheight" value="$val"/>
+      <parameter
+        ident="val"
+        input="textfield"
+        default="4.2"
+        suffix="m"
+        field_width="3"
+      />
+    <supplementary id="BE:Type_Ia"/> <!--Coming up in x m"-->
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C31d"
+    name="Forbidden to turn right"
+    nl.name="Verboden af te slaan naar rechts"
+    wiki="Tag:restriction">
+    <tag key="type" value="restriction"/>
+    <tag key="restriction" value="no_right_turn"/>
+    <supplementary id="BE:M2_nl"/> <!--except_for_bicycles_nl-->
+    <supplementary id="BE:M2_fr"/> <!--except_for_bicycles_fr-->
+    <supplementary id="BE:M3_nl"/> <!--except_for_bicycles_and_mofas_nl-->
+    <supplementary id="BE:M3_fr"/> <!--except_for_bicycles_and_mofas_fr-->
+  </sign>
+  <sign ref="BE:C31g"
+    name="Forbidden to turn left"
+    nl.name="Verboden af te slaan naar links"
+    wiki="Tag:restriction">
+    <tag key="type" value="restriction"/>
+    <tag key="restriction" value="no_left_turn"/>
+    <supplementary id="BE:M2_nl"/> <!--except_for_bicycles_nl-->
+    <supplementary id="BE:M2_fr"/> <!--except_for_bicycles_fr-->
+    <supplementary id="BE:M3_nl"/> <!--except_for_bicycles_and_mofas_nl-->
+    <supplementary id="BE:M3_fr"/> <!--except_for_bicycles_and_mofas_fr-->
+  </sign>
+  <sign ref="BE:C33"
+    name="U-turn not allowed"
+    nl.name="Verboden terug te keren"
+    wiki="Tag:restriction">
+    <tag key="type" value="restriction"/>
+    <tag key="restriction" value="no_u_turn"/>
+  </sign>
+  <sign ref="BE:C35"
+    name="No overtaking"
+    nl.name="Voorbijsteken verboden"
+    wiki="Key:overtaking">
+    <tag key="overtaking" value="no"/>
+    <supplementary id="BE:Type_II"/> <!--Over the following x m"-->
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C37"
+    name="End of overtaking prohibition"
+    nl.name="Einde verbod op voorbijsteken"
+    wiki="Key:overtaking">
+    <tag key="overtaking" value="yes"/>
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C39"
+    name="No overtaking for trucks"
+    nl.name="Voorbijsteken verboden voor vrachtwagens +3.5t"
+    wiki="Key:overtaking">
+    <tag key="overtaking:hgv" value="no"/>
+    <supplementary id="BE:Type_II"/> <!--Over the following x m"-->
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C41"
+    name="End of overtaking prohibition for trucks"
+    nl.name="Einde verbod op voorbijsteken voor vrachtwagens +3.5t"
+    wiki="Key:overtaking">
+    <tag key="overtaking:hgv" value="yes"/>
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C43"
+    name="Speed limit"
+    nl.name="Maximaal toegelaten snelheid tot aan volgende kruising"
+    wiki="Key:maxspeed"
+    help="Choose from: 5, 10, 15, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120">
+    <tag key="maxspeed" value="$val" ident="restriction"/>
+      <parameter
+        ident="val"
+        type="int"
+        input="combo"
+        editable="yes"
+        text="Speed limit"
+        nl.text="Maximaal toegelaten snelheid"
+        suffix="km/h"
+        values="5, 10, 15, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120"
+        default="50"
+        field_width="3"
+      />
+    <supplementary id="BE:Type_VI_nl"/> <!--Herhaling-->
+  </sign>
+  <sign ref="BE:C45"
+    name="End of speed limit"
+    nl.name="Toegelaten snelheid wordt weer standaard"
+    wiki="Key:maxspeed"
+    help="Choose from: 5, 10, 15, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120">
+    <tag key="maxspeed" value="$val"/>
+      <parameter
+        ident="val"
+        type="int"
+        input="combo"
+        editable="yes"
+        text="speed-limit"
+        nl.text="Maximaal toegelaten snelheid"
+        suffix="km/h"
+        values="5, 10, 15, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120"
+        default="50"
+        field_width="3"
+      />
+  </sign>
+  <sign ref="BE:C46"
+    name="All limitations suspended"
+    nl.name="Alle beperkingen vervallen">
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C47_nl"
+    name="Toll booth. No driving through without stopping"
+    nl.name="Grensovergang. Niet voorbijrijden zonder te stoppen"
+    wiki="Key:barrier=toll_booth">
+    <tag key="barrier" value="toll_booth"/>
+    <supplementary id="BE:Type_Ia"/> <!--Coming up in x m"-->
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C47_fr"
+    name="Toll booth. No driving through without stopping"
+    nl.name="Grensovergang. Niet voorbijrijden zonder te stoppen"
+    wiki="Key:barrier=toll_booth">
+    <tag key="barrier" value="toll_booth"/>
+    <supplementary id="BE:Type_Ia"/> <!--Coming up in x m"-->
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C48"
+    name="Cruise control prohibited"
+    nl.name="Gebruik van cruise control verboden">
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:C49"
+    name="End of cruise control prohibition"
+    nl.name="Einde verbod gebruik van cruise control">
+    <supplementary id="BE:ZONE"/>
+  </sign>
+
+  <sign ref="BE:D01a"
+    name="Mandatory to turn into street on the left"
+    nl.name="Verplicht straat links inslaan"
+    wiki="Tag:restriction">
+    <tag key="type" value="restriction"/>
+    <tag key="restriction" value="only_left_turn"/>
+    <supplementary id="BE:M2_nl"/> <!--except_for_bicycles_nl-->
+    <supplementary id="BE:M2_fr"/> <!--except_for_bicycles_fr-->
+    <supplementary id="BE:M3_nl"/> <!--except_for_bicycles_and_mofas_nl-->
+    <supplementary id="BE:M3_fr"/> <!--except_for_bicycles_and_mofas_fr-->
+  </sign>
+  <sign ref="BE:D01b"
+    name="Mandatory to turn into street on the left"
+    nl.name="Verplicht straat links inslaan"
+    wiki="Tag:restriction">
+    <tag key="type" value="restriction"/>
+    <tag key="restriction" value="only_left_turn"/>
+    <supplementary id="BE:M2_nl"/> <!--except_for_bicycles_nl-->
+    <supplementary id="BE:M2_fr"/> <!--except_for_bicycles_fr-->
+    <supplementary id="BE:M3_nl"/> <!--except_for_bicycles_and_mofas_nl-->
+    <supplementary id="BE:M3_fr"/> <!--except_for_bicycles_and_mofas_fr-->
+  </sign>
+  <sign ref="BE:D01c"
+    name="Mandatory to continue into the street straight on"
+    nl.name="Verplicht straat rechtdoor volgen"
+    wiki="Tag:restriction">
+    <tag key="type" value="restriction"/>
+    <tag key="restriction" value="only_straight_on"/>
+    <supplementary id="BE:M2_nl"/> <!--except_for_bicycles_nl-->
+    <supplementary id="BE:M2_fr"/> <!--except_for_bicycles_fr-->
+    <supplementary id="BE:M3_nl"/> <!--except_for_bicycles_and_mofas_nl-->
+    <supplementary id="BE:M3_fr"/> <!--except_for_bicycles_and_mofas_fr-->
+  </sign>
+  <sign ref="BE:D01d"
+    name="Mandatory to follow arrow to the left"
+    nl.name="Verplicht straat links inslaan"
+    wiki="Tag:restriction">
+    <tag key="type" value="restriction"/>
+    <tag key="restriction" value="only_left_turn"/>
+    <supplementary id="BE:M2_nl"/> <!--except_for_bicycles_nl-->
+    <supplementary id="BE:M2_fr"/> <!--except_for_bicycles_fr-->
+    <supplementary id="BE:M3_nl"/> <!--except_for_bicycles_and_mofas_nl-->
+    <supplementary id="BE:M3_fr"/> <!--except_for_bicycles_and_mofas_fr-->
+  </sign>
+  <sign ref="BE:D02a"
+    name="Mandatory to turn into street on the right"
+    nl.name="Verplicht straat rechts inslaan"
+    wiki="Tag:restriction">
+    <tag key="type" value="restriction"/>
+    <tag key="restriction" value="only_right_turn"/>
+    <supplementary id="BE:M2_nl"/> <!--except_for_bicycles_nl-->
+    <supplementary id="BE:M2_fr"/> <!--except_for_bicycles_fr-->
+    <supplementary id="BE:M3_nl"/> <!--except_for_bicycles_and_mofas_nl-->
+    <supplementary id="BE:M3_fr"/> <!--except_for_bicycles_and_mofas_fr-->
+  </sign>
+  <sign ref="BE:D02b"
+    name="Mandatory to turn into street on the right"
+    nl.name="Verplicht straat rechts inslaan"
+    wiki="Tag:restriction">
+    <tag key="type" value="restriction"/>
+    <tag key="restriction" value="only_right_turn"/>
+    <supplementary id="BE:M2_nl"/> <!--except_for_bicycles_nl-->
+    <supplementary id="BE:M2_fr"/> <!--except_for_bicycles_fr-->
+    <supplementary id="BE:M3_nl"/> <!--except_for_bicycles_and_mofas_nl-->
+    <supplementary id="BE:M3_fr"/> <!--except_for_bicycles_and_mofas_fr-->
+  </sign>
+  <sign ref="BE:D02c"
+    name="Mandatory to follow arrow to the right"
+    nl.name="Verplicht straat rechts inslaan"
+    wiki="Tag:restriction">
+    <tag key="type" value="restriction"/>
+    <tag key="restriction" value="only_right_turn"/>
+    <supplementary id="BE:M2_nl"/> <!--except_for_bicycles_nl-->
+    <supplementary id="BE:M2_fr"/> <!--except_for_bicycles_fr-->
+    <supplementary id="BE:M3_nl"/> <!--except_for_bicycles_and_mofas_nl-->
+    <supplementary id="BE:M3_fr"/> <!--except_for_bicycles_and_mofas_fr-->
+  </sign>
+  <sign ref="BE:D05"
+    name="Roundabout"
+    nl.name="Rond punt"
+    fr.name="Rond point"
+    wiki="Tag:junction=roundabout">
+    <tag key="junction" value="roundabout"/>
+  </sign>
+  <sign ref="BE:D07"
+    name="Bicycle path"
+    nl.name="Verplicht fietspad">
+    <tag key="highway" value="path"/>
+    <tag key="bicycle" value="official"/>
+    <tag key="access" value="" ident="mode"/>
+    <supplementary id="BE:M7"/> <!--mopeds_B_forbidden_on_cycleway"-->
+    <supplementary id="BE:M6"/> <!--mopeds_B_cycleway_mandatory"-->
+  </sign>
+  <sign ref="BE:D09"
+    name="Split pedestrian and bicycle path"
+    nl.name="Gescheiden verplicht voet- en fietspad">
+    <tag key="highway" value="path"/>
+    <tag key="foot" value="official"/>
+    <tag key="bicycle" value="official"/>
+    <tag key="segregated" value="yes"/>
+    <tag key="access" value="" ident="mode"/>
+  </sign>
+  <sign ref="BE:D10"
+    name="Pedestrian and bicycle path"
+    nl.name="Gemeenschappelijk verplicht voet- en fietspad">
+    <tag key="highway" value="path"/>
+    <tag key="foot" value="official"/>
+    <tag key="bicycle" value="official"/>
+    <tag key="access" value="" ident="mode"/>
+  </sign>
+  <sign ref="BE:D11"
+    name="Pedestrian path"
+    nl.name="Verplicht voetpad">
+    <tag key="highway" value="path"/>
+    <tag key="foot" value="official"/>
+    <tag key="access" value="" ident="mode"/>
+  </sign>
+  <sign ref="BE:D13"
+    name="Bridle path"
+    nl.name="Verplicht pad voor ruiters en koetsiers">
+    <tag key="highway" value="path"/>
+    <tag key="horse" value="official"/>
+    <tag key="access" value="" ident="mode"/>
+  </sign>
+
+  <sign ref="BE:E0a"
+    name="From this point on"
+    nl.name="Vanaf hier"
+    supplementary="yes">
+  </sign>
+  <sign ref="BE:E0b"
+    name="Up to this point"
+    nl.name="Tot hier"
+    supplementary="yes">
+  </sign>
+  <sign id="BE:E0c"
+    ref="BE:E0c[$val]"
+    name="From this point till x m further"
+    nl.name="Vanaf hier tot x m verder"
+    help="Choose from: 5, 10, 15, 20"
+    supplementary="yes">
+      <parameter
+        ident="val"
+        type="int"
+        input="combo" editable="yes" text="Distance" nl.text="De volgende"
+        suffix="m" values="5, 10, 15, 20"
+        default="5"
+        field_width="2"/>
+  </sign>
+  <sign ref="BE:E0d"
+    name="Continues before and after"
+    nl.name="Loopt door voor en na"
+    supplementary="yes">
+  </sign>
+  <sign ref="BE:E1"
+    name="No Parking"
+    wiki="Key:parking"
+    help="Check and correct tags">
+    <tag key="parking:lanes:right" value="no"/>
+    <supplementary id="BE:M1"/> <!--only_applies_to_bicycles"-->
+    <supplementary id="BE:M8"/> <!--only_applies_to_bicycles_and_mofas"-->
+    <supplementary id="BE:E0a"/> <!--From this point on"-->
+    <supplementary id="BE:E0b"/> <!--Up to this point"-->
+    <supplementary id="BE:E0c"/> <!--From this point till x m further"-->
+    <supplementary id="BE:E0d"/> <!--Continuation"-->
+    <supplementary id="BE:Type_V_hours"/>
+    <supplementary id="BE:Type_V_weekdays"/>
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:E3"
+    name="No Halting"
+    wiki="Key:parking"
+    help="Check and correct tags">
+    <tag key="parking:lanes:right" value="no"/>
+    <supplementary id="BE:E0a"/> <!--From this point on"-->
+    <supplementary id="BE:E0b"/> <!--Up to this point"-->
+    <supplementary id="BE:E0c"/> <!--From this point till x m further"-->
+    <supplementary id="BE:E0d"/> <!--Continuation"-->
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:E5"
+    name="Parking from 1 till 15th of month"
+    name.nl="Beurtelings parkeren 1/15"
+    help="These signs go on the side with even housenumbers"
+    wiki="Key:parking">
+    <supplementary id="BE:Type_VIIb"/>
+  </sign>
+  <sign ref="BE:E7"
+    name="Parking from 16 till 31th of month"
+    name.nl="Beurtelings parkeren 16/31"
+    help="These signs go on the side with odd housenumbers"
+    wiki="Key:parking">
+    <supplementary id="BE:Type_VIIb"/>
+  </sign>
+  <sign ref="BE:E9a"
+    name="Parking"
+    wiki="Key:parking">
+    <tag key="parking:lane:left right both" value="parallel diagonal perpendicular"/>
+    <tag key="parking:condition:left right both" value="free ticket disc residents customers private disabled charging"/>
+    <supplementary id="BE:M1"/> <!--only_applies_to_bicycles"-->
+    <supplementary id="BE:M8"/> <!--only_applies_to_bicycles_and_mofas"-->
+    <supplementary id="BE:E0a"/> <!--From this point on"-->
+    <supplementary id="BE:E0b"/> <!--Up to this point"-->
+    <supplementary id="BE:E0c"/> <!--From this point till x m further"-->
+    <supplementary id="BE:E0d"/> <!--Continuation"-->
+    <supplementary id="BE:Type_V_fee"/>
+    <supplementary id="BE:Type_V_hours"/>
+    <supplementary id="BE:Type_V_weekdays"/>
+    <supplementary id="BE:Type_VIIb"/>
+    <supplementary id="BE:Type_VIIb_except_for_residential_parking_permit"/>
+    <supplementary id="BE:Type_VIIc"/>
+    <supplementary id="BE:Type_VIId"/>
+    <supplementary id="BE:Type_VII_disabled"/>
+    <supplementary id="BE:Type_VII_bewoners"/>
+    <supplementary id="BE:Type_VII_parkeerkaart"/>
+    <supplementary id="BE:Type_VII_autodelen"/>
+    <supplementary id="BE:Type_VII_charging_station"/>
+    <supplementary id="BE:Type_VII_charging_station_car"/>
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:E9a_disabled"
+    name="Parking reserved for disabled"
+    wiki="Key:parking">
+    <tag key="parking:lane:right" value="parallel diagonal perpendicular"/>
+    <tag key="parking:condition:right" value="disabled"/>
+    <tag key="amenity" value="parking"/>
+    <tag key="access" value="no"/>
+    <supplementary id="BE:E0a"/> <!--From this point on"-->
+    <supplementary id="BE:E0b"/> <!--Up to this point"-->
+    <supplementary id="BE:E0c"/> <!--From this point till x m further"-->
+    <supplementary id="BE:E0d"/> <!--Continuation"-->
+    <supplementary id="BE:Type_V_hours"/>
+    <supplementary id="BE:Type_V_weekdays"/>
+  </sign>
+  <sign ref="BE:E9a_disc"
+    name="Parking with disc"
+    wiki="Key:parking">
+    <tag key="parking:lane:right" value="parallel diagonal perpendicular"/>
+    <tag key="parking:condition:right" value="disc"/>
+    <supplementary id="BE:E0a"/> <!--From this point on"-->
+    <supplementary id="BE:E0b"/> <!--Up to this point"-->
+    <supplementary id="BE:E0c"/> <!--From this point till x m further"-->
+    <supplementary id="BE:E0d"/> <!--Continuation"-->
+    <supplementary id="BE:Type_V_hours"/>
+    <supplementary id="BE:Type_V_weekdays"/>
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:E9b"
+    name="Parking for cars only"
+    wiki="Key:parking">
+    <tag key="parking:lane:left right both" value="parallel diagonal perpendicular"/>
+    <tag key="parking:condition:left right both" value="free ticket disc residents customers private charging"/>
+    <supplementary id="BE:E0a"/> <!--From this point on"-->
+    <supplementary id="BE:E0b"/> <!--Up to this point"-->
+    <supplementary id="BE:E0c"/> <!--From this point till x m further"-->
+    <supplementary id="BE:E0d"/> <!--Continuation"-->
+    <supplementary id="BE:Type_V_hours"/>
+    <supplementary id="BE:Type_V_weekdays"/>
+    <supplementary id="BE:Type_VIIb"/>
+    <supplementary id="BE:Type_VIIb_except_for_residential_parking_permit"/>
+    <supplementary id="BE:Type_VIIc"/>
+    <supplementary id="BE:Type_VIId"/>
+    <supplementary id="BE:Type_VII_charging_station_car"/>
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:E9c"
+    name="Parking only for trucks"
+    wiki="Key:parking">
+    <tag key="parking:lane:left right both" value="parallel diagonal perpendicular"/>
+    <tag key="parking:condition:left right both" value="free ticket disc residents customers private"/>
+    <tag key="amenity" value="parking"/>
+    <tag key="access" value="no"/>
+    <tag key="hgv" value="yes"/>
+    <supplementary id="BE:E0a"/> <!--From this point on"-->
+    <supplementary id="BE:E0b"/> <!--Up to this point"-->
+    <supplementary id="BE:E0c"/> <!--From this point till x m further"-->
+    <supplementary id="BE:E0d"/> <!--Continuation"-->
+    <supplementary id="BE:Type_V_hours"/>
+    <supplementary id="BE:Type_V_weekdays"/>
+    <supplementary id="BE:Type_VIIc"/>
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:E9d"
+    name="Parking only for autocars"
+    wiki="Key:parking">
+    <tag key="parking:lane:left right both" value="parallel diagonal perpendicular"/>
+    <tag key="parking:condition:left right both" value="free ticket disc residents customers private"/>
+    <tag key="amenity" value="parking"/>
+    <tag key="access" value="no"/>
+    <tag key="bus" value="yes"/>
+    <supplementary id="BE:E0a"/> <!--From this point on"-->
+    <supplementary id="BE:E0b"/> <!--Up to this point"-->
+    <supplementary id="BE:E0c"/> <!--From this point till x m further"-->
+    <supplementary id="BE:E0d"/> <!--Continuation"-->
+    <supplementary id="BE:Type_V_hours"/>
+    <supplementary id="BE:Type_V_weekdays"/>
+    <supplementary id="BE:Type_VIIc"/>
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:E9e"
+    name="Parking only next to the road"
+    wiki="Key:parking">
+    <tag key="parking:lane:left right both" value="parallel"/>
+    <tag key="parking:condition:left right both" value="free ticket disc residents customers private"/>
+    <supplementary id="BE:E0a"/> <!--From this point on"-->
+    <supplementary id="BE:E0b"/> <!--Up to this point"-->
+    <supplementary id="BE:E0c"/> <!--From this point till x m further"-->
+    <supplementary id="BE:E0d"/> <!--Continuation"-->
+    <supplementary id="BE:Type_V_hours"/>
+    <supplementary id="BE:Type_V_weekdays"/>
+    <supplementary id="BE:Type_VIIb"/>
+    <supplementary id="BE:Type_VIIb_except_for_residential_parking_permit"/>
+    <supplementary id="BE:Type_VIIc"/>
+  </sign>
+  <sign ref="BE:E9f"
+    name="Parking halfway on road and halfway next to it"
+    wiki="Key:parking">
+    <tag key="parking:lane:left right both" value="parallel"/>
+    <tag key="parking:condition:left right both" value="free ticket disc residents customers private"/>
+    <supplementary id="BE:E0a"/> <!--From this point on"-->
+    <supplementary id="BE:E0b"/> <!--Up to this point"-->
+    <supplementary id="BE:E0c"/> <!--From this point till x m further"-->
+    <supplementary id="BE:E0d"/> <!--Continuation"-->
+    <supplementary id="BE:Type_V_hours"/>
+    <supplementary id="BE:Type_V_weekdays"/>
+    <supplementary id="BE:Type_VIIb"/>
+    <supplementary id="BE:Type_VIIb_except_for_residential_parking_permit"/>
+    <supplementary id="BE:Type_VIIc"/>
+  </sign>
+  <sign ref="BE:E9g"
+    name="Parking forbidden on sidewalk"
+    wiki="Key:parking">
+    <tag key="parking:lane:left right both" value="parallel"/>
+    <tag key="parking:condition:left right both" value="free ticket disc residents customers private"/>
+    <supplementary id="BE:E0a"/> <!--From this point on"-->
+    <supplementary id="BE:E0b"/> <!--Up to this point"-->
+    <supplementary id="BE:E0c"/> <!--From this point till x m further"-->
+    <supplementary id="BE:E0d"/> <!--Continuation"-->
+    <supplementary id="BE:Type_V_hours"/>
+    <supplementary id="BE:Type_V_weekdays"/>
+    <supplementary id="BE:Type_VIIb"/>
+    <supplementary id="BE:Type_VIIb_except_for_residential_parking_permit"/>
+    <supplementary id="BE:Type_VIIc"/>
+    <supplementary id="BE:Type_VII_charging_station"/>
+    <supplementary id="BE:Type_VII_charging_station_car"/>
+  </sign>
+  <sign ref="BE:E9h"
+    name="Parking only for campingcars/mobilhomes"
+    wiki="Key:parking">
+    <tag key="parking:lane:left right both" value="parallel diagonal perpendicular"/>
+    <tag key="parking:condition:left right both" value="free ticket disc"/>
+    <tag key="amenity" value="parking"/>
+    <tag key="access" value="no"/>
+    <tag key="mobilhome" value="yes"/>
+    <supplementary id="BE:E0a"/> <!--From this point on"-->
+    <supplementary id="BE:E0b"/> <!--Up to this point"-->
+    <supplementary id="BE:E0c"/> <!--From this point till x m further"-->
+    <supplementary id="BE:E0d"/> <!--Continuation"-->
+    <supplementary id="BE:Type_V_hours"/>
+    <supplementary id="BE:Type_V_weekdays"/>
+    <supplementary id="BE:Type_VIIc"/>
+    <supplementary id="BE:ZONE"/>
+  </sign>
+  <sign ref="BE:E9i"
+    name="Parking only for motorcycles"
+    wiki="Key:parking">
+    <tag key="parking:lane:left right both" value="parallel diagonal perpendicular"/>
+    <tag key="parking:condition:left right both" value="free ticket disc"/>
+    <tag key="amenity" value="parking"/>
+    <tag key="access" value="no"/>
+    <tag key="motorcycle" value="yes"/>
+    <supplementary id="BE:E0a"/> <!--From this point on"-->
+    <supplementary id="BE:E0b"/> <!--Up to this point"-->
+    <supplementary id="BE:E0c"/> <!--From this point till x m further"-->
+    <supplementary id="BE:E0d"/> <!--Continuation"-->
+    <supplementary id="BE:Type_V_hours"/>
+    <supplementary id="BE:Type_V_weekdays"/>
+    <supplementary id="BE:Type_VIIc"/>
+  </sign>
+
+  <sign ref="BE:F1"
+    name="Built-up area / City Limits"
+    nl.name="Bebouwde kom"
+    fr.name="Agglomération">
+    <tag key="maxspeed" value="50"/>
+    <tag key="zone:traffic" value="BE:urban"/>
+    <supplementary id="BE:E11"/>
+  </sign>
+  <sign ref="BE:F1bh"
+    name="Built-up area / City Limits"
+    nl.name="Bebouwde kom"
+    fr.name="Agglomération">
+    <tag key="maxspeed" value="50"/>
+    <tag key="zone:traffic" value="BE:urban"/>
+    <supplementary id="BE:E11"/>
+  </sign>
+  <sign ref="BE:F1bv"
+    name="Built-up area / City Limits"
+    nl.name="Bebouwde kom"
+    fr.name="Agglomération">
+    <tag key="maxspeed" value="50"/>
+    <tag key="zone:traffic" value="BE:urban"/>
+    <supplementary id="BE:E11"/>
+  </sign>
+  <sign ref="BE:F3"
+    name="End of Built-up area / City Limits"
+    nl.name="Einde bebouwde kom"
+    fr.name="Fin d'agglomération">
+    <tag key="zone:traffic" value="BE:rural"/>
+  </sign>
+  <sign ref="BE:F3bh"
+    name="End of Built-up area / City Limits"
+    nl.name="Einde bebouwde kom"
+    fr.name="Fin d'agglomération">
+    <tag key="zone:traffic" value="BE:rural"/>
+  </sign>
+  <sign ref="BE:F3bv"
+    name="End of Built-up area / City Limits"
+    nl.name="Einde bebouwde kom"
+    fr.name="Fin d'agglomération">
+    <tag key="zone:traffic" value="BE:rural"/>
+  </sign>
+  <sign ref="BE:F4a"
+    name="Speed limit zone"
+    nl.name="Maximumsnelheid geldig in hele zone"
+    help="Choose from: 20, 30, 50, 70">
+    <tag key="maxspeed" value="$val"/>
+    <tag key="zone:maxspeed" value="BE:$val"/>
+      <parameter
+        ident="val"
+        type="int"
+        input="combo" editable="yes" text="speed-limit" nl.text="Maximumsnelheid"
+        suffix="km/h" values="20, 30, 50, 70"
+        default="30"
+        field_width="2"/>
+  </sign>
+  <sign ref="BE:F4b"
+    name="End of speed limit zone"
+    nl.name="Einde zone met snelheidsbeperking"
+    fr.name="Fin de zone avec vitesse limitée"
+    help="If the zone wasn't inside city limits, change zone:traffic and new maxspeed accordingly. The following tags could be applied more intelligently. These 2 only apply when coming out of most zone30.">
+    <tag key="zone:traffic" value="BE:urban"/>
+    <tag key="maxspeed" value="50"/>
+  </sign>
+  <sign ref="BE:F5"
+    name="Motorway"
+    nl.name="Autosnelweg"
+    help="Choose from: motorway, motorway_link">
+    <tag key="highway" value="$val"/>
+      <parameter
+        ident="val"
+        type="string"
+        input="combo" editable="no" text="link or highway" nl.text="op-/afrit of snelweg"
+        values="motorway, motorway_link"
+        default="motorway_link"
+        field_width="13"/>
+    <tag key="motorway" value="yes"/>
+    <tag key="maxspeed" value="120"/>
+  </sign>
+  <sign ref="BE:F7"
+    name="End motorway"
+    nl.name="Einde autosnelweg"
+    help="Choose from: motorway, motorway_link">
+    <tag key="highway" value="$val"/>
+      <parameter
+        ident="val"
+        type="string"
+        input="combo" editable="no" text="link or highway" nl.text="op-/afrit of snelweg"
+        values="motorway, motorway_link"
+        default="motorway_link"
+        field_width="13"/>
+  </sign>
+  <sign ref="BE:F8"
+    name="Tunnel"
+    nl.name="Tunnel"
+    wiki="Key:tunnel">
+    <tag key="tunnel" value="yes"/>
+    <supplementary id="BE:Type_Ia"/> <!--Coming up in x m"-->
+    <supplementary id="BE:Type_II"/> <!--Over the following x m"-->
+  </sign>
+  <sign ref="BE:F9"
+    name="Trunk road"
+    nl.name="Expressweg"
+    help="Choose from: trunk, trunk_link">
+    <tag key="highway" value="$val"/>
+      <parameter
+        ident="val"
+        type="string"
+        input="combo" editable="no" text="link or highway" nl.text="op-/afrit of snelweg"
+        values="trunk, trunk_link"
+        default="trunk_link"
+        field_width="10"/>
+    <tag key="motorroad" value="yes"/>
+    <tag key="maxspeed" value="100"/>
+  </sign>
+  <sign ref="BE:F11"
+    name="End trunk road"
+    nl.name="Einde expressweg">
+    <tag key="highway" value="$val"/>
+      <parameter
+        ident="val"
+        type="string"
+        input="combo" editable="no" text="link or highway" nl.text="op-/afrit of snelweg"
+        values="trunk, trunk_link"
+        default="trunk_link"
+        field_width="10"/>
+  </sign>
+  <sign ref="BE:F12a"
+    name="Living street"
+    nl.name="Begin woonerf"
+    wiki="Tag:highway%3Dliving_street">
+    <tag key="highway" value="living_street"/>
+    <tag key="maxspeed" value="20"/>
+  </sign>
+  <sign ref="BE:F12b"
+    name="End of Living street"
+    nl.name="Einde woonerf"
+    wiki="Tag:highway%3Dliving_street">
+  </sign>
+  <sign ref="BE:F17"
+    name="Bus lane"
+    nl.name="Busbaan"
+    wiki="Key:Bus_lanes"
+    help="Remove the tags which don't apply">
+    <tag key="lanes" value="3"/>
+    <tag key="lanes:psv" value="1"/>
+    <tag key="psv:lanes" value="no|no|yes"/>
+    <tag key="lanes:psv:forward" value="1"/>
+    <tag key="lanes:psv:backward" value="1"/>
+  </sign>
+  <sign ref="BE:F18"
+    name="Bus/tram lane in between dual carriage way"
+    nl.name="Rijvak voor lijnbus of tram tussen de rijstroken"
+    wiki="Key:Bus_lanes"
+    help="Remove the tags which don't apply, map the tram tracks as separate ways and the bus as a separate service way in between. Then all the :lanes: tags aren't needed.">
+    <tag key="lanes" value="3"/>
+    <tag key="lanes:psv" value="1"/>
+    <tag key="psv:lanes" value="no|yes|no"/>
+  </sign>
+  <sign ref="BE:F19"
+    name="One-way street"
+    nl.name="Eénrichtingsverkeer"
+    fr.name="Sens unique"
+    wiki="Key:oneway">
+    <tag key="oneway" value="yes"/>
+    <supplementary id="BE:M5"/> <!--not_oneway_for_bicycles-->
+    <supplementary id="BE:M6"/> <!--not_oneway_for_bicycles_and_mofas-->
+  </sign>
+  <sign ref="BE:F21"
+    name="Go around"
+    nl.name="Kiezen of delen">
+  </sign>
+  <sign ref="BE:F43"
+    name="Municipality boundary"
+    nl.name="Gemeentegrens">
+  </sign>
+  <sign ref="BE:F45"
+    name="No exit"
+    nl.name="Doodlopende straat"
+    fr.name="Cul-de-sac"
+    help="If you add a no_exit tag, it should be added to the final node and not to the way. This is not really necessary."
+    wiki="Key:no_exit">
+    <tag key="no_exit" value="yes"/>
+  </sign>
+  <sign ref="BE:F45b"
+    useful="no"
+    name="No exit, except for bicycle"
+    nl.name="Doodlopende straat, behalve voor fietsers"
+    fr.name="Cul-de-sac, sauf pour cyclistes"
+    help="If you add a no_exit tag, it should be added to the final node and not to the way. This is not really necessary."
+    wiki="Key:no_exit">
+    <tag key="no_exit" value="yes"/>
+    <tag key="no_exit:bicycle" value="no"/>
+  </sign>
+  <sign ref="BE:F47"
+    useful="no"
+    name="End of roadworks"
+    nl.name="Einde wegenwerken">
+  </sign>
+  <sign ref="BE:F49"
+    name="Pedestrian crossing"
+    nl.name="Oversteekplaats voor voetgangers">
+    <tag key="highway" value="crossing"/>
+  </sign>
+  <sign ref="BE:F50"
+    name="Bicycle crossing"
+    nl.name="Oversteekplaats voor fietsers">
+    <tag key="highway" value="crossing"/>
+    <tag key="bicycle" value="yes"/>
+  </sign>
+  <sign ref="BE:F50bis"
+    name="Bicycle crossing behind corner"
+    nl.name="Oversteekplaats voor fietsers om de hoek">
+    <tag key="highway" value="crossing"/>
+    <tag key="bicycle" value="yes"/>
+  </sign>
+  <sign ref="BE:F51"
+    name="Pedestrian crossing underground"
+    nl.name="Ondergrondse oversteekplaats voor voetgangers">
+    <tag key="layer" value="-1"/>
+  </sign>
+  <sign ref="BE:F51a"
+    name="Pedestrian crossing underground"
+    nl.name="Ondergrondse oversteekplaats voor voetgangers">
+    <tag key="layer" value="-1"/>
+  </sign>
+  <sign ref="BE:F52"
+    name="Emergency exit out of tunnel"
+    nl.name="Nooduitgang uit tunnel">
+    <tag key="layer" value="-1"/>
+    <tag key="entrance" value="emergency"/>
+  </sign>
+  <sign id="BE:F52bis"
+    ref="BE:F52bis[$val]"
+    name="Distance and direction toward emergency exit out of tunnel"
+    nl.name="Afstand en richingaanwijzer naar nooduitgang uit tunnel">
+    <tag key="layer" value="-1"/>
+    <tag key="entrance" value="emergency"/>
+      <parameter
+        ident="val"
+        type="int"
+        input="combo" editable="yes" text="Distance" nl.text="Afstand"
+        suffix="m" values="50, 100, 150, 200"
+        default="50"
+        field_width="3"/>
+  </sign>
+  <sign ref="BE:F59"
+    name="Parking lot"
+    nl.name="Parkeerterrein/garage">
+    <tag key="amenity" value="parking"/>
+  </sign>
+  <sign ref="BE:F60"
+    name="Indoor parking lot"
+    nl.name="Overdekte parking">
+    <tag key="amenity" value="parking"/>
+    <tag key="covered" value="yes"/>
+  </sign>
+  <sign ref="BE:F87"
+    name="Speed bump"
+    nl.name="Verhoogde inrichting(en), verkeersdrempel"
+    wiki="Key:traffic_calming">
+    <tag key="traffic_calming" value="bump"/>
+  </sign>
+  <sign ref="BE:F95"
+    name="Runaway truck ramp"
+    nl.name="Nooduitweg voor op hol geslagen vrachtwagens"
+    wiki="Tag:highway%3Descape">
+    <tag key="highway" value="escape"/>
+  </sign>
+  <sign ref="BE:F99c"
+    name="Access only for pedestrians, cyclists, horses and agricultural"
+    nl.name="Enkel voetgangers, fietsers, ruiters en landbouwvoertuigen">
+    <tag key="access" value="destination"/>
+    <tag key="foot" value="yes"/>
+    <tag key="horse" value="yes"/>
+    <tag key="bicycle" value="yes"/>
+    <tag key="agricultural" value="yes"/>
+  </sign>
+  <sign ref="BE:F101c"
+    name="End of access only for pedestrians, cyclists, horses and agricultural"
+    nl.name="Einde enkel voetgangers, fietsers, ruiters en landbouwvoertuigen">
+    <tag key="access" value="destination"/>
+    <tag key="foot" value="yes"/>
+    <tag key="horse" value="yes"/>
+    <tag key="bicycle" value="yes"/>
+    <tag key="agricultural" value="yes"/>
+  </sign>
+  <sign ref="BE:F103"
+    name="Pedestrian zone"
+    nl.name="Winkelwandelstraat"
+    wiki="Tag:highway%3Dpedestrian">
+    <tag key="highway" value="pedestrian"/>
+    <tag key="access" value="" ident="mode"/>
+    <supplementary id="BE:M2_nl"/> <!--except_for_bicycles_nl-->
+    <supplementary id="BE:M2_fr"/> <!--except_for_bicycles_fr-->
+    <supplementary id="BE:M3_nl"/> <!--except_for_bicycles_and_mofas_nl-->
+    <supplementary id="BE:M3_fr"/> <!--except_for_bicycles_and_mofas_fr-->
+  </sign>
+  <sign ref="BE:F111"
+    name="Bicycle road"
+    nl.name="Fietsstraat">
+    <tag key="bicycle_road" value="yes"/>
+    <tag key="bicycle" value="official"/>
+    <tag key="vehicle" value="no" ident="mode"/>
+    <tag key="maxspeed" value="30"/>
+    <tag key="source:maxspeed" value="BE:bicycle_road"/>
+  </sign>
+  
+  <sign ref="BE:M1"
+    name="Only for bicycles"
+    nl.name="Geldt enkel voor fietsers"
+    help="Check access and BICYCLE PARKING tags!!!Placed under sign B1, B5 or E9a when that sign only applies to bicycles."
+    supplementary="yes">
+    <tag key="bicycle" value="yes"/>
+    <tag key="amenity" value="bicycle_parking"/>
+  </sign>
+  <sign ref="BE:M2_fr"
+    traffic_sign_tag="BE:M2"
+    name="Except for bicycles"
+    nl.name="Uitgezonderd fietsers"
+    help="Check access and ONEWAY tags!!! Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles."
+    supplementary="yes">
+    <tag key="bicycle" value="yes"/>
+    <tag key="oneway:bicycle" value="no"/>
+  </sign>
+  <sign ref="BE:M2_nl"
+    traffic_sign_tag="BE:M2"
+    name="Except for bicycles"
+    nl.name="Uitgezonderd fietsers"
+    help="Check access and ONEWAY tags!!! Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles."
+    supplementary="yes">
+    <tag key="bicycle" value="yes"/>
+    <tag key="oneway:bicycle" value="no"/>
+  </sign>
+  <sign ref="BE:M3_nl"
+    name="Except for bicycles and mopeds"
+    nl.name="Uitgezonderd fietsers en bromfietsers"
+    help="Check access and ONEWAY tags!!! Remove the ones that don't apply. Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles and mopeds."
+    supplementary="yes">
+    <tag key="bicycle" value="yes"/>
+    <tag key="oneway:bicycle" value="no"/>
+    <tag key="moped" value="yes"/>
+    <tag key="oneway:mofa" value="no"/>
+  </sign>
+  <sign ref="BE:M3_fr"
+    name="Except for bicycles and mopeds"
+    nl.name="Uitgezonderd fietsers en bromfietsers"
+    help="Check access and ONEWAY tags!!! Remove the ones that don't apply. Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles and mopeds."
+    supplementary="yes">
+    <tag key="bicycle" value="yes"/>
+    <tag key="oneway:bicycle" value="no"/>
+    <tag key="moped" value="yes"/>
+    <tag key="oneway:mofa" value="no"/>
+  </sign>
+  <sign ref="BE:M4"
+    name="Not oneway for bicycles"
+    nl.name="Fietsers toegelaten in beide richtingen"
+    help="Check ONEWAY tags and way direction!!! Placed under sign F19: when cyclists are allowed to ride in both directions on a one-way road "
+    supplementary="yes">
+    <tag key="oneway:bicycle" value="no"/>
+  </sign>
+  <sign ref="BE:M5"
+    name="Not oneway for bicycles and mofas"
+    nl.name="Fietsers en bromfietsers (A) toegelaten in beide richtingen"
+    help="Check ONEWAY tags!!! Placed under sign F19 when cyclists and mopeds class A are allowed to ride in both directions on a one-way road."
+    supplementary="yes">
+    <tag key="oneway:bicycle" value="no"/>
+    <tag key="oneway:mofa" value="no"/>
+  </sign>
+  <sign ref="BE:M6"
+    name="Mopeds Class B have to use cycleway"
+    nl.name="Motorfietsers klasse B verplicht op fietspad"
+    help="Check ACCESS tags!!! Placed under sign D7 Mopeds class B have to ride on the cycleway."
+    supplementary="yes">
+    <tag key="moped" value="yes"/>
+  </sign>
+  <sign ref="BE:M7"
+    name="Mopeds Class B forbidden on cycleway"
+    nl.name="Motorfietsers verboden op fietspad"
+    help="Check ACCESS tags!!! Placed under sign D7 Mopeds class B are not allowed to ride on the cycleway."
+    supplementary="yes">
+    <tag key="moped" value="no"/>
+  </sign>
+  <sign ref="BE:M8"
+    name="Only for bicycles and mofas"
+    nl.name="Geldt enkel voor fietsers en bromfietsers"
+    help="Placed under sign B1, B5 or E9a; B1 or B5 only applies to bicycles and mopeds."
+    supplementary="yes">
+    <tag key="bicycle" value="yes"/>
+    <tag key="mofa" value="yes"/>
+  </sign>
+  <sign ref="BE:M11"
+    name="Only applies to link road"
+    nl.name="Geldt enkel voor afrit"
+    supplementary="yes">
+  </sign>
+  <sign ref="BE:ZONE"
+    supplementary="yes"
+    name="Limitation or parking rules apply to ZONE, don't use instead of F4a"
+    name.nl="Beperking of parkeermodaliteiten geldig in gehele ZONE, voor zone30 e.d. gebruik F4a"
+    wiki="Key:ZONE">
+  </sign>
+  <sign id="BE:Type_Ia"
+     ref="BE:Type_Ia[$val]"
+    supplementary="yes"
+    name="Coming up in x m"
+    nl.name="Binnen x m">
+      <parameter
+        ident="val"
+        type="int"
+        input="textfield" editable="yes" text="Distance" nl.text="Afstand"
+        suffix="m" values="50, 100, 150, 200"
+        default="50"
+        field_width="3"/>
+  </sign>
+  <sign id="BE:Type_Ib"
+     ref="BE:Type_Ia[$val]"
+    supplementary="yes"
+    name="STOP signing coming up in x m"
+    nl.name="STOP-bord op x m">
+      <parameter
+        ident="val"
+        type="int"
+        input="textfield" editable="yes" text="Distance" nl.text="Afstand"
+        suffix="m" values="50, 100, 150, 200"
+        default="50"
+        field_width="3"/>
+  </sign>
+  <sign id="BE:Type_II"
+    ref="BE:Type_II[$val]"
+    supplementary="yes"
+    name="Over a distance of the next x m"
+    nl.name="Over een astand van x m">
+      <parameter
+        ident="val"
+        type="int"
+        input="textfield" editable="yes" text="Distance" nl.text="Afstand"
+        suffix="m" values="50, 100, 150, 200, 1000, 2000, 3000"
+        default="50"
+        field_width="4"/>
+  </sign>
+  <sign id="BE:Type_III_nl"
+    ref="BE:Type_III"
+    supplementary="yes"
+    name="Slippery when road is wet"
+    nl.name="Bij nat wegdek"
+    wiki="Key:Proposed_features/hazard">
+    <tag key="hazard" value="slippery_when_wet"/>
+  </sign>
+  <sign id="BE:Type_IV"
+    ref="BE:Type_IV"
+    supplementary="yes"
+    name="Except for"
+    nl.name="Uitgezonderd voor"
+    fr.name="Excepté">
+      <parameter
+        ident="val"
+        input="textfield" editable="yes" text="Vehicle type"
+        default="bus, bewoners, riverains, parkeerkaart, carte de stationnement"
+        field_width="20"/>
+  </sign>
+  <sign id="BE:Type_VI_nl"
+    ref="BE:Type_VI"
+    supplementary="yes"
+    name="Reminder"
+    nl.name="HERHALING"
+    fr.name="RAPPEL">
+  </sign>
+  <sign id="BE:Type_VIIa"
+    ref="BE:Type_VIIa[$val]"
+    supplementary="yes"
+    name="Max weight indication"
+    nl.name="Specificatie van maximum toegelaten">
+      <parameter
+        ident="val"
+        input="textfield" editable="yes" text="Weight"
+        suffix="t" values="3.5, 7.5, 10, 20, 30, 40"
+        default="3.5"
+        field_width="3"/>
+  </sign>
+  <sign ref="BE:Type_V_fee"
+    supplementary="yes"
+    help=""
+    name="Parking fee"
+    nl.name="Parking betalend"
+    fr.name="Parking payant">
+  </sign>
+  <sign id="BE:Type_V_hours"
+    ref="BE:Type_V[$val]"
+    icon="BE_Type_V_hours"
+    supplementary="yes"
+    help="Van 7 tot 19u / De 7 à 19h"
+    name="From/till hours"
+    nl.name="Van/tot in uren">
+      <parameter
+        ident="val"
+        input="textfield" editable="yes" text="hours"
+        default="Van maandag tot vrijdag van 7 tot 19u / De lundi à vendredi de 7 à 19h"
+        field_width="100"/>
+  </sign>
+  <sign id="BE:Type_V_weekdays"
+    ref="BE:Type_V[$val]"
+    icon="BE_Type_V_weekdays"
+    supplementary="yes"
+    help="Van maandag tot vrijdag / De lundi à vendredi"
+    name="From/till weekdays"
+    nl.name="Op welke weekdagen">
+      <parameter
+        ident="val"
+        input="textfield" editable="yes" text="hours"
+        default="Van maandag tot vrijdag van 7 tot 19u / De lundi à vendredi de 7 à 19h"
+        field_width="100"/>
+  </sign>
+  <sign ref="BE:Type_VIIb"
+    supplementary="yes"
+    name="Parking disc"
+    nl.name="Parkeerschijf verplicht">
+  </sign>
+  <sign ref="BE:Type_VIIb_except_for_residential_parking_permit"
+    supplementary="yes"
+    name="Parking disc except for residential parking permit holders"
+    nl.name="Parkeerschijf verplicht, uitgezonderd voor houders van bewonerskaart">
+  </sign>
+  <sign ref="BE:Type_VIIc"
+    supplementary="yes"
+    name="Maximum parking duration"
+    nl.name="Maximale parkeerduur">
+      <parameter
+        ident="val"
+        input="textfield" editable="yes" text="hours / minutes"
+        default="1 uur 30 minuten"
+        field_width="40"/>
+  </sign>
+  <sign ref="BE:Type_VIId"
+    supplementary="yes"
+    name="Reserved for taxis"
+    nl.name="Voorbehouden voor taxi's">
+  </sign>
+  <sign ref="BE:Type_VII_disabled"
+    supplementary="yes"
+    name="Reserved for disabled"
+    nl.name="Voorbehouden voor mensen met handicap">
+  </sign>
+  <sign ref="BE:Type_VII_bewoners"
+    supplementary="yes"
+    name="Reserved for holders of residential parking permit"
+    nl.name="Voorbehouden voor mensen met bewonerskaart">
+  </sign>
+  <sign ref="BE:Type_VII_parkeerkaart"
+    supplementary="yes"
+    name="Reserved for holders of residential parking permit"
+    nl.name="Voorbehouden voor mensen met parkeerkaart">
+  </sign>
+  <sign ref="BE:Type_VII_autodelen"
+    supplementary="yes"
+    name="Reserved for car sharing"
+    nl.name="Voorbehouden voor car sharing">
+  </sign>
+  <sign ref="BE:Type_VII_charging_station"
+    supplementary="yes"
+    name="Reserved for electric vehicles"
+    nl.name="Voorbehouden voor elektrische voertuigen">
+  </sign>
+  <sign ref="BE:Type_VII_charging_station_car"
+    supplementary="yes"
+    name="Reserved for electric cars"
+    nl.name="Voorbehouden voor elektrische wagens">
+  </sign>
+  <sign ref="BE:A15a"
+    supplementary="yes"
+    name="Icy road"
+    nl.name="Glad bij bevroren wegdek"
+    wiki="Key:Proposed_features/hazard">
+    <tag key="hazard" value="icy_road"/>
+  </sign>
+  <sign ref="BE:E11"
+    supplementary="yes"
+    name="Parking alternates in this built-up area"
+    name.nl="Beurtelings parkeren in deze bebouwde kom"
+    wiki="Key:parking">
+  </sign>
+ </roadsignpreset>

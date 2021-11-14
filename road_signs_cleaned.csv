@@ -1,0 +1,180 @@
+bordcode;name;help;wiki;key;value;confusion_possible;opinion
+A11;Quay; ;Key:Proposed_features/hazard; ; ; ;0
+A13;Bumps on road, but not the traffic_calming kind; ;Key:Proposed_features/hazard; ; ; ;0
+A14;Speed bump; ;Key:traffic_calming;traffic_calming;bump; ;1
+A15;Slippery road; ;Key:Proposed_features/hazard; ; ;1;0
+A15a;Icy road; ;Key:Proposed_features/hazard;hazard;icy_road; ; 
+A17;Loose chippings; ; ; ; ; ;0
+A19;Falling rocks; ;Key:Proposed_features/hazard;hazard;rock_slide; ;0
+A1a;Dangerous left curve; ; ;hazard;bend; ;0
+A1b;Dangerous right curve; ; ;hazard;bend; ;0
+A1c;Left curve followed by right curve; ; ;hazard;bend; ;0
+A1d;Right curve followed by left curve; ; ;hazard;bend; ;0
+A21;Pedestrian crossing; ; ;highway;crossing; ;1
+A23;School children crossing the way near school; ; ;hazard;school_zone; ;0
+A25;Bicycle crossing; ; ;bicycle;yes; ;1
+A27;Wildlife; ; ;hazard;deer; ;0
+A29;Cattle; ; ;hazard;cattle; ;0
+A3;Steep descent;Applies for the road section with steep incline. (Split the way at the ends of the steep section.)  Positive values indicate movement upward in the direction of the (osm) way and negative values indicate movement downwards in the direction of the way.;Key:incline; ; ; ;1
+A31;Roadworks; ; ;hazard;roadworks; ;0
+A33;Traffic lights; ; ;highway;traffic_signals; ;1
+A35;Low flying airplanes; ; ;hazard;low-flying aircraft; ;0
+A37;Crosswinds; ; ;hazard;crosswinds; ;0
+A39;Bidirectional traffic; ; ;oneway;no; ;1
+A41;Railroad crossing; ; ;railway;level_crossing; ;0
+A43;Railroad crossing; ; ;railway;level_crossing; ;0
+A45;Railroad crossing 1 track; ; ;railway;level_crossing; ;0
+A47;Railroad crossing multiple tracks; ; ;railway;level_crossing; ;0
+A49;Tram rails crossing; ; ;railway;level_crossing; ;0
+A5;Steep ascent;Applies for the road section with steep incline. (Split the way at the ends of the steep section.)  Positive values indicate movement upward in the direction of the (osm) way and negative values indicate movement downwards in the direction of the way.;Key:incline; ; ; ;1
+A51;General danger; ; ;hazard;undefined; ;0
+A7a;Road narrows; ;Key:traffic_calming;traffic_calming;choker; ;1
+A7b;Road narrows right; ;Key:traffic_calming;traffic_calming;choker; ;1
+A7c;Road narrows left; ;Key:traffic_calming;traffic_calming;choker; ;1
+A9;Bridge which can open and close;Select a type. Choose from: swing, lift, bascule, drawbridge, transporter;Key:bridge:movable; ; ; ;1
+B0;Priority on turning main road; ;Key:give_way;highway;give_way; ; 
+B1;Give way; ;Key:give_way; ; ;1;1
+B11;Priority road ends; ;Key:priority_road;priority_road;end; ;0
+B13;Priority road ends in x m; ;Key:priority_road; ; ; ; 
+B3;Give way; ;Key:give_way; ; ; ;1
+B5;Stop sign; ;Key:stop; ; ;1;1
+B7;Give way; ;Key:stop; ; ; ;1
+B9;Priority road; ;Key:priority_road;priority_road;designated; ;0
+C1;One-way street; ;Key:oneway; ; ;1;1
+C11;Bicycles prohibited; ;Key:bicycle; ; ;1;1
+C11-C9;Bicycles and mopeds prohibited; ;Key:bicycle; ; ;1;1
+C13;Push carts prohibited; ; ; ; ; ;0
+C15;Horses prohibited; ; ; ; ;1;1
+C17;Horse carriages prohibited; ; ; ; ;1; 
+C19;Pedestrians prohibited; ; ; ; ;1;1
+C21;Weight limit; ;Key:maxweight; ; ;1;1
+C23;Heavy goods vehicles prohibited; ;Key:hgv; ; ;1;1
+C24a;Hazardous cargo prohibited; ;Key:hazmat; ; ;1;1
+C24b;Hazardous explosive cargo prohibited; ; ; ; ;1;1
+C24c;Water polluting cargo prohibited; ;Key:hazmat; ; ;1; 
+C25;Length limit; ;Key:maxlength; ; ;1;1
+C27;Width limit; ;Key:maxwidth; ; ;1;1
+C29;Height limit; ;Key:maxheight; ; ;1;1
+C3;All vehicles prohibited; ; ; ; ;1;1
+C31d;Forbidden to turn right; ;Tag:restriction; ; ;1; 
+C31g;Forbidden to turn left; ;Tag:restriction; ; ;1; 
+C33;U-turn not allowed; ;Tag:restriction;restriction;no_u_turn; ;1
+C35;No overtaking; ;Key:overtaking; ; ;1;1
+C37;End of overtaking prohibition; ;Key:overtaking; ; ;1;1
+C39;No overtaking for trucks; ;Key:overtaking; ; ;1;1
+C41;End of overtaking prohibition for trucks; ;Key:overtaking; ; ;1;1
+C43;Speed limit;Choose from: 5, 10, 15, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120;Key:maxspeed; ; ;1;1
+C45;End of speed limit;Choose from: 5, 10, 15, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120;Key:maxspeed; ; ; ;1
+C46;All limitations suspended; ; ; ; ; ;1
+C47_fr;Toll booth. No driving through without stopping; ;Key:barrier=toll_booth; ; ;1; 
+C47_nl;Toll booth. No driving through without stopping; ;Key:barrier=toll_booth; ; ;1; 
+C48;Cruise control prohibited; ; ; ; ; ;0
+C49;End of cruise control prohibition; ; ; ; ; ; 
+C5;Motorcars prohibited; ;Key:motorcar; ; ;1;1
+C5-C7;Motorcars and motorcycles prohibited; ;Key:motorcar; ; ;1;1
+C5-C7-C9;Motorcars and motorcycles prohibited; ;Key:motorcar; ; ;1;1
+C6;Quads prohibited; ; ;atv;no; ;1
+C7;Motorcycles prohibited; ; ; ; ;1;1
+C9;Mopeds prohibited; ; ;moped;no; ;1
+D01a;Mandatory to turn into street on the left; ;Tag:restriction; ; ;1; 
+D01b;Mandatory to turn into street on the left; ;Tag:restriction; ; ;1; 
+D01c;Mandatory to continue into the street straight on; ;Tag:restriction; ; ;1; 
+D01d;Mandatory to follow arrow to the left; ;Tag:restriction; ; ;1; 
+D02a;Mandatory to turn into street on the right; ;Tag:restriction; ; ;1; 
+D02b;Mandatory to turn into street on the right; ;Tag:restriction; ; ;1; 
+D02c;Mandatory to follow arrow to the right; ;Tag:restriction; ; ;1; 
+D05;Roundabout; ;Tag:junction=roundabout;junction;roundabout; ; 
+D07;Bicycle path; ; ; ; ;1; 
+D09;Split pedestrian and bicycle path; ; ;access; ; ; 
+D10;Pedestrian and bicycle path; ; ;access; ; ;1
+D11;Pedestrian path; ; ;access; ; ;1
+D13;Bridle path; ; ;access; ; ;1
+E0a;From this point on; ; ; ; ; ; 
+E0b;Up to this point; ; ; ; ; ; 
+E0c[$val];From this point till x m further;Choose from: 5, 10, 15, 20; ; ; ; ; 
+E0d;Continues before and after; ; ; ; ; ; 
+E1;No Parking;Check and correct tags;Key:parking; ; ;1;0
+E11;Parking alternates in this built-up area; ;Key:parking; ; ; ;0
+E3;No Halting;Check and correct tags;Key:parking; ; ;1;0
+E5;Parking from 1 till 15th of month;These signs go on the side with even housenumbers;Key:parking; ; ;1;0
+E7;Parking from 16 till 31th of month;These signs go on the side with odd housenumbers;Key:parking; ; ;1;0
+E9a;Parking; ;Key:parking; ; ;1;0
+E9a_disabled;Parking reserved for disabled; ;Key:parking; ; ;1; 
+E9a_disc;Parking with disc; ;Key:parking; ; ;1; 
+E9b;Parking for cars only; ;Key:parking; ; ;1;0
+E9c;Parking only for trucks; ;Key:parking; ; ;1;0
+E9d;Parking only for autocars; ;Key:parking; ; ;1;0
+E9e;Parking only next to the road; ;Key:parking; ; ;1;0
+E9f;Parking halfway on road and halfway next to it; ;Key:parking; ; ;1;0
+E9g;Parking forbidden on sidewalk; ;Key:parking; ; ;1;0
+E9h;Parking only for campingcars/mobilhomes; ;Key:parking; ; ;1;0
+E9i;Parking only for motorcycles; ;Key:parking; ; ;1;0
+F1;Built-up area / City Limits; ; ; ; ;1;1
+F101c;End of access only for pedestrians, cyclists, horses and agricultural; ; ;agricultural;yes; ;1
+F103;Pedestrian zone; ;Tag:highway%3Dpedestrian; ; ;1;1
+F11;End trunk road; ; ; ; ; ;1
+F111;Bicycle road; ; ;source:maxspeed;BE:bicycle_road; ;2
+F12a;Living street; ;Tag:highway%3Dliving_street;maxspeed;20; ;2
+F12b;End of Living street; ;Tag:highway%3Dliving_street; ; ; ;2
+F17;Bus lane;Remove the tags which don't apply;Key:Bus_lanes;lanes:psv:backward;1; ;0
+F18;Bus/tram lane in between dual carriage way;Remove the tags which don't apply, map the tram tracks as separate ways and the bus as a separate service way in between. Then all the :lanes: tags aren't needed.;Key:Bus_lanes;psv:lanes;no|yes|no; ;0
+F19;One-way street; ;Key:oneway; ; ;1;1
+F1bh;Built-up area / City Limits; ; ; ; ;1; 
+F1bv;Built-up area / City Limits; ; ; ; ;1; 
+F21;Go around; ; ; ; ; ;0
+F3;End of Built-up area / City Limits; ; ;zone:traffic;BE:rural; ;1
+F3bh;End of Built-up area / City Limits; ; ;zone:traffic;BE:rural; ; 
+F3bv;End of Built-up area / City Limits; ; ;zone:traffic;BE:rural; ; 
+F43;Municipality boundary; ; ; ; ; ;0
+F45;No exit;If you add a no_exit tag, it should be added to the final node and not to the way. This is not really necessary.;Key:no_exit;no_exit;yes; ;1
+F45b;No exit, except for bicycle;If you add a no_exit tag, it should be added to the final node and not to the way. This is not really necessary.;Key:no_exit;no_exit:bicycle;no; ;1
+F47;End of roadworks; ; ; ; ; ;0
+F49;Pedestrian crossing; ; ;highway;crossing; ;1
+F4a;Speed limit zone;Choose from: 20, 30, 50, 70; ; ; ; ;1
+F4b;End of speed limit zone;If the zone wasn't inside city limits, change zone:traffic and new maxspeed accordingly. The following tags could be applied more intelligently. These 2 only apply when coming out of most zone30.; ;maxspeed;50; ;1
+F5;Motorway;Choose from: motorway, motorway_link; ; ; ; ;1
+F50;Bicycle crossing; ; ;bicycle;yes; ;1
+F50bis;Bicycle crossing behind corner; ; ;bicycle;yes; ;1
+F51;Pedestrian crossing underground; ; ;layer;-1; ; 
+F51a;Pedestrian crossing underground; ; ;layer;-1; ;0
+F52;Emergency exit out of tunnel; ; ;entrance;emergency; ; 
+F52bis[$val];Distance and direction toward emergency exit out of tunnel; ; ; ; ; ; 
+F59;Parking lot; ; ;amenity;parking; ;0
+F60;Indoor parking lot; ; ;covered;yes; ;0
+F7;End motorway;Choose from: motorway, motorway_link; ; ; ; ;1
+F8;Tunnel; ;Key:tunnel; ; ;1;1
+F87;Speed bump; ;Key:traffic_calming;traffic_calming;bump; ;1
+F9;Trunk road;Choose from: trunk, trunk_link; ; ; ; ;1
+F95;Runaway truck ramp; ;Tag:highway%3Descape;highway;escape; ; 
+F99c;Access only for pedestrians, cyclists, horses and agricultural; ; ;agricultural;yes; ;1
+Hazmat_ADR_Tunnel[$val];Hazardous materials of ADR Class A B C D E forbidden in tunnel; ;Key:hazmat; ; ;1; 
+M1;Only for bicycles;Check access and BICYCLE PARKING tags!!!Placed under sign B1, B5 or E9a when that sign only applies to bicycles.; ;amenity;bicycle_parking; ;1
+M11;Only applies to link road; ; ; ; ; ;0
+M2_fr;Except for bicycles;Check access and ONEWAY tags!!! Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles.; ;oneway:bicycle;no; ; 
+M2_nl;Except for bicycles;Check access and ONEWAY tags!!! Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles.; ;oneway:bicycle;no; ; 
+M3_fr;Except for bicycles and mopeds;Check access and ONEWAY tags!!! Remove the ones that don't apply. Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles and mopeds.; ;oneway:mofa;no; ; 
+M3_nl;Except for bicycles and mopeds;Check access and ONEWAY tags!!! Remove the ones that don't apply. Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles and mopeds.; ;oneway:mofa;no; ; 
+M4;Not oneway for bicycles;Check ONEWAY tags and way direction!!! Placed under sign F19: when cyclists are allowed to ride in both directions on a one-way road; ;oneway:bicycle;no; ;1
+M5;Not oneway for bicycles and mofas;Check ONEWAY tags!!! Placed under sign F19 when cyclists and mopeds class A are allowed to ride in both directions on a one-way road.; ;oneway:mofa;no; ;1
+M6;Mopeds Class B have to use cycleway;Check ACCESS tags!!! Placed under sign D7 Mopeds class B have to ride on the cycleway.; ;moped;yes; ;1
+M7;Mopeds Class B forbidden on cycleway;Check ACCESS tags!!! Placed under sign D7 Mopeds class B are not allowed to ride on the cycleway.; ;moped;no; ;1
+M8;Only for bicycles and mofas;"""Placed under sign B1, B5 or E9a"; ; ;mofa; ;1
+Type_Ia[$val];STOP signing coming up in x m; ; ; ; ; ; 
+Type_II[$val];Over a distance of the next x m; ; ; ; ; ; 
+Type_III;Slippery when road is wet; ;Key:Proposed_features/hazard;hazard;slippery_when_wet; ; 
+Type_IV;Except for; ; ; ; ; ; 
+Type_V_fee;Parking fee; ; ; ; ; ; 
+Type_V[$val];From/till weekdays;Van maandag tot vrijdag / De lundi à vendredi; ; ; ; ; 
+Type_VI;Reminder; ; ; ; ; ; 
+Type_VII_autodelen;Reserved for car sharing; ; ; ; ; ; 
+Type_VII_bewoners;Reserved for holders of residential parking permit; ; ; ; ; ; 
+Type_VII_charging_station;Reserved for electric vehicles; ; ; ; ; ; 
+Type_VII_charging_station_car;Reserved for electric cars; ; ; ; ; ; 
+Type_VII_disabled;Reserved for disabled; ; ; ; ; ; 
+Type_VII_parkeerkaart;Reserved for holders of residential parking permit; ; ; ; ; ; 
+Type_VIIa[$val];Max weight indication; ; ; ; ; ; 
+Type_VIIb;Parking disc; ; ; ; ; ; 
+Type_VIIb_except_for_residential_parking_permit;Parking disc except for residential parking permit holders; ; ; ; ; ; 
+Type_VIIc;Maximum parking duration; ; ; ; ; ; 
+Type_VIId;Reserved for taxis; ; ; ; ; ; 
+ZONE;Limitation or parking rules apply to ZONE, don't use instead of F4a; ;Key:ZONE; ; ; ; 
