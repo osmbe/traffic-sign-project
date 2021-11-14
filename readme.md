@@ -33,3 +33,9 @@ to see your traffic sign
 
 The weekly update provided by Vlaanderen isn't updating.
 MapRoulette fails when loading the json, in weird ways. It chooses "name" to populate the unique ID. That "name" cannot have duplicates! But it stops for other reasons as well...
+
+
+**Try it out**
+
+At https://maproulette.org/browse/challenges/23548
+Please leave comments if you see weird stuff in the source data!
