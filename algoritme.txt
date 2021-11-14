@@ -13,7 +13,7 @@ Done in QGIS with built-in QGIS vector tool "add geometry attributes"
 - of a traffic sign that we find interesting
 
 5. Geographic clustering?
-Open csv in qgis reporject to 4326.
+Open csv in qgis reproject to 4326.
 
 cluster geografisch
 stuur naar maproulette

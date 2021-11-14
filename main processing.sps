@@ -153,3 +153,26 @@ SAVE TRANSLATE OUTFILE='C:\github\osmbe\play\traffic_signs_project\road_signs_se
   /REPLACE
   /FIELDNAMES
   /CELLS=VALUES.
+
+
+
+match files
+/file=*
+/keep=bordid
+xcoord_v2
+ycoord_v2
+bordcode
+parameters_v2
+name.
+EXECUTE.
+compute name=replace(name,",",";").
+EXECUTE.
+
+
+SAVE TRANSLATE OUTFILE='C:\github\osmbe\play\traffic_signs_project\road_signs_selection_lambert72_nocomma.csv'
+  /TYPE=CSV
+  /ENCODING='Locale'
+  /MAP
+  /REPLACE
+  /FIELDNAMES
+  /CELLS=VALUES.
