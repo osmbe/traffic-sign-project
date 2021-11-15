@@ -31,8 +31,8 @@ to see your traffic sign
 
 **Issues**
 
-The weekly update provided by Vlaanderen isn't updating.
-MapRoulette fails when loading the json, in weird ways. It chooses "name" to populate the unique ID. That "name" cannot have duplicates! But it stops for other reasons as well...
+The weekly update provided by Vlaanderen isn't updating.  
+MapRoulette fails when loading the json, in weird ways. It chooses "name" to populate the unique ID. That "name" cannot have duplicates! But it stops for other reasons as well. See https://github.com/osmlab/maproulette3/issues/1670 for more details.
 
 
 **Try it out**
