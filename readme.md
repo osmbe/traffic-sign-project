@@ -31,11 +31,12 @@ to see your traffic sign
 
 **Issues**
 
-The weekly update provided by Vlaanderen isn't updating.  
-MapRoulette fails when loading the json, in weird ways. It chooses "name" to populate the unique ID. That "name" cannot have duplicates! But it stops for other reasons as well. See https://github.com/osmlab/maproulette3/issues/1670 for more details.
-
+* The weekly update provided by Vlaanderen isn't updating.  
+* MapRoulette fails when loading the json, in weird ways. It chooses "name" to populate the unique ID. That "name" cannot have duplicates! But it stops for other reasons as well. See https://github.com/osmlab/maproulette3/issues/1670 for more details.
+* Signs like https://maproulette.org/challenge/23548/task/120115468 should be joined with their "onderbord"
 
 **Try it out**
 
-At https://maproulette.org/browse/challenges/23548
+At https://maproulette.org/browse/challenges/23548. Detailed mapping instructions and resources there!
 Please leave comments if you see weird stuff in the source data!
+
