@@ -34,6 +34,8 @@ to see your traffic sign
 * The weekly update provided by Vlaanderen isn't updating.  
 * MapRoulette fails when loading the json, in weird ways. It chooses "name" to populate the unique ID. That "name" cannot have duplicates! But it stops for other reasons as well. See https://github.com/osmlab/maproulette3/issues/1670 for more details.
 * Signs like https://maproulette.org/challenge/23548/task/120115468 should be joined with their "onderbord"
+* Check for duplicate unique IDs.
+* Remove features with null geometry
 
 **Try it out**
 
