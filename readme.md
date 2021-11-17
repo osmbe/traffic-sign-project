@@ -29,13 +29,15 @@ Make variants of
 https://nl.wikipedia.org/wiki/Bestand:Belgian_road_sign_C5.svg
 to see your traffic sign
 
-**Issues**
+**Issues / planned improvements**
 
 * The weekly update provided by Vlaanderen isn't updating.  
 * MapRoulette fails when loading the json, in weird ways. It chooses "name" to populate the unique ID. That "name" cannot have duplicates! But it stops for other reasons as well. See https://github.com/osmlab/maproulette3/issues/1670 for more details.
 * Signs like https://maproulette.org/challenge/23548/task/120115468 should be joined with their "onderbord"
-* Check for duplicate unique IDs.
-* Remove features with null geometry
+* Check for duplicate unique IDs (shouldn't be an issue if the data is read properly)
+* Remove features with null geometry (check when they surge!)
+* The "parameters" field can use a better name; use field name "externalid" for the sign id (see https://learn.maproulette.org/documentation/setting-external-task-identifiers/)
+* Maybe try and get some images in the task?
 
 **Try it out**
 
