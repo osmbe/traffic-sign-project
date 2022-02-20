@@ -1,0 +1,14 @@
+# create project dir
+mkdir my_project
+
+# goto dir
+cd my_project
+
+# create virtual environment:
+python -m venv my_venv
+
+# activate virtual environment
+.\my_venv\Scripts\Activate.ps1
+
+# install required libraries:
+pip install -r .\requirements.txt

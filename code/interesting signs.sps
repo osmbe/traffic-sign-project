@@ -1,9 +1,15 @@
 * Encoding: windows-1252.
+
+* go to https://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium/Road_signs_plugin and convert xml to csv.
+
+
+DEFINE basefolder () 'C:\github\osmbe\traffic-sign-project\' !ENDDEFINE.
+
 PRESERVE.
  SET DECIMAL COMMA.
 
 GET DATA  /TYPE=TXT
-  /FILE="C:\github\osmbe\play\traffic_signs_project\road_signs.csv"
+  /FILE=basefolder + "find-interesting-signs\road_signs.csv"
   /ENCODING='UTF8'
   /DELCASE=LINE
   /DELIMITERS=";"
@@ -91,42 +97,39 @@ sort cases bordcode (a).
 
 
 * OPTIONAL: to add frequency data.
-
-GET TRANSLATE
+* code is outdated.
+*GET TRANSLATE
   FILE=basefolder + newshape
   /TYPE=DBF /MAP .
-DATASET NAME v2 WINDOW=FRONT.
-match files
+*DATASET NAME v2 WINDOW=FRONT.
+*match files
 /file=*
 /keep=objectid bordId code parameters actief datumPLaat aanzichtid opstelling copyDatum xcoord ycoord.
-DATASET ACTIVATE v2.
+*DATASET ACTIVATE v2.
 
 
 * create Z signs.
-string bordcode (a60).
-compute bordcode=code.
-if char.index(code,"Z")=1 zone=1.
-if char.index(code,"Z")=1 bordcode=char.substr(code,2,59).
+*string bordcode (a60).
+*compute bordcode=code.
+*if char.index(code,"Z")=1 zone=1.
+*if char.index(code,"Z")=1 bordcode=char.substr(code,2,59).
 
 * remove trailing /.
-compute bordcode=replace(bordcode,"/","").
-EXECUTE.
+*compute bordcode=replace(bordcode,"/","").
+*EXECUTE.
 
-
-
-DATASET DECLARE codefreq.
-AGGREGATE
+*DATASET DECLARE codefreq.
+*AGGREGATE
   /OUTFILE='codefreq'
   /BREAK=bordcode
   /codefreq=N.
 
 
-
-DATASET ACTIVATE trafficsigninfo.
-MATCH FILES /FILE=*
+*DATASET ACTIVATE trafficsigninfo.
+*MATCH FILES /FILE=*
   /FILE='codefreq'
   /BY bordcode.
-EXECUTE.
+*EXECUTE.
 
 * END optional part.
 
@@ -146,7 +149,7 @@ EXECUTE.
 
 FILTER OFF.
 USE ALL.
-SELECT IF (useful ~= "NO" & country="BE" & codefreq>0).
+SELECT IF (useful ~= "NO" & country="BE").
 EXECUTE.
 
 if length(ltrim(rtrim(id5)))>7 confusion_possible=1.
@@ -166,7 +169,7 @@ PRESERVE.
  SET DECIMAL COMMA.
 
 GET DATA  /TYPE=TXT
-  /FILE="C:\github\osmbe\play\traffic_signs_project\road_sign_opinion.csv"
+  /FILE=basefolder + "find-interesting-signs\road_sign_opinion.csv"
   /ENCODING='Locale'
   /DELCASE=LINE
   /DELIMITERS=";"
@@ -192,8 +195,9 @@ MATCH FILES /FILE=*
   /BY bordcode.
 EXECUTE.
 
+recode opinion (missing=-1).
 
-SAVE TRANSLATE OUTFILE='C:\github\osmbe\play\traffic_signs_project\road_signs_cleaned.csv'
+SAVE TRANSLATE OUTFILE= basefolder + 'find-interesting-signs\road_signs_cleaned.csv'
   /TYPE=CSV
   /ENCODING='Locale'
   /MAP
@@ -202,6 +206,6 @@ SAVE TRANSLATE OUTFILE='C:\github\osmbe\play\traffic_signs_project\road_signs_cl
   /CELLS=VALUES.
 
 dataset close opinion.
-dataset close v2.
-dataset close codefreq.
+*dataset close v2.
+*dataset close codefreq.
 
