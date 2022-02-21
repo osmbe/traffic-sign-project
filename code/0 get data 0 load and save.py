@@ -1,3 +1,4 @@
+# the script has worked once with the vb_max en vb_startindex lines enabled, and failed a few times with that function disabled. Hopefully, reactivation will make it work again.
 from owslib.wfs import WebFeatureService
 
 def cleanup_stupid_user_input(data):
