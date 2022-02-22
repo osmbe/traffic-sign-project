@@ -40,6 +40,6 @@ to see your traffic sign
 
 **Try it out**
 
-At https://maproulette.org/browse/challenges/23548. Detailed mapping instructions and resources there!
+At https://maproulette.org/browse/challenges/23550. Detailed mapping instructions and resources there!
 Please leave comments if you see weird stuff in the source data!
 
