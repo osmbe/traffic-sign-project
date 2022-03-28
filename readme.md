@@ -32,10 +32,7 @@ to see your traffic sign
 **Issues / planned improvements**
 
 * The weekly update provided by Vlaanderen isn't updating > added a script to generate a CSV file from the WFS server, which seems to actually work! Sometimes!
-* MapRoulette fails when loading the json, in weird ways. It chooses "name" to populate the unique ID. That "name" cannot have duplicates! But it stops for other reasons as well. See https://github.com/osmlab/maproulette3/issues/1670 for more details.
 * Signs like https://maproulette.org/challenge/23548/task/120115468 should be joined with their "onderbord" > added a note that there are "relevant signs on the same place"
-* Check for duplicate unique IDs (shouldn't be an issue if the data is read properly)
-* Remove features with null geometry (check when they surge!)
 * Maybe try and get some images in the task? > doesn't seem possible in maproulette, but simply use URLs like https://nl.wikipedia.org/wiki/Bestand:Belgian_road_sign_F113.svg to get the svg for the sign!
 
 **Try it out**
