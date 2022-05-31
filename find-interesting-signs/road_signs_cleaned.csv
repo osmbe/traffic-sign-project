@@ -66,8 +66,8 @@ C41;End of overtaking prohibition for trucks; ;Key:overtaking; ; ;1;1
 C43;Speed limit;Choose from: 5, 10, 15, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120;Key:maxspeed; ; ;1;1
 C45;End of speed limit;Choose from: 5, 10, 15, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120;Key:maxspeed; ; ; ;1
 C46;All limitations suspended; ; ; ; ; ;1
+C47;Toll booth. No driving through without stopping; ;Key:barrier=toll_booth; ; ;1;-1
 C47_fr;Toll booth. No driving through without stopping; ;Key:barrier=toll_booth; ; ;1;-1
-C47_nl;Toll booth. No driving through without stopping; ;Key:barrier=toll_booth; ; ;1;-1
 C48;Cruise control prohibited; ; ; ; ; ;0
 C49;End of cruise control prohibition; ; ; ; ; ;-1
 C5;Motorcars prohibited; ;Key:motorcar; ; ;1;1
@@ -150,10 +150,10 @@ F99c;Access only for pedestrians, cyclists, horses and agricultural; ; ;agricult
 Hazmat_ADR_Tunnel[$val];Hazardous materials of ADR Class A B C D E forbidden in tunnel; ;Key:hazmat; ; ;1;-1
 M1;Only for bicycles;Check access and BICYCLE PARKING tags!!!Placed under sign B1, B5 or E9a when that sign only applies to bicycles.; ;amenity;bicycle_parking; ;1
 M11;Only applies to link road; ; ; ; ; ;0
+M2;Except for bicycles;Check access and ONEWAY tags!!! Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles.; ;oneway:bicycle;no; ;1
 M2_fr;Except for bicycles;Check access and ONEWAY tags!!! Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles.; ;oneway:bicycle;no; ;-1
-M2_nl;Except for bicycles;Check access and ONEWAY tags!!! Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles.; ;oneway:bicycle;no; ;-1
+M3;Except for bicycles and mopeds;Check access and ONEWAY tags!!! Remove the ones that don't apply. Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles and mopeds.; ;oneway:mofa;no; ;1
 M3_fr;Except for bicycles and mopeds;Check access and ONEWAY tags!!! Remove the ones that don't apply. Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles and mopeds.; ;oneway:mofa;no; ;-1
-M3_nl;Except for bicycles and mopeds;Check access and ONEWAY tags!!! Remove the ones that don't apply. Placed under sign C1, C3, C31 or D1 when that sign doesn't apply to bicycles and mopeds.; ;oneway:mofa;no; ;-1
 M4;Not oneway for bicycles;Check ONEWAY tags and way direction!!! Placed under sign F19: when cyclists are allowed to ride in both directions on a one-way road; ;oneway:bicycle;no; ;1
 M5;Not oneway for bicycles and mofas;Check ONEWAY tags!!! Placed under sign F19 when cyclists and mopeds class A are allowed to ride in both directions on a one-way road.; ;oneway:mofa;no; ;1
 M6;Mopeds Class B have to use cycleway;Check ACCESS tags!!! Placed under sign D7 Mopeds class B have to ride on the cycleway.; ;moped;yes; ;1

@@ -155,6 +155,10 @@ EXECUTE.
 if length(ltrim(rtrim(id5)))>7 confusion_possible=1.
 EXECUTE.
 
+* remove _languagecode.
+compute bordcode=replace(bordcode,"_nl","").
+EXECUTE.
+
 match files
 /file=*
 /keep=bordcode name help wiki key value confusion_possible.
