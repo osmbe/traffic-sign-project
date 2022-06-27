@@ -1,7 +1,7 @@
-# the script has worked once with the vb_max en vb_startindex lines enabled, and failed a few times with that function disabled. Hopefully, reactivation will make it work again.
+# the script works, but seems to prefer running outside of business hours. It seems changes in the data on the server, make the download process crash.
 from owslib.wfs import WebFeatureService
 
-def cleanup_stupid_user_input(data):
+def remove_linebreaks(data):
     print("start cleaning")
     replace1 = data.replace(b'\n',b' ')
     replace2 = replace1.replace(b'\r ',b'\r\n')
@@ -23,7 +23,7 @@ print("start")
 response = wfs.getfeature(typename=vb_type_name, outputFormat=vb_output_format)
 print("stop")
 
-r = cleanup_stupid_user_input(response.read())
+r = remove_linebreaks(response.read())
 test = r.decode('UTF-8')
 
 with open(file="output.csv", encoding='UTF-8', mode='w', newline='') as csvfile:
