@@ -1,10 +1,13 @@
 * Encoding: windows-1252.
 * 1. define folder and files.
 DEFINE basefolder () 'C:\github\osmbe\traffic-sign-project\' !ENDDEFINE.
+* add the location and name of the new traffic sign data.
 DEFINE newshape () 'raw-output\20220530_road_signs.csv' !ENDDEFINE.
 
-DEFINE olddate () '18.02.2022' !ENDDEFINE.
-DEFINE newdate () '30.05.2022' !ENDDEFINE.
+* when was the previous dataset downloaded?
+* date in format DD.MM.YYYY.
+DEFINE olddate () '30.05.2022' !ENDDEFINE.
+DEFINE newdate () '26.07.2022' !ENDDEFINE.
 
 
 * 2. load and limit source datasets.
@@ -48,10 +51,9 @@ GET DATA  /TYPE=TXT
   geometry a100
   /MAP.
 RESTORE.
-
 CACHE.
 EXECUTE.
-DATASET NAME data WINDOW=FRONT.
+DATASET NAME olddata WINDOW=FRONT.
 
 * silly cleaning of CSV to fit SPSS datatypes.
 compute locatie_x=replace(locatie_x,".",",").
@@ -77,7 +79,7 @@ if datum_plaatsing>olddatevar newsign=1.
 * Keep only traffic signs created since the last run.
 FILTER OFF.
 USE ALL.
-SELECT IF (misisng(fromthefuture) & newsign=1).
+SELECT IF (missing(fromthefuture) & newsign=1).
 EXECUTE.
 
 
@@ -114,7 +116,6 @@ DATASET NAME signmetadata WINDOW=FRONT.
 
 
 DATASET ACTIVATE data.
-
 * Z signs are not in our external data, so let's just give them an extra flag "this is a zonal thing".
 if char.index(bordcode,"Z")=1 zone=1.
 if char.index(bordcode,"Z")=1 bordcode=char.substr(bordcode,2,59).
@@ -133,17 +134,15 @@ MATCH FILES /FILE=*
 EXECUTE.
 dataset close signmetadata.
 
-* only throw signs away if none of it is interesting
-* interesting is if it has a name
-G-signs have interesting text only; should be merged with main sign info
-
-
+* sign are interesting if the "opinion" about it is "1" (whcih means "we think it's worth mapping their effects").
+* but signs are clustered into an "aanzicht" (one pole, one direction) and need to be read together.
+* so we only throw signs away if none of the signs in the "aanzicht" are interesting
+* for example, G-signs have interesting text only; this will be merged with main sign info if that sign is interesting.
 AGGREGATE
   /OUTFILE=* MODE=ADDVARIABLES
   /BREAK=id_aanzicht
   /opinion_max=MAX(opinion)
   /n_aanzicht=N.
-
 FILTER OFF.
 USE ALL.
 SELECT IF (opinion_max > 0).
@@ -151,6 +150,8 @@ EXECUTE.
 
 sort cases id_aanzicht (a).
 
+* the "parameters" contains a description of text on the sign, but contains a lot of metatext that is not interesting.
+* that is cleaned up here.
 compute parameters=replace(parameters,"Vrije ingave,","").
 compute parameters=replace(parameters,"neen,","").
 compute parameters=replace(parameters,"Neen,","").
@@ -158,7 +159,11 @@ compute parameters=replace(parameters,"Tekst,","").
 compute parameters=replace(parameters,"ja,","").
 compute parameters=replace(parameters,"met opschrift,","").
 
-
+* duplicate feature analysis creates variables which will help with filtering:
+- primaryfirst: the first sign in the aanzicht
+- primarylast: the last one
+- the sequence number within the aanzicht (0 if there's only one)
+- indupgrp: 0 if single sign, 1 if more signs in the aanzicht.
 * Identify Duplicate Cases.
 SORT CASES BY id_aanzicht(A) FID(A).
 MATCH FILES
@@ -176,33 +181,43 @@ FORMATS  MatchSequence (f7).
 COMPUTE  InDupGrp=MatchSequence>0.
 EXECUTE.
 
+* make zonal signs readable.
 if zone=1 bordcode=concat(ltrim(rtrim(bordcode))," (zone)").
 
-
+* now we will join all the bordcode info into a single variable, with the relevant result being written into the last sign of the aanzicht.
 string bordcode_merge (a100).
+* give all their own bordcode.
 compute bordcode_merge=bordcode.
+* then add the bordcode of the signs "above" in the aanzicht.
 if InDupGrp=1 & primaryfirst=0 bordcode_merge=concat(ltrim(rtrim(lag(bordcode_merge)))," | ",ltrim(rtrim(bordcode))).
 EXECUTE.
 
+* do the same with the parameters.
 string parameters_merge (a100).
 compute parameters_merge=parameters.
 if InDupGrp=1 & primaryfirst=0 parameters_merge=concat(ltrim(rtrim(lag(parameters_merge)))," | ",ltrim(rtrim(parameters))).
 compute parameters_merge=replace(parameters_merge,"| |","|").
 compute parameters_merge=replace(parameters_merge,"| |","|").
+compute parameters_merge=LTRIM(parameters_merge,"|").
+compute parameters_merge=LTRIM(parameters_merge," ").
+compute parameters_merge=LTRIM(parameters_merge,"|").
+compute parameters_merge=RTRIM(rtrim(parameters_merge),"|").
 EXECUTE.
 
+* and now do the same with the name.
 string name_merge (a100).
 compute name_merge=name.
 if InDupGrp=1 & primaryfirst=0 name_merge=concat(ltrim(rtrim(lag(name_merge)))," | ",ltrim(rtrim(name))).
+compute name_merge=RTRIM(rtrim(name_merge),"|").
 EXECUTE.
 
-
+* keep only the row with the merged info for everything in the aanzicht.
 FILTER OFF.
 USE ALL.
 SELECT IF (PrimaryLast = 1).
 EXECUTE.
 
-
+* set names for maproulette use.
 * maproulette likes the name "id" for an external identifier.
 rename variables FID=id.
 compute id=replace(id,"Verkeersborden.Vlaanderen_Borden.","").
@@ -213,8 +228,6 @@ rename variables datum_plaatsing=date_installed.
 rename variables name_merge=traffic_sign_description.
 
 
-
-**** eerst eens zien welke versie uiteindelijk in MapRoulette paste.
 match files
 /file=*
 /keep=id
@@ -234,5 +247,5 @@ SAVE TRANSLATE OUTFILE=basefolder + 'maproulette-readables\road_signs_selection_
   /FIELDNAMES
   /CELLS=VALUES.
 
-* open in QGIS, save as GeoJSON in ESPG:4326
+* open in QGIS as Lambert 72, EPSG 31370), save as GeoJSON in ESPG:4326
 
