@@ -2,12 +2,12 @@
 * 1. define folder and files.
 DEFINE basefolder () 'C:\github\osmbe\traffic-sign-project\' !ENDDEFINE.
 * add the location and name of the new traffic sign data.
-DEFINE newshape () 'raw-output\20220530_road_signs.csv' !ENDDEFINE.
+DEFINE newshape () 'raw-output\20220731_road_signs.csv' !ENDDEFINE.
 
 * when was the previous dataset downloaded?
 * date in format DD.MM.YYYY.
 DEFINE olddate () '30.05.2022' !ENDDEFINE.
-DEFINE newdate () '26.07.2022' !ENDDEFINE.
+DEFINE newdate () '31.07.2022' !ENDDEFINE.
 
 
 * 2. load and limit source datasets.
@@ -53,7 +53,9 @@ GET DATA  /TYPE=TXT
 RESTORE.
 CACHE.
 EXECUTE.
-DATASET NAME olddata WINDOW=FRONT.
+DATASET NAME data WINDOW=FRONT.
+* expect about 1.5 million cases.
+
 
 * silly cleaning of CSV to fit SPSS datatypes.
 compute locatie_x=replace(locatie_x,".",",").
@@ -195,19 +197,15 @@ EXECUTE.
 * do the same with the parameters.
 string parameters_merge (a100).
 compute parameters_merge=parameters.
-if InDupGrp=1 & primaryfirst=0 parameters_merge=concat(ltrim(rtrim(lag(parameters_merge)))," | ",ltrim(rtrim(parameters))).
-compute parameters_merge=replace(parameters_merge,"| |","|").
-compute parameters_merge=replace(parameters_merge,"| |","|").
-compute parameters_merge=LTRIM(parameters_merge,"|").
-compute parameters_merge=LTRIM(parameters_merge," ").
-compute parameters_merge=LTRIM(parameters_merge,"|").
+if InDupGrp=1 & primaryfirst=0 & lag(parameters_merge)~="" parameters_merge=concat(ltrim(rtrim(lag(parameters_merge)))," | ",ltrim(rtrim(parameters))).
+compute parameters_merge=RTRIM(rtrim(parameters_merge),"|").
 compute parameters_merge=RTRIM(rtrim(parameters_merge),"|").
 EXECUTE.
 
 * and now do the same with the name.
 string name_merge (a100).
 compute name_merge=name.
-if InDupGrp=1 & primaryfirst=0 name_merge=concat(ltrim(rtrim(lag(name_merge)))," | ",ltrim(rtrim(name))).
+if InDupGrp=1 & primaryfirst=0 & lag(name_merge)~="" name_merge=concat(ltrim(rtrim(lag(name_merge)))," | ",ltrim(rtrim(name))).
 compute name_merge=RTRIM(rtrim(name_merge),"|").
 EXECUTE.
 
