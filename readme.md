@@ -1,3 +1,18 @@
+**Imperfect data put to use**
+
+The Flemish government has a traffic sign database. They use it to keep track of which exact traffic signs are where. But Flanders only manages the data of the roads they manage themselves. This is just the "regional roads", not the municipal roads. Municipalities however *can* manage the data for the signs on their own roads. And some do. The data looks complete, because of a data collection project over a decade ago. But in many places, signs haven't been touched since. Some municipalities on the other hand are doing a stellar job. 
+
+This means the data cannot be used to map everywhere. But it *can* be used to detect new traffic signs. These are quite interesting, since we are pretty sure they will actually exist. And often these are newly placed signs, so perhaps the effect in OpenStreetMap is still missing. 
+
+In this way, we thank the people who do manage their local traffic signs, by making it easier for routing software to take in account what the road manager wanted. 
+
+We do *not* aim to map the traffic signs themselves. We just filter interesting new signs and turn them into MapRoulette tasks. There, you can map their effects, like for example a new speed limit or one-way street. 
+
+Over time, this could be expanded to other datasources, like Mapillary object detections. At some point, we will also start filtering out traffic signs whose effects are probably already mapped. 
+
+
+
+
 **Main logic**
 
 1. Download weekly file at
