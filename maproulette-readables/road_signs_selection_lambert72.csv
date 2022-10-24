@@ -1,0 +1,2177 @@
+id;traffic_sign_code;extra_text;traffic_sign_description;date_installed;locatie_x;locatie_y
+2744833;F111; ;Bicycle road;9/4/2022;33860;203704
+2744835;F111; ;Bicycle road;9/4/2022;33572,281;204138,719
+2744836;F111; ;Bicycle road;9/4/2022;33353,281;204470,719
+2744837;F111; ;Bicycle road;9/4/2022;33316,781;204529,719
+2744841;F111; ;Bicycle road;9/4/2022;33265,781;204606,719
+2744842;F111; ;Bicycle road;9/4/2022;33228,281;204641,719
+2744843;F111; ;Bicycle road;9/4/2022;33259,281;204590,219
+2744844;F111; ;Bicycle road;9/4/2022;33311,281;204511,719
+2744845;F111; ;Bicycle road;9/4/2022;33353,531;204458,219
+2744847;F111; ;Bicycle road;9/4/2022;32899,531;203472,969
+2744848;F111; ;Bicycle road;9/4/2022;33022,281;203356,219
+2744849;F111; ;Bicycle road;9/4/2022;33020,781;203348,219
+2744850;F111; ;Bicycle road;9/4/2022;33051,031;203313,969
+2744853;F111; ;Bicycle road;9/4/2022;33051,031;203323,219
+2744855;F111; ;Bicycle road;9/4/2022;33103,031;203152,219
+2744856;F111; ;Bicycle road;9/4/2022;33083,031;203153,719
+2744857;F111; ;Bicycle road;9/4/2022;32879,031;203040,219
+2744861;F111; ;Bicycle road;9/4/2022;32770,031;203004,719
+2744862;F111; ;Bicycle road;9/4/2022;32643,031;202959,719
+2744863;F111; ;Bicycle road;9/4/2022;32506,531;202882,219
+2744864;F111; ;Bicycle road;9/4/2022;32304,531;202784,219
+2744865;F111; ;Bicycle road;9/4/2022;32070,531;202586,719
+2744867;F111; ;Bicycle road;9/4/2022;31931,031;202497,719
+2744868;F111; ;Bicycle road;9/4/2022;31782,531;202427,219
+2744869;F111; ;Bicycle road;9/4/2022;31759,031;202409,219
+2744870;F111; ;Bicycle road;9/4/2022;31802,531;202418,719
+2744871;F111; ;Bicycle road;9/4/2022;31949,531;202489,219
+2744872;F111; ;Bicycle road;9/4/2022;32094,031;202583,219
+2744873;F111; ;Bicycle road;9/4/2022;32328,031;202778,219
+2744874;F111; ;Bicycle road;9/4/2022;32529,531;202877,219
+2744875;F111; ;Bicycle road;9/4/2022;32667,531;202952,719
+2744876;F111; ;Bicycle road;9/4/2022;32788,031;202997,719
+2744877;F111; ;Bicycle road;9/4/2022;32904,531;203032,719
+2744878;F111; ;Bicycle road;9/4/2022;31559,031;202444,219
+2744879;F111; ;Bicycle road;9/4/2022;31370,031;202380,219
+2744880;F111; ;Bicycle road;9/4/2022;31169,031;202272,219
+2744881;F111; ;Bicycle road;9/4/2022;31187,031;202168,219
+2744882;F111; ;Bicycle road;9/4/2022;31223,031;202083,219
+2744883;F111; ;Bicycle road;9/4/2022;31209,031;202197,219
+2744884;F111; ;Bicycle road;9/4/2022;31222,031;202283,219
+2744886;F111; ;Bicycle road;9/4/2022;31412,031;202364,219
+2744887;F111; ;Bicycle road;9/4/2022;31192,031;202070,219
+2744891;F111; ;Bicycle road;9/4/2022;31011,031;201867,219
+2744897;F111; ;Bicycle road;9/4/2022;28674,531;201471,219
+2744898;F111; ;Bicycle road;9/4/2022;28635,031;201612,719
+2744901;F111; ;Bicycle road;9/4/2022;28665,031;201456,719
+2744902;F111; ;Bicycle road;9/4/2022;28674,531;201407,719
+2744903;F111; ;Bicycle road;9/4/2022;28681,531;201425,219
+2744904;F111; ;Bicycle road;9/4/2022;27976,031;201499,719
+2744907;F111; ;Bicycle road;9/4/2022;27919,031;201470,219
+2744910;F111; ;Bicycle road;9/4/2022;27879,031;201449,719
+2744911;F111; ;Bicycle road;9/4/2022;27697,531;201354,219
+2744912;F111; ;Bicycle road;9/4/2022;27498,531;201243,219
+2744913;F111; ;Bicycle road;9/4/2022;27445,531;201215,219
+2744914;F111; ;Bicycle road;9/4/2022;27344,531;201160,719
+2744915;F111; ;Bicycle road;9/4/2022;27271,031;201122,219
+2744916;F111; ;Bicycle road;9/4/2022;27206,031;201068,219
+2744919;F111; ;Bicycle road;9/4/2022;27290,531;201116,219
+2744920;F111; ;Bicycle road;9/4/2022;27363,531;201158,219
+2744921;F111; ;Bicycle road;9/4/2022;27464,031;201211,719
+2744923;F111; ;Bicycle road;9/4/2022;27515,531;201236,219
+2744924;F111; ;Bicycle road;9/4/2022;27648,031;201308,719
+2744925;F111; ;Bicycle road;9/4/2022;27625,531;201312,219
+2744926;F111; ;Bicycle road;9/4/2022;27729,031;201351,719
+2744927;F111; ;Bicycle road;9/4/2022;27901,531;201443,719
+2744928;F111; ;Bicycle road;9/4/2022;27946,031;201467,719
+2744929;F111; ;Bicycle road;9/4/2022;28172,031;201251,219
+2744930;F111; ;Bicycle road;9/4/2022;28091,031;201230,219
+2744934;F111; ;Bicycle road;9/4/2022;28012,031;201208,219
+2744935;F111; ;Bicycle road;9/4/2022;27784,031;201092,219
+2744936;F111; ;Bicycle road;9/4/2022;27661,031;201046,219
+2744937;F111; ;Bicycle road;9/4/2022;27562,031;201015,219
+2744940;F111; ;Bicycle road;9/4/2022;27348,031;200956,219
+2744941;F111; ;Bicycle road;9/4/2022;27390,031;200937,219
+2744942;F111; ;Bicycle road;9/4/2022;27600,031;201002,219
+2744943;F111; ;Bicycle road;9/4/2022;27689,031;201032,219
+2744944;F111; ;Bicycle road;9/4/2022;27777,031;201057,219
+2744945;F111; ;Bicycle road;9/4/2022;27802,031;201077,219
+2744946;F111; ;Bicycle road;9/4/2022;28065,031;201201,219
+2744947;F111; ;Bicycle road;9/4/2022;28129,031;201216,219
+2744948;F111; ;Bicycle road;9/4/2022;27190,031;201040,219
+2744949;F111; ;Bicycle road;9/4/2022;26866,031;201012,219
+2744956;F111; ;Bicycle road;9/4/2022;26848,031;201033,219
+2744957;F111; ;Bicycle road;9/4/2022;26800,031;200985,219
+2744959;F111; ;Bicycle road;9/4/2022;27249,031;200948,219
+2744960;F111; ;Bicycle road;9/4/2022;27242,031;200931,219
+2744961;F111; ;Bicycle road;9/4/2022;27118,031;200952,219
+2744962;F111; ;Bicycle road;9/4/2022;26831,031;200927,219
+2744963;F111; ;Bicycle road;9/4/2022;27142,031;200928,219
+2744964;F111; ;Bicycle road;9/4/2022;27258,031;200923,219
+2744967;F111; ;Bicycle road;9/4/2022;26807,531;200943,469
+2744968;F111; ;Bicycle road;9/4/2022;26786,531;201010,469
+2744969;F111; ;Bicycle road;9/4/2022;26765,531;201072,469
+2744970;F111; ;Bicycle road;9/4/2022;26731,531;201193,469
+2744971;F111; ;Bicycle road;9/4/2022;26741,531;201148,469
+2744972;F111; ;Bicycle road;9/4/2022;26689,531;201260,469
+2744973;F111; ;Bicycle road;9/4/2022;26714,531;201170,469
+2744974;F111; ;Bicycle road;9/4/2022;26726,531;201126,469
+2744975;F111; ;Bicycle road;9/4/2022;26750,531;201035,469
+2744976;F111; ;Bicycle road;9/4/2022;26776,531;200974,469
+2778006;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/22/2022;29736,5;200923,5
+2778007;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/22/2022;29893,5;201043
+2799426;F45b; ;No exit, except for bicycle;9/1/2022;139927,969;201653,469
+2799427;C11; ;Bicycles prohibited;9/1/2022;139917,844;201637,719
+2799429;B1; ;Give way;9/1/2022;139901,219;201658,344
+2816729;GIa | A39;m,15;Bidirectional traffic;8/1/2022;62557,844;180353,188
+2821687;C23 | GIV; +5t UITGEZONDERD PLAATSELIJK VERKEER;Heavy goods vehicles prohibited;8/1/2022;63289,679;185883,496
+2822449;GIV | M5 | F19;UITGEZONDERD PLAATSELIJK VERKEER;Not oneway for bicycles and mofas | One-way street;8/1/2022;61684,938;182764,594
+2823075;C23 | GIV | GIa;+5t UITGEZONDERD PLAATSELIJK VERKEER | m,200;Heavy goods vehicles prohibited;8/1/2022;63214,519;186077,456
+2829480;M2; ;Except for bicycles;9/1/2022;61133,584;183672,417
+2831947;GIV | C23;+5t UITGEZONDERD PLAATSELIJK VERKEER;Heavy goods vehicles prohibited;9/1/2022;65762,856;179655,457
+2837337;F19 | M18; ;One-way street;9/23/2022;61847,031;181384,688
+2837404;F111 (zone);"F111,[""400x600""],";Bicycle road;9/1/2022;131304,219;191342,312
+2838160;M12 | C1; ;One-way street;9/9/2022;63300,028;181820,462
+2838303;C1; ;One-way street;10/1/2022;65013,185;179903,772
+2838306;F19; ;One-way street;10/1/2022;65061,748;179927,955
+2838327;F45b; ;No exit, except for bicycle;10/1/2022;65127,426;179996,937
+2839588;A25; ;Bicycle crossing;10/1/2022;65126,812;179755,094
+2840617;F105 | F103;Uitgezonderd laden en lossen van 6u tot 11u30 van 18u30 tot 20u | Uitgezonderd laden en lossen van 6;Pedestrian zone;10/1/2022;62926,25;182647,066
+2847395;C29;2.3;Height limit;8/1/2022;249420,062;160727,188
+2851177;C43;50;Speed limit;8/31/2022;175324,697;182945,759
+2851178;C43;50;Speed limit;8/31/2022;175262,197;182963,509
+2852461;M12 | F19; ;One-way street;8/12/2022;172587,375;212039,125
+2852463;M12 | F19; ;One-way street;8/12/2022;172579,375;212005,875
+2852467;C1 | M18; ;One-way street;8/12/2022;172579,625;212118,125
+2852476;M12 | C1; ;One-way street;8/12/2022;172584,375;211944,625
+2852478;F45b; ;No exit, except for bicycle;8/12/2022;172585,312;211914,25
+2852481;F45b; ;No exit, except for bicycle;8/12/2022;172570,375;212156,938
+2852659;F45b; ;No exit, except for bicycle;8/1/2022;173989,375;209998,5
+2852662;F45b; ;No exit, except for bicycle;8/1/2022;173964,125;209985
+2853024;GIa | GIV | C21;m,150 | UITGEZONDERD PLAATSELIJK VERKEER | 3.5;Weight limit;9/9/2022;61723,2;176557,312
+2860524;D7 | C43;50;Speed limit;10/1/2022;65535,156;185766,625
+2861173;C43 | GVI;50 | HERHALING;Speed limit;8/26/2022;220140,62;187475,24
+2865598;XX | M12 | C1;uitgezonder vergunningshouders tijdens de wekelijkse markt;One-way street;8/1/2022;182897,5;186336,11
+2865605;B1; ;Give way;8/1/2022;182902,6;186320,95
+2865610;F111 (zone) | B1;"F111,[""400x600""],";Bicycle road | Give way;8/1/2022;182903,04;186326,28
+2865628;F49 | F50; ;Pedestrian crossing | Bicycle crossing;8/1/2022;182906,64;186319,86
+2865664;M2 | C3; ;Except for bicycles | All vehicles prohibited;8/1/2022;182551,68;186312,56
+2865739;D10; ;Pedestrian and bicycle path;8/1/2022;132790,96;165175,896
+2865744;D10; ;Pedestrian and bicycle path;8/1/2022;132812,96;165168,896
+2865745;D10; ;Pedestrian and bicycle path;8/1/2022;132932,585;165121,021
+2865747;D10; ;Pedestrian and bicycle path;8/1/2022;132558,835;165042,771
+2865769;M12 | F19; ;One-way street;8/1/2022;182770,37;186319,66
+2865785;M2 | C3; ;Except for bicycles | All vehicles prohibited;8/1/2022;182821,09;186322,44
+2865905;B1; ;Give way;8/1/2022;239452,031;196857,5
+2865928;M10 | B1; ;Give way;8/1/2022;68968,75;209354,75
+2865981;F111; ;Bicycle road;9/1/2022;165834,281;192124,641
+2866006;M3 | D1b;rechts;Except for bicycles and mopeds;8/1/2022;182640,99;186142,27
+2866009;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;8/1/2022;182644,99;186169,28
+2866011;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;8/1/2022;182707,93;186140,73
+2866020;C1; ;One-way street;8/1/2022;182692,99;186132,97
+2866043;M12 | C3; ;All vehicles prohibited;8/1/2022;182880,44;186178,36
+2866060;F19 | M5; ;One-way street | Not oneway for bicycles and mofas;8/1/2022;182813,01;186181,74
+2866064;C3 | M3; ;All vehicles prohibited | Except for bicycles and mopeds;8/1/2022;182804,66;186180,73
+2866068;F111; ;Bicycle road;9/1/2022;165527,719;191925,109
+2866072;C1 | M12; ;One-way street;8/1/2022;182803,17;186185,33
+2866080;C3; ;All vehicles prohibited;8/1/2022;182771,07;186268,04
+2866081;F111; ;Bicycle road;9/1/2022;165502,594;191909,578
+2866092;C3 | M2; ;All vehicles prohibited | Except for bicycles;8/1/2022;182886,44;186324,54
+2866095;B1; ;Give way;9/1/2022;165543,719;191913,672
+2866102;C43;50;Speed limit;8/1/2022;239705,219;196626
+2866129;C43;50;Speed limit;8/1/2022;239872,531;196478,063
+2866342;F19 | M18; ;One-way street;8/2/2022;240019,75;196337,375
+2866531;B1; ;Give way;8/2/2022;67573;213254,625
+2866868;F49; ;Pedestrian crossing;8/2/2022;183170,01;186387,43
+2866871;XX | B1;STOP 100m;Give way;8/2/2022;183164,34;186388,93
+2866877;F49; ;Pedestrian crossing;8/2/2022;183189,82;186412,05
+2866886;F4a | F111 (zone);"F111,[""400x600""],";Speed limit zone | Bicycle road;8/2/2022;183201,8;186416,2
+2866917;C1 | M12; ;One-way street;8/2/2022;183236,86;186515,4
+2866925;D1e | B5; ;Stop sign;8/2/2022;183236,05;186554,43
+2866988;A7b; ;Road narrows right;8/2/2022;183101,15;186880,94
+2867005;F111; ;Bicycle road;8/2/2022;183033,71;186862,49
+2867022;F111 (zone);"F111,[""400x600""],";Bicycle road;8/2/2022;183042,66;186758,43
+2867056;F49; ;Pedestrian crossing;8/2/2022;183041,44;186644,51
+2867072;F49; ;Pedestrian crossing;8/2/2022;183045,43;186637,55
+2867078;B1 | F4b; ;Give way | End of speed limit zone;8/2/2022;182973,72;186582
+2867106;F111 (zone) | F4b | B1;"F111,[""400x600""],";Bicycle road | End of speed limit zone | Give way;8/2/2022;182945,73;186527,45
+2867114;B1; ;Give way;8/2/2022;182857,29;186518,26
+2867155;F111 (zone) | F4b | B1;"F111,[""400x600""],";Bicycle road | End of speed limit zone | Give way;8/2/2022;182771,26;186457,24
+2867200;B1; ;Give way;8/2/2022;182588,04;186455,93
+2867303;M12 | C1; ;One-way street;8/2/2022;182856,69;186814,44
+2867340;B1; ;Give way;8/2/2022;182907,29;186891,93
+2867344;XX | A25;50m;Bicycle crossing;8/2/2022;182945,97;186896,78
+2867357;F19; ;One-way street;8/2/2022;183016,35;186904,3
+2868048;B1 | TR;FIETS,O,Lus Zemst,3;Give way;8/3/2022;156291,47;185319
+2868054;F101c; ;End of access only for pedestrians, cyclists, horses and agricultural;8/3/2022;155823,6;186937,59
+2868113;M18 | F19; ;One-way street;8/1/2022;139116,98;201631,9
+2868114;F111; ;Bicycle road;8/1/2022;139491,79;201462,21
+2868117;F111 | M3 | C1; ;Bicycle road | Except for bicycles and mopeds | One-way street;8/1/2022;139486,07;201460,59
+2868121;C1 | M12; ;One-way street;8/1/2022;139161,64;201538,47
+2868142;F113 | M4 | F19; ;Not oneway for bicycles | One-way street;8/1/2022;139530,54;201578,92
+2868143;F111; ;Bicycle road;8/1/2022;139530,19;201582,39
+2868149;F111; ;Bicycle road;8/1/2022;139531,3;201590,99
+2868191;B1 | F111; ;Give way | Bicycle road;8/1/2022;139521,37;201592,32
+2868197;A39 | M4 | F113; ;Bidirectional traffic | Not oneway for bicycles;8/1/2022;139526,86;201590,88
+2868211;M2 | C1; ;Except for bicycles | One-way street;8/1/2022;139501,63;201585,86
+2868229;M2 | C1; ;Except for bicycles | One-way street;8/1/2022;139263,41;201628,3
+2868253;C1; ;One-way street;8/1/2022;139195,55;201637,18
+2868301;F113 | M12 | C1; ;One-way street;8/1/2022;139186,25;201644,58
+2868312;D1e | B1; ;Give way;8/3/2022;182377,88;186389,37
+2868315;F19; ;One-way street;8/3/2022;182370,22;186399,9
+2868317;D3b | B1; ;Give way;8/3/2022;182352,44;186407,68
+2868323;F50 | F49 | B15f; ;Bicycle crossing | Pedestrian crossing;8/3/2022;182389,13;186412,59
+2868326;B1; ;Give way;8/3/2022;182384,75;186400,83
+2868329;C1; ;One-way street;8/3/2022;182389,35;186389,11
+2868331;B1; ;Give way;8/3/2022;182416,91;186389,36
+2868335;M12 | C1; ;One-way street;8/3/2022;182407,37;186386,43
+2868337;F111; ;Bicycle road;8/1/2022;139179,739;201653,66
+2868346;F111; ;Bicycle road;8/1/2022;139110,07;201637,12
+2868348;M12 | C1; ;One-way street;8/1/2022;139117,13;201605,53
+2868362;M12 | C1 | B15f; ;One-way street;8/1/2022;139110,22;201571,62
+2868381;B1 | F49; ;Give way | Pedestrian crossing;8/3/2022;182388,49;186382,44
+2868384;F50 | F49; ;Bicycle crossing | Pedestrian crossing;8/3/2022;182384,53;186370,99
+2868386;M2 | C3; ;Except for bicycles | All vehicles prohibited;8/3/2022;182354,5;186384,36
+2868393;D7 | F19; ;One-way street;8/3/2022;182286,6;186413,18
+2868401;C1; ;One-way street;8/3/2022;182196,53;186421,26
+2868428;M18 | F19; ;One-way street;8/1/2022;139106,11;201565,45
+2868438;M12 | D1f | B1; ;Give way;8/1/2022;139092,418;201564,995
+2868441;C1; ;One-way street;8/3/2022;182124,47;186445,18
+2868444;F111; ;Bicycle road;8/1/2022;139062,84;201568,23
+2868476;XX | C3;Uitgezonderd Hulpdiensten  fietsers en voetgangers Honden aan de leiband;All vehicles prohibited;8/3/2022;182538,17;186789,19
+2868493;XX | C3 | XX | E3;Uitgezonderd Hulpdiensten | BRANDWEG;All vehicles prohibited | No Halting;8/3/2022;182562,35;186754,43
+2868531;B1; ;Give way;8/3/2022;183143,66;186941,36
+2868542;F111 (zone);"F111,[""400x600""],";Bicycle road;8/3/2022;183154,01;186895,18
+2868544;B1; ;Give way;8/3/2022;183146,24;186891,7
+2868664;C11; ;Bicycles prohibited;8/1/2022;160784,281;176949,482
+2869331;C43;50;Speed limit;8/4/2022;158147,61;183808,91
+2869335;C43;50;Speed limit;8/4/2022;158232,91;183869,66
+2869345;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/4/2022;157452,43;184745,81
+2869555;GIa | A25;m,20;Bicycle crossing;8/4/2022;43521,938;169769,563
+2869782;C43;70;Speed limit;8/4/2022;49666,813;212417,898
+2869878;M3 | C1; ;Except for bicycles and mopeds | One-way street;8/4/2022;182466,3;186247,44
+2869880;M3 | C1; ;Except for bicycles and mopeds | One-way street;8/4/2022;182465,3;186250,55
+2869888;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;8/4/2022;182459,3;186250,65
+2869895;M3 | C1; ;Except for bicycles and mopeds | One-way street;8/4/2022;182059;185870,24
+2869910;B5; ;Stop sign;8/4/2022;182293,47;185922,89
+2869911;B1; ;Give way;8/4/2022;182279,36;186029,49
+2869914;C21;2.5;Weight limit;8/4/2022;182275,46;186038,52
+2869920;B1; ;Give way;8/4/2022;182297,7;186032,39
+2869922;B1; ;Give way;8/4/2022;182283,78;186037,44
+2869939;B1; ;Give way;8/4/2022;182267,37;186144,66
+2869940;B1; ;Give way;8/4/2022;182281,12;186137,74
+2869987;C1; ;One-way street;8/4/2022;182267,02;186235,31
+2870028;B1; ;Give way;8/4/2022;182306,01;186041,7
+2870069;A7c | B15a; ;Road narrows left;8/4/2022;182312,75;186001,63
+2870103;M18 | F19; ;One-way street;8/4/2022;182223,22;185450,55
+2870114;C43;50;Speed limit;8/4/2022;156490,06;183282,98
+2870120;XX | M18 | F19;Uitgezonderd Hulpdiensten Fietsers;One-way street;8/4/2022;181971,11;185996,83
+2870132;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/4/2022;157053,74;184882,55
+2870141;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/4/2022;157049,03;184889,51
+2870144;XX | M3 | C31a;Uitgezonderd Hulpdiensten Fietsers;Except for bicycles and mopeds;8/4/2022;181957,57;185911,46
+2870157;XX | B1;75 m;Give way;8/4/2022;181940,59;185810,59
+2870162;M18 | F19; ;One-way street;8/4/2022;181939,88;185816,09
+2870180;B1 | D1e; ;Give way;8/4/2022;181957,68;185824,32
+2870196;M18 | C1; ;One-way street;8/4/2022;181983,89;185799,75
+2870202;M18 | F19; ;One-way street;8/4/2022;181983,08;185809,21
+2870206;M18 | C1; ;One-way street;8/4/2022;181995,33;185803,83
+2870210;F45 | C3;Geen;No exit | All vehicles prohibited;8/4/2022;181990,81;185777,69
+2870212;B1 | C43 (zone);"C43,[""400"",""Neen"",""30""],";Give way | Speed limit;8/4/2022;157268,21;185507,79
+2870216;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;8/4/2022;182026,26;185864,2
+2870217;B1; ;Give way;8/4/2022;182050,92;185839,61
+2870219;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;8/4/2022;182096,92;185936,59
+2870222;F45 | XX | C3;Geen | Uitgezonderd plaatselijk verkeer;No exit | All vehicles prohibited;8/4/2022;182151,77;185993,04
+2870229;B1 | XX | M12 | C31b;Uitgezonderd hulpdiensten;Give way;8/4/2022;181989,36;186010,8
+2870231;F50 | F49; ;Bicycle crossing | Pedestrian crossing;8/4/2022;181975,38;186025,61
+2870238;XX | M12 | C1;Uitgezonderd hulpdiensten;One-way street;8/4/2022;181982,16;186012,52
+2870241;B1; ;Give way;8/4/2022;181964,89;186026,04
+2870247;B1; ;Give way;8/4/2022;181939,67;186035,07
+2870253;F19 | XX | D7;Uitgezonderd hulpdiensten;One-way street;8/4/2022;182011,88;186159,65
+2870275;C1; ;One-way street;8/4/2022;182009,11;186175,78
+2870292;B5; ;Stop sign;8/4/2022;182025,62;186170,93
+2870391;B1; ;Give way;10/1/2022;63938;184939,234
+2870721;C43;90;Speed limit;8/5/2022;105484,35;210186,64
+2870733;C43;90;Speed limit;8/5/2022;105223,59;210201,09
+2870760;C43;90;Speed limit;8/5/2022;103684,65;210626,33
+2870769;C43;90;Speed limit;8/5/2022;103688;210634,6
+2870784;A33 | GIa;m,300;Traffic lights;8/5/2022;97699,61;211386,42
+2870787;GIa | C43;m,300 | 90;Speed limit;8/5/2022;97529,04;211392,36
+2870838;XX | C3 | XX;Gelieve de eenden niet te voederen  Wegens: ziektes, bakteriën, troebel vijverwater, schimmels, tev;All vehicles prohibited;8/5/2022;155597,42;184009,29
+2870855;M12 | C1 | Type V | Type V;rechts | rechts;One-way street;8/5/2022;155750,13;183889,73
+2870887;F101c; ;End of access only for pedestrians, cyclists, horses and agricultural;8/5/2022;156358,36;183297,96
+2870931;GIV | C3;Uitgezonderd NMBS;All vehicles prohibited;8/5/2022;157183,08;185171,62
+2871107;A39; ;Bidirectional traffic;8/5/2022;182904,39;185966,11
+2871117;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;8/5/2022;182912,21;186066,24
+2871118;A39; ;Bidirectional traffic;8/5/2022;182907,52;186066,45
+2871124;C1 | M3; ;One-way street | Except for bicycles and mopeds;8/5/2022;182920,06;186091,22
+2871126;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;8/5/2022;182926,24;186102,58
+2871134;C1 | M3; ;One-way street | Except for bicycles and mopeds;8/5/2022;182944,76;186183,03
+2871140;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;8/5/2022;182997,55;186242,34
+2871142;M3 | C1; ;Except for bicycles and mopeds | One-way street;8/5/2022;182982,39;186242,79
+2871147;XX | C3;Uitgezonderd fietsers en  voetgangers;All vehicles prohibited;8/5/2022;183156,32;186228,83
+2871149;XX | C3;Uitgezonderd fietsers en  voetgangers;All vehicles prohibited;8/5/2022;183141,8;186195,88
+2871151;XX | C3;JAAGPAD Uitgezonderd toelatingen, rijwielen en bromfietsen klasse A;All vehicles prohibited;8/5/2022;183164,99;186178,88
+2871169;M3 | C1; ;Except for bicycles and mopeds | One-way street;8/5/2022;183036,28;186204,66
+2871255;XX | XX | C3 | F19;Uitgezonderd Taxi''s | Uitgezonderd De Lijn;All vehicles prohibited | One-way street;8/5/2022;183036,07;186063,12
+2871271;XX | C3;Uitgezonderd  De Lijn;All vehicles prohibited;8/5/2022;182946,33;186007,78
+2871288;B5; ;Stop sign;8/5/2022;183008,11;185743,42
+2871315;M12 | C1; ;One-way street;8/5/2022;182853,81;185981,41
+2871323;F111 (zone);"F111,[""400x600""],";Bicycle road;8/5/2022;182842,83;185990,53
+2871331;M12 | C1; ;One-way street;8/5/2022;182850,07;185977,38
+2871332;F4b; ;End of speed limit zone;8/5/2022;182744,76;185821,19
+2871342;XX | C21;Uitgezonderd laden en lossen | 3.5;Weight limit;8/5/2022;182747,72;185796,92
+2871343;A39; ;Bidirectional traffic;8/5/2022;182797,34;185769,88
+2871349;M12 | C1; ;One-way street;8/5/2022;182814,47;185768,72
+2871363;M18 | F19; ;One-way street;8/5/2022;182760,74;185779,31
+2871436;GIa | A25;m,20;Bicycle crossing;8/4/2022;43521,938;169769,563
+2871441;A14; ;Speed bump;8/5/2022;182346,74;185519,65
+2871442;A14; ;Speed bump;8/5/2022;182450,3;185572,36
+2871464;M12 | C1; ;One-way street;8/5/2022;182747,26;186062,76
+2871467;F45 | M12 | C1;Geen;No exit | One-way street;8/5/2022;182734,86;186039,88
+2871469;M12 | C1; ;One-way street;8/5/2022;182730,42;186028,2
+2871471;M18 | F19; ;One-way street;8/5/2022;182716,81;186042,98
+2871530;M3 | F45;Geen;Except for bicycles and mopeds | No exit;8/5/2022;182583,02;186061,91
+2871538;F111 (zone) | M18 | F19;"F111,[""400x600""],";Bicycle road | One-way street;8/5/2022;182595,34;186070,02
+2871539;F111 (zone);"F111,[""400x600""],";Bicycle road;8/5/2022;182596,13;186076,85
+2871544;F111 (zone);"F111,[""400x600""],";Bicycle road;8/5/2022;182526,48;186088,42
+2871546;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;8/5/2022;182521,74;186107,35
+2871565;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;8/5/2022;182617,76;186199,14
+2871592;M12 | C1; ;One-way street;8/5/2022;182640,24;186115,33
+2871594;M18 | F19; ;One-way street;8/5/2022;182668,71;186112,09
+2871604;C25 | M5 | F19;8;Length limit | Not oneway for bicycles and mofas | One-way street;8/5/2022;182722,88;186139,1
+2871605;F4a; ;Speed limit zone;9/30/2022;62480,01;181556,971
+2871609;M18 | F19; ;One-way street;8/5/2022;182720,03;186125,96
+2871617;F111 (zone);"F111,[""400x600""],";Bicycle road;8/5/2022;182765,8;186111,04
+2871621;F111 (zone) | M5 | GIa | F19;"F111,[""400x600""], | m,30";Bicycle road | Not oneway for bicycles and mofas | One-way street;8/5/2022;182761,16;186110,91
+2871623;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;8/5/2022;182769,47;186105,55
+2871625;F45b; ;No exit, except for bicycle;8/1/2022;58686,126;198700,712
+2871628;XX | M12 | C3;Uitgezonderd laden en lossen;All vehicles prohibited;8/5/2022;182860,96;186096,78
+2871642;M12 | C1; ;One-way street;8/5/2022;182807,57;186098,33
+2871644;M3 | C3; ;Except for bicycles and mopeds | All vehicles prohibited;8/5/2022;182827,15;186126,82
+2871648;B1; ;Give way;8/5/2022;105507,29;204419,22
+2873123;A25; ;Bicycle crossing;8/8/2022;155639,86;183315,37
+2873190;F101c; ;End of access only for pedestrians, cyclists, horses and agricultural;8/8/2022;155417,55;186173,63
+2873328;FtsRt | F111 | GIV | C21;Doorverwijzingsbord,Rechtdoor,,26 | UITGEZONDERD PLAATSELIJK VERKEER | 3.5;Bicycle road | Weight limit;9/1/2022;165546,562;191921,891
+2873415;A25; ;Bicycle crossing;8/8/2022;183006,69;187966,1
+2873417;M4 | D7; ;Not oneway for bicycles;8/8/2022;183003,83;187964,66
+2873418;B1; ;Give way;8/8/2022;183003,29;187970,99
+2873420;M4 | D7; ;Not oneway for bicycles;8/8/2022;183034,36;187983,8
+2873421;B1; ;Give way;8/8/2022;183009,72;187929,25
+2873423;M4 | D7; ;Not oneway for bicycles;8/8/2022;183007,72;187923,61
+2873425;M4 | D7; ;Not oneway for bicycles;8/8/2022;182855,75;187996,96
+2873427;M4 | D7; ;Not oneway for bicycles;8/8/2022;182867,17;187993,38
+2873428;B1; ;Give way;8/8/2022;182881,82;188004,02
+2873430;M4 | D7; ;Not oneway for bicycles;8/8/2022;182867,82;187985,2
+2873431;B1; ;Give way;8/8/2022;182997,96;187928,96
+2873433;M4 | D7; ;Not oneway for bicycles;8/8/2022;182998,43;187938,08
+2873435;M4 | D7; ;Not oneway for bicycles;8/8/2022;182966,11;187879,19
+2873437;M4 | D7; ;Not oneway for bicycles;8/8/2022;182950,85;187874,89
+2873453;C43 (zone) | F111 | C43 (zone);"C43,[""400"",""Neen"",""50""], | C43,[""400"",""Neen"",""30""],";Speed limit | Bicycle road | Speed limit;8/8/2022;160665,63;204431,51
+2873459;A25; ;Bicycle crossing;8/8/2022;182991,7;187974,6
+2873475;F45b | F113; ;No exit, except for bicycle;8/8/2022;160649,33;204804,14
+2873476;F111; ;Bicycle road;8/8/2022;160645,59;204798,57
+2873479;B1; ;Give way;8/8/2022;182558,94;188930,8
+2873487;A14 | A23; ;Speed bump | School children crossing the way near school;8/8/2022;182751,74;188493,4
+2873491;M3 | C1; ;Except for bicycles and mopeds | One-way street;8/8/2022;182776,24;188501,55
+2873495;F4a | M3 | C31a; ;Speed limit zone | Except for bicycles and mopeds;8/8/2022;182768,92;188507,04
+2873496;F45b; ;No exit, except for bicycle;8/8/2022;182776,99;188513,54
+2873500;M3 | C1; ;Except for bicycles and mopeds | One-way street;8/8/2022;182848,3;188503,33
+2873504;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;8/8/2022;182851,69;188510,59
+2873510;F4a | M5 | F19; ;Speed limit zone | Not oneway for bicycles and mofas | One-way street;8/8/2022;182842,94;188459,97
+2873533;F111 | C43 (zone);"C43,[""400"",""Neen"",""30""],";Bicycle road | Speed limit;8/8/2022;160361,63;204939,25
+2873541;F87; ;Speed bump;8/8/2022;182733,65;188499,23
+2873542;F49; ;Pedestrian crossing;8/8/2022;182710,61;188500,75
+2873543;F49; ;Pedestrian crossing;8/8/2022;182711,68;188480,1
+2873544;F87; ;Speed bump;8/8/2022;182695,11;188482,44
+2873551;F4a | A14; ;Speed limit zone | Speed bump;8/8/2022;182600,67;188488,64
+2873561;A7c; ;Road narrows left;8/8/2022;183295,58;188313,13
+2873593;B1; ;Give way;8/8/2022;160230,83;205079,27
+2873594;C43;30;Speed limit;8/8/2022;183079,68;188682,34
+2873596;C1 | M12; ;One-way street;8/1/2022;170697,938;212961,562
+2873597;B1; ;Give way;8/8/2022;182835,4;188250,76
+2873598;B5; ;Stop sign;8/8/2022;160224,26;205070,54
+2873607;F45b; ;No exit, except for bicycle;8/1/2022;170629,562;212912,438
+2873609;M12 | C1; ;One-way street;8/8/2022;158557,86;205649,47
+2873611;F49; ;Pedestrian crossing;8/8/2022;183157,42;188070,12
+2873619;M18 | F19 | B5; ;One-way street | Stop sign;8/8/2022;158529,38;205643,24
+2873627;F111 (zone);"F111,[""400x600""],";Bicycle road;8/8/2022;158523,73;205639,79
+2873628;F101c; ;End of access only for pedestrians, cyclists, horses and agricultural;9/1/2022;171611,328;214591,547
+2873629;B1; ;Give way;8/8/2022;158527,79;205653,11
+2873630;F101c; ;End of access only for pedestrians, cyclists, horses and agricultural;9/1/2022;171712,766;214304,797
+2873631;B1; ;Give way;8/8/2022;158554,67;205656,71
+2873633;B1; ;Give way;8/8/2022;158555,92;205657,46
+2873636;M4 | D7; ;Not oneway for bicycles;8/8/2022;183111,76;187831,23
+2873650;F101c; ;End of access only for pedestrians, cyclists, horses and agricultural;9/1/2022;168920,016;208786,016
+2873652;F45b | F99c; ;No exit, except for bicycle | Access only for pedestrians, cyclists, horses and agricultural;9/1/2022;168935,953;208484,891
+2873654;C43 (zone) | F4b;"C43,[""400"",""Neen"",""50""],";Speed limit | End of speed limit zone;8/8/2022;183261,19;187704,43
+2873655;F101c; ;End of access only for pedestrians, cyclists, horses and agricultural;9/1/2022;168929,203;208485,641
+2873661;F4a; ;Speed limit zone;8/8/2022;182832,66;187371,63
+2873665;B5; ;Stop sign;8/8/2022;182816,77;187375,34
+2873667;F4b; ;End of speed limit zone;8/8/2022;182824,97;187390,39
+2873670;M12 | C1; ;One-way street;8/8/2022;182936,37;187449,02
+2873672;M18 | F19; ;One-way street;8/8/2022;182887,38;187602,18
+2873674;M18 | F19; ;One-way street;8/8/2022;182996,76;187469,05
+2873677;C3; ;All vehicles prohibited;8/8/2022;183173,85;187053,55
+2873704;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/8/2022;188249,7;191865,14
+2873705;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/8/2022;188255,68;191861,09
+2873762;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/8/2022;189592,31;192072,25
+2873766;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/8/2022;189592,14;192056,16
+2873767;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/8/2022;189596,56;192058,67
+2873769;C43 (zone) | C21 (zone);"C43,[""400"",""Neen"",""50""], | C21,[""400"",7.5],";Speed limit | Weight limit;8/8/2022;189826,44;191892,45
+2873771;C43 (zone) | C21 (zone);"C43,[""400"",""Neen"",""50""], | C21,[""400"",7.5],";Speed limit | Weight limit;8/8/2022;189826,8;191900,27
+2873801;C3 | GIV | M2;UITGEZONDERD  GEMEENTE - EN  HULPDIENSTEN;All vehicles prohibited | Except for bicycles;8/8/2022;158707,31;205729,87
+2873803;F49; ;Pedestrian crossing;8/8/2022;158696,77;205737,05
+2873808;F49; ;Pedestrian crossing;8/8/2022;158703,25;205751,35
+2873811;D7 | M12 | C1; ;One-way street;8/8/2022;158753,04;205783,66
+2873877;F111 (zone) | M12 | C1;"F111,[""400x600""],";Bicycle road | One-way street;8/8/2022;158728,81;205861,39
+2873887;B5; ;Stop sign;8/8/2022;158732,1;205859,71
+2873894;F113 (zone) | F19;"F113,[""400x600""],";One-way street;8/8/2022;158724,95;205865,18
+2873901;C43 (zone) | B1;"C43,[""400"",""Neen"",""30""],";Speed limit | Give way;8/8/2022;159340,95;206224,4
+2873906;A14; ;Speed bump;8/8/2022;159363,72;206247,42
+2873908;A14; ;Speed bump;8/8/2022;159351,5;206216,36
+2873914;A14; ;Speed bump;8/8/2022;159461,58;206139,58
+2873915;A14; ;Speed bump;8/8/2022;160033,08;205712,14
+2873916;A14; ;Speed bump;8/8/2022;159979,55;205566,82
+2873919;A14; ;Speed bump;8/8/2022;160156,49;205630,56
+2874007;C3 | GIV | F12a;UITGEZONDERD ,PLAATSELIJK VERKEER;All vehicles prohibited | Living street;8/8/2022;104364,083;193851,965
+2874019;B17 | M9 | F12b; ;End of Living street;8/8/2022;104361,293;193847,772
+2874032;F12b | D1e | M12 Klein; ;End of Living street;8/8/2022;104361,1;193794,988
+2874110;A23 | C43;Ja,5;School children crossing the way near school | Speed limit;8/9/2022;159160;185145,71
+2874140;C3 | XX-Straatnaam;Kerkhofvoetweg;All vehicles prohibited;8/9/2022;159074,72;183760,04
+2874290;C43;50;Speed limit;8/9/2022;192531,875;165616,75
+2874294;C43;50;Speed limit;8/9/2022;192621,344;165852,031
+2874350;F111; ;Bicycle road;8/9/2022;160865,75;205144,75
+2874352;F45b | F111; ;No exit, except for bicycle | Bicycle road;8/9/2022;160861,14;205130,46
+2874355;F111; ;Bicycle road;8/9/2022;160860,38;205145,89
+2874357;F45b | F111; ;No exit, except for bicycle | Bicycle road;8/9/2022;160881,53;205580,65
+2874361;FtsRt | F113 | B1;LandelijkeFietsroute,Links,,82;Give way;8/9/2022;160887,47;205573,25
+2874379;F49 | IV4; ;Pedestrian crossing;8/9/2022;158579,21;206876,15
+2874381;F49 | IV4; ;Pedestrian crossing;8/9/2022;158549,37;206864,4
+2874394;GIV | C3;UITGEZONDERD PLAATSELIJK VERKEER;All vehicles prohibited;8/9/2022;158340,51;207311,18
+2874407;F49; ;Pedestrian crossing;8/9/2022;184216,62;188410,13
+2874421;A21 | C43 (zone);"C43,[""400"",""Neen"",""50""],";Pedestrian crossing | Speed limit;8/9/2022;185030,53;189233,2
+2874428;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;185764,66;189654,32
+2874431;C43;50;Speed limit;8/9/2022;186100,85;189705,66
+2874441;FtsRt | B1;LandelijkeFietsroute,Links,,14;Give way;8/9/2022;158341,34;207302,93
+2874442;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;157969,01;206959,67
+2874446;C43;70;Speed limit;8/9/2022;186695,96;190252,66
+2874449;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;186632,91;190157,46
+2874454;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;186432,28;189934,44
+2874462;C43 (zone) | B1;"C43,[""400"",""Neen"",""50""],";Speed limit | Give way;8/9/2022;186157,46;189694,64
+2874464;C43 (zone) | FtsRt;"C43,[""400"",""Neen"",""50""], | LandelijkeFietsroute,Links,,7";Speed limit;8/9/2022;157963,509;206963,964
+2874468;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;186155,69;189692,64
+2874477;F45b; ;No exit, except for bicycle;8/9/2022;158072,95;206955,34
+2874480;GIV | C3;UITGEZONDERD PLAATSELIJK  VERKEER;All vehicles prohibited;8/9/2022;158020,44;206726,22
+2874483;C43 (zone) | M10 | B5;"C43,[""400"",""Neen"",""50""],";Speed limit | Stop sign;8/9/2022;160961,03;205603,41
+2874484;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;160963,83;205587,78
+2874485;A14; ;Speed bump;8/9/2022;161914,9;205458,18
+2874486;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;161756,29;205485,8
+2874491;M10 | C43 (zone) | B1;"C43,[""400"",""Neen"",""50""],";Speed limit | Give way;8/9/2022;161751,47;205487,84
+2874493;C3 (zone);"C3,[""400""],UITGEZONDERD  PLAATSELIJK VERKEER FIETSERS EN BROMFIETSERS";All vehicles prohibited;8/9/2022;161571,1;205905,64
+2874495;C3 (zone);"C3,[""400""],UITGEZONDER PLAATSELIJK VERKEER FIETSERS EN BROMFIETSERS";All vehicles prohibited;8/9/2022;161571,133;205895,267
+2874516;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;185825,91;189626,95
+2874523;F45b; ;No exit, except for bicycle;8/9/2022;185021,57;189185,34
+2874525;A21; ;Pedestrian crossing;8/9/2022;184997,44;189185,39
+2874528;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;185500,44;190456,51
+2874530;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;185514,22;190457,59
+2874532;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;185789,63;189847,58
+2874534;M2 | C3; ;Except for bicycles | All vehicles prohibited;8/9/2022;159610,36;206145,07
+2874535;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;185787,25;189835,52
+2874536;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;185790,22;189833,03
+2874538;M2 | C3; ;Except for bicycles | All vehicles prohibited;8/9/2022;159603,9;206087,1
+2874539;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/9/2022;159597,1;206016,04
+2874548;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;184370,84;188777,58
+2874568;C43 (zone) | F45b;"C43,[""400"",""Neen"",""30""],";Speed limit | No exit, except for bicycle;8/9/2022;159605,46;206016,9
+2874572;F45b; ;No exit, except for bicycle;8/9/2022;182798,67;188834,57
+2874573;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;158651,6;206573,82
+2874574;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;182624,12;188550,77
+2874579;A14; ;Speed bump;8/9/2022;159563,57;206014,28
+2874592;B5; ;Stop sign;8/9/2022;182566,34;188476,91
+2874596;B5; ;Stop sign;8/9/2022;182570,27;188484,09
+2874605;C15; ;Horses prohibited;8/9/2022;183527,33;189459,07
+2874623;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;184538,73;188893,62
+2874647;XX | C21;Uitgezonderd plaatselijk verkeer | 7.5;Weight limit;8/9/2022;189453,68;191676,61
+2874650;XX | C21;Uitgezonderd plaatselijk verkeer | 7.5;Weight limit;8/9/2022;188935,87;191393,69
+2874664;XX | C21;Uitgezonderd  plaatselijk verkeer | 7.5;Weight limit;8/9/2022;188786,69;191263,52
+2874666;XX | C21;Uitgezonderd plaatselijk verkeer | 7.5;Weight limit;8/9/2022;188700,4;191193,66
+2874710;C43 (zone) | F1a;"C43,[""400"",""Neen"",""50""], | BOECHOUT,";Speed limit;8/9/2022;160271,356;206231,054
+2874712;C43 (zone) | F3a;"C43,[""400"",""Neen"",""50""], | ,BOECHOUT";Speed limit;8/9/2022;160276,606;206220,804
+2874713;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;160313,45;206288,2
+2874720;C43 (zone) | F45b;"C43,[""400"",""Neen"",""50""],";Speed limit | No exit, except for bicycle;8/9/2022;160318,82;206286,39
+2874832;XX | C21;Uitgezonderd plaatselijk verkeer | 7.5;Weight limit;8/9/2022;189498,41;190798,59
+2874835;F3a | C43 (zone);"BOECHOUT, | C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;160301,71;206145,67
+2874836;C21;7.5;Weight limit;8/9/2022;189252,65;190582,32
+2874842;A14; ;Speed bump;8/9/2022;159532,29;205956,15
+2874854;C43;50;Speed limit;8/9/2022;192651,219;166076,031
+2874855;C43;50;Speed limit;8/9/2022;192595,219;166175,156
+2874856;C43;50;Speed limit;8/9/2022;192241,094;166223,281
+2874857;C43;50;Speed limit;8/9/2022;191906,219;166213,906
+2874862;C43;50;Speed limit;8/9/2022;191923,344;166187,406
+2874863;C43;50;Speed limit;8/9/2022;192270,094;166211,656
+2874867;C43;50;Speed limit;8/9/2022;192600,969;166137,156
+2874868;C43;50;Speed limit;8/9/2022;192638,969;166050,531
+2874869;C43;50;Speed limit;8/9/2022;192651,594;165940,906
+2874870;C43;50;Speed limit;8/9/2022;192630,969;165928,531
+2874871;C43;50;Speed limit;8/9/2022;192597,719;165838,906
+2874872;C43;50;Speed limit;8/9/2022;192558,094;165739,531
+2874873;A14; ;Speed bump;8/9/2022;159405,33;206025,31
+2874880;A14; ;Speed bump;8/9/2022;159414,5;206044,44
+2874901;B1; ;Give way;8/9/2022;164403,406;201477,938
+2874952;A14; ;Speed bump;8/9/2022;159250,75;206059,05
+2874976;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/9/2022;158700,802;205998,332
+2874982;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/9/2022;158698,552;205994,582
+2874999;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/9/2022;158661,27;206586,73
+2875013;F111 | F45b; ;Bicycle road | No exit, except for bicycle;8/9/2022;160883,22;204865,64
+2875028;C43 (zone) | F3a;"C43,[""400"",""Neen"",""50""], | Rillaar,";Speed limit;8/9/2022;187645,64;183926,48
+2875030;M12 | C1; ;One-way street;8/9/2022;187130,48;184590,7
+2875044;D7 | M12 | C1; ;One-way street;8/9/2022;187148,4;184713,24
+2875047;C43 (zone) | F19 | D7;"C43,[""400"",""Neen"",""30""],";Speed limit | One-way street;8/9/2022;187135,05;184712,67
+2875059;F87 | F49; ;Speed bump | Pedestrian crossing;8/9/2022;187134,3;184784,94
+2875060;B1; ;Give way;8/9/2022;159545,68;205783,85
+2875067;M3 | F45b; ;Except for bicycles and mopeds | No exit, except for bicycle;8/9/2022;159539,53;205787,15
+2875072;C21 (zone);"C21,[""400"",7.5],Uitgezonderd plaatselijk verkeer";Weight limit;8/9/2022;189423,38;189992,16
+2875074;C43;50;Speed limit;8/9/2022;189348,29;189995,2
+2875075;C43;50;Speed limit;8/9/2022;189276,23;189901,33
+2875083;C31a | M2 | GIV;UITGEZONDERD PLAATSELIJK VERKEER;Except for bicycles;8/9/2022;159993,31;208030,21
+2875085;A14; ;Speed bump;8/9/2022;160217,34;207786,1
+2875103;A14; ;Speed bump;8/9/2022;159944,922;207508,948
+2875174;A14; ;Speed bump;8/9/2022;159787,62;207613,94
+2875180;A14; ;Speed bump;8/9/2022;159784,52;207637,12
+2875387;F101c; ;End of access only for pedestrians, cyclists, horses and agricultural;8/10/2022;159252,89;187607,48
+2875639;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/10/2022;184952,33;188853,07
+2875646;A39; ;Bidirectional traffic;8/10/2022;185071,23;189120,42
+2875648;M12 | C1; ;One-way street;8/10/2022;185068,99;189101,57
+2875654;M18 | F19; ;One-way street;8/10/2022;185139,42;188858,66
+2875655;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/10/2022;185149,48;188824,7
+2875656;A14; ;Speed bump;8/10/2022;185226,55;188835,3
+2875657;C1; ;One-way street;8/10/2022;185175,02;188852,12
+2875658;F19; ;One-way street;8/10/2022;185222,34;188845,31
+2875665;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/10/2022;185314,99;188825
+2875666;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/10/2022;185340,85;188835,62
+2875669;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/10/2022;185777,21;188673,91
+2875678;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/10/2022;186244,69;188868,92
+2875679;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/10/2022;186150,05;188839,71
+2875681;F45b; ;No exit, except for bicycle;8/10/2022;186091,93;188791,43
+2875682;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/10/2022;185916,67;188742,44
+2875683;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/10/2022;185857,12;188736,83
+2875684;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/10/2022;185795,8;188644,53
+2875702;F49; ;Pedestrian crossing;8/10/2022;185153,71;188544,52
+2875703;F49; ;Pedestrian crossing;8/10/2022;185122,06;188541,22
+2875708;B1; ;Give way;8/10/2022;184824,35;188174,22
+2875710;F45 | C21;Geen | 3.5;No exit | Weight limit;8/10/2022;184813,97;188185,41
+2875753;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/10/2022;188407,33;190091,43
+2875756;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/10/2022;188360,36;190077,26
+2875801;F111; ;Bicycle road;8/19/2022;177121,656;226698,062
+2875804;F111; ;Bicycle road;8/19/2022;177149,156;226646,562
+2875805;B1; ;Give way;8/19/2022;177152,797;226646,516
+2875806;F111; ;Bicycle road;8/19/2022;177147,375;226631,531
+2875811;F111; ;Bicycle road;8/19/2022;177166,375;226601,594
+2875812;B1; ;Give way;8/19/2022;177171,516;226602,547
+2875813;B1; ;Give way;8/19/2022;177154,516;226587,922
+2875860;B1; ;Give way;9/1/2022;177274,879;226420,386
+2875866;B1; ;Give way;9/1/2022;177276,254;226363,761
+2875906;A39; ;Bidirectional traffic;8/10/2022;188909,2;189540,99
+2875910;M12 | C3; ;All vehicles prohibited;8/10/2022;188910,66;189549,35
+2875925;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/10/2022;188702,03;189609,63
+2875934;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/10/2022;188430,34;189963,76
+2875938;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/10/2022;187158,24;188901,69
+2875950;XX | C3;Uitgezonderd voetgangers, (brom)fietsers klasse A en B, pedelec en menners;All vehicles prohibited;8/10/2022;187122,2;188742,94
+2875952;F45b; ;No exit, except for bicycle;8/10/2022;187092,94;188838,22
+2875953;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/10/2022;187054,46;188858,08
+2875958;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/10/2022;186318,18;188833,28
+2876035;XX | C21;Uitgezonderd plaatselijk vervoer | 7.5;Weight limit;8/10/2022;189188,48;189865,84
+2876037;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/10/2022;189158,23;189858,91
+2876044;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/10/2022;188961,3;190195,92
+2876048;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/10/2022;188558,01;191016,87
+2876050;XX | C21;Uitgezonderd plaatselijk vervoer | 7.5;Weight limit;8/10/2022;188536,97;191169,24
+2876061;C43;70;Speed limit;8/10/2022;187998,28;191035,27
+2876065;F49; ;Pedestrian crossing;8/10/2022;187870,71;191038,41
+2876066;F49; ;Pedestrian crossing;8/10/2022;187872,27;191012,77
+2876068;C43 (zone) | C43;"C43,[""400"",""Neen"",""50""], | 70";Speed limit | Speed limit;8/10/2022;187679,18;191006,02
+2876070;C43;70;Speed limit;8/10/2022;187514,88;190969,43
+2876088;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/10/2022;187500,2;190958,82
+2876089;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/10/2022;187498,09;190961,99
+2876276;C1 | M3; ;One-way street | Except for bicycles and mopeds;8/1/2022;69772,769;210967,207
+2876445;E3 | F19 | C43;30;No Halting | One-way street | Speed limit;8/11/2022;159901,56;185545,31
+2876446;F49; ;Pedestrian crossing;8/11/2022;159868,43;185549,87
+2876448;C3 | GVIId;Uitgezonderd  Dienstvoertuigen en Leveranciers;All vehicles prohibited;8/11/2022;159845,54;185550,26
+2876469;E9a | F33a | C43;rechts,normaal,Exit,, | 30;Parking | Speed limit;8/11/2022;160413,69;186052,86
+2876471;C19 | C1; ;Pedestrians prohibited | One-way street;8/11/2022;160413,69;186052,86
+2876473;C1 | M2; ;One-way street | Except for bicycles;8/11/2022;160437,04;186061,91
+2876477;C19 | GVIId | GIII | C3;Uitgezonderd uitleendienst sportimonium 015/618238 | UItgezonderd  Dienstvoertuigen;Pedestrians prohibited | All vehicles prohibited;8/11/2022;160436,48;186083,49
+2876487;C19 | F33a | F33b | C1;links,normaal,Parking,, | links,normaal,Uitgang,,;Pedestrians prohibited | One-way street;8/11/2022;160496,1;186190,98
+2876491;C11 | C3 | GVIId;Verboden toegang voor honden;Bicycles prohibited | All vehicles prohibited;8/11/2022;160502,22;186216,86
+2876495;C43;30;Speed limit;8/11/2022;160277,06;185837,76
+2876499;C19 | C11 | C43;30;Pedestrians prohibited | Bicycles prohibited | Speed limit;8/11/2022;160166,96;185762,76
+2876511;C1; ;One-way street;8/11/2022;160109,83;185645,53
+2876512;C43;30;Speed limit;8/11/2022;160068,57;185595,78
+2876515;E3 | F19 | C43;30;No Halting | One-way street | Speed limit;8/11/2022;159985,28;185549,96
+2876516;C19; ;Pedestrians prohibited;8/11/2022;159976,13;185543,47
+2876523;F33a | F49;rechts,normaal,Zuiderbad,,;Pedestrian crossing;8/11/2022;159966,53;185551,13
+2876709;C1; ;One-way street;8/9/2022;152436,003;222541,598
+2876738;F19; ;One-way street;8/9/2022;152453,068;222553,017
+2876804;M6; ;Mopeds Class B have to use cycleway;8/11/2022;160968,873;205586,537
+2876859;C43 (zone) | F87;"C43,[""400"",""Neen"",""30""],";Speed limit | Speed bump;8/11/2022;183374,4;186391,79
+2876865;XX | C3;Uitgezonderd personeel;All vehicles prohibited;8/11/2022;183452,79;186373,71
+2876867;XX | C3;Uitgezonderd personeel;All vehicles prohibited;8/11/2022;183456,29;186372,03
+2876877;C1; ;One-way street;8/11/2022;183585,84;186394,36
+2876880;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/11/2022;183646,64;186413,59
+2876881;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/11/2022;183646,15;186421,1
+2876882;C21;3.5;Weight limit;8/11/2022;183649,51;186424,23
+2876893;A3;15;Steep descent;8/11/2022;184118,24;186728,79
+2876908;A14; ;Speed bump;8/11/2022;160264,743;207665,839
+2876960;F49; ;Pedestrian crossing;8/11/2022;183667,44;187164,23
+2877049;F45 | XX | C3;Geen | Uitgezonderd plaatselijk verkeer;No exit | All vehicles prohibited;8/11/2022;183691,25;187735,52
+2877052;F45 | XX | C3;Geen | Uitgezonderd plaatselijk verkeer;No exit | All vehicles prohibited;8/11/2022;183722,91;187665,56
+2877055;F45 | XX | C3;Geen | Uitgezonderd plaatselijk  verkeer;No exit | All vehicles prohibited;8/11/2022;183731,49;187685,25
+2877070;F49; ;Pedestrian crossing;8/11/2022;183869,61;187141,59
+2877116;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/11/2022;184742,25;187387,7
+2877178;XX | A25;Opgepast fietsers op de rijbaan;Bicycle crossing;8/11/2022;185005,71;187070,73
+2877185;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/11/2022;184836,99;187017,89
+2877191;B1; ;Give way;8/11/2022;184663,33;187066,98
+2877203;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/11/2022;183860,8;187129,75
+2877207;F49; ;Pedestrian crossing;8/11/2022;183849,38;187130,74
+2877219;F49; ;Pedestrian crossing;8/11/2022;183641,02;187155,47
+2877265;F4a; ;Speed limit zone;9/1/2022;168874,625;210026,25
+2877269;F4b; ;End of speed limit zone;9/1/2022;168871,375;210016,25
+2877368;C43 | GIa;90 | m,300;Speed limit;8/5/2022;97530,12;211378,22
+2877372;A33 | GIa;m,300;Traffic lights;8/5/2022;103495,24;210685,53
+2877390;GIa | A33;m,300;Traffic lights;8/11/2022;98331,49;211501,72
+2877526;F19 | M5; ;One-way street | Not oneway for bicycles and mofas;9/1/2022;37146,832;205110,1
+2877527;B1; ;Give way;10/1/2022;61382,5;184010,156
+2877550;B1; ;Give way;10/1/2022;61356,469;184067,594
+2877551;B1; ;Give way;10/1/2022;61419,406;184043,031
+2877554;B1; ;Give way;10/1/2022;61434,75;184017,594
+2877600;F111; ;Bicycle road;9/1/2022;170489,281;211809,812
+2877601;F111; ;Bicycle road;9/1/2022;170440,406;211786,062
+2877606;XX | C3;Uitgezonderd voetgangers, (brom)fietsen klasse A en B, pedelec en menner;All vehicles prohibited;8/11/2022;187132,77;188717,54
+2877611;C3; ;All vehicles prohibited;8/11/2022;186864,76;188670,83
+2877612;C3; ;All vehicles prohibited;8/11/2022;186861,42;188661,43
+2877617;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/11/2022;185614,72;188070,26
+2877618;C43;70;Speed limit;8/11/2022;188492,2;189010,07
+2877622;C43;70;Speed limit;8/11/2022;188387,93;188964,02
+2877623;C43;70;Speed limit;8/11/2022;188168,92;188727,47
+2877642;C43;70;Speed limit;8/11/2022;188134,84;188712,41
+2877644;F4a | F113; ;Speed limit zone;9/1/2022;170354,281;211742,812
+2877658;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/11/2022;187424,06;188324,84
+2877661;F45b; ;No exit, except for bicycle;8/11/2022;187310,92;188314,59
+2877664;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/11/2022;187314,32;188310,97
+2877666;C1 | M3; ;One-way street | Except for bicycles and mopeds;9/1/2022;37066,082;205106,35
+2877667;C43;70;Speed limit;8/11/2022;187309,68;188293,84
+2877671;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/11/2022;186561,44;188022,11
+2877673;F111 | F4b; ;Bicycle road | End of speed limit zone;9/1/2022;170352,781;211728,938
+2877678;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/11/2022;186544,28;188041,41
+2877679;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/11/2022;186504,03;188020,5
+2877680;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/11/2022;186503,46;188026,39
+2877681;C43;70;Speed limit;8/11/2022;186494,55;188009,57
+2877684;C43;70;Speed limit;8/11/2022;186163,86;187807,09
+2877686;XX | C43 (zone);"Uitgezonderd plaatselijk verkeer | C43,[""400"",""Neen"",""50""],";Speed limit;8/11/2022;186101,36;187801,14
+2877691;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/11/2022;186078,63;187809,05
+2877694;C43 (zone) | C43;"C43,[""400"",""Neen"",""50""], | 70";Speed limit | Speed limit;8/11/2022;186085,12;187793,97
+2877696;F111; ;Bicycle road;9/1/2022;170341,656;211761,562
+2877700;F49; ;Pedestrian crossing;8/11/2022;185545,23;187544,22
+2877701;F49; ;Pedestrian crossing;8/11/2022;185542,43;187532,33
+2877703;F111; ;Bicycle road;9/1/2022;170377,281;211754,688
+2877706;F4a; ;Speed limit zone;9/1/2022;170111,594;211559,625
+2877707;F4b; ;End of speed limit zone;9/1/2022;170106,094;211562,688
+2877708;F4b; ;End of speed limit zone;9/1/2022;170092,281;211617,25
+2877709;F4a; ;Speed limit zone;9/1/2022;170089,031;211612,25
+2877711;F111 (zone);"F111,[""400x600""],";Bicycle road;8/11/2022;159653,57;207802,46
+2877712;F4b; ;End of speed limit zone;9/1/2022;170231,031;211661,719
+2877717;F4a; ;Speed limit zone;9/1/2022;170339,281;211695,781
+2877718;F4b; ;End of speed limit zone;9/1/2022;170334,531;211692,281
+2877719;F4b; ;End of speed limit zone;9/1/2022;170289,406;211672,406
+2877720;F4a; ;Speed limit zone;9/1/2022;170298,156;211673,656
+2877737;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/11/2022;159639,93;207799,1
+2877764;B1; ;Give way;8/7/2022;156476,948;177903,608
+2877898;C43;90;Speed limit;8/12/2022;105491,91;210199,71
+2877903;GIa | A33;m,300;Traffic lights;8/12/2022;105670,96;210183,35
+2877940;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/12/2022;159601,46;207552,01
+2877944;F4a | C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit zone | Speed limit;8/12/2022;160348,56;204948,75
+2877946;XX | F45b;GALGENSTUK;No exit, except for bicycle;8/12/2022;160837,15;204860,59
+2877947;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/12/2022;160879,54;204823,04
+2877948;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/12/2022;160884,5;204827
+2877949;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/12/2022;160644,08;204802,88
+2877967;F45b | C43 (zone);"C43,[""400"",""Neen"",""50""],";No exit, except for bicycle | Speed limit;8/12/2022;160656,15;204813,83
+2878036;F45b; ;No exit, except for bicycle;8/12/2022;160662,74;204563,38
+2878089;B1 | F4b; ;Give way | End of speed limit zone;8/12/2022;159475,2;205360,38
+2878092;M7 | D7 | F4a; ;Mopeds Class B forbidden on cycleway | Speed limit zone;8/12/2022;159479,47;205358,41
+2878095;M7 | M18 | D7; ;Mopeds Class B forbidden on cycleway;8/12/2022;159488,68;205355,05
+2878121;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/12/2022;181310,58;189090,05
+2878122;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/12/2022;181344,21;188667,45
+2878123;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/12/2022;181344,39;188660,81
+2878125;M18 | F19; ;One-way street;8/12/2022;181324,39;188641,78
+2878127;M12 | C1; ;One-way street;8/12/2022;181327,6;188656,75
+2878129;F12a; ;Living street;8/12/2022;182499,29;187740,67
+2878131;F12b | B5; ;End of Living street | Stop sign;8/12/2022;182504,53;187732,84
+2878138;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/12/2022;180886,4;187464,78
+2878140;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/12/2022;182060,54;187466,34
+2878149;XX | C43 (zone);"Herhaling | C43,[""400"",""Neen"",""50""],";Speed limit;8/12/2022;180414,78;188705,79
+2878150;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/12/2022;180454,96;188709,37
+2878151;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/12/2022;180766,89;188535,75
+2878152;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/12/2022;180789,88;188575,46
+2878155;M12 | C1; ;One-way street;8/12/2022;181037,23;188341,05
+2878157;M18 | F19; ;One-way street;8/12/2022;181038,97;188368,99
+2878163;M3 | C3; ;Except for bicycles and mopeds | All vehicles prohibited;8/12/2022;181980;188269,32
+2878165;M3 | C3; ;Except for bicycles and mopeds | All vehicles prohibited;8/12/2022;181980,42;188256,11
+2878176;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/12/2022;182163,17;188220,93
+2878218;B1; ;Give way;8/12/2022;187965,99;183090,46
+2878220;XX | C21;Uitgezonderd plaatselijk verkeer | 7.5;Weight limit;8/12/2022;187567,95;185849,64
+2878222;XX | C21;Uitgezonderd plaatselijk verkeer | 7.5;Weight limit;8/12/2022;187732,78;185508,41
+2878228;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/12/2022;188725,37;184479,03
+2878229;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/12/2022;188674,89;184469,31
+2878389;B1; ;Give way;8/1/2022;60494,71;184474,51
+2878505;F111; ;Bicycle road;8/12/2022;104445,141;193115,713
+2878913;F111; ;Bicycle road;8/16/2022;158928,36;186559,57
+2878919;F111; ;Bicycle road;8/16/2022;158871,05;186691,65
+2878920;F111; ;Bicycle road;8/16/2022;158859,36;186698,56
+2878923;D1c | GVIId | C3;SCHOOLSTRAAT op schooldagen van 8u tot 8.40u en van 15.15u tot 15.40u op woensdag ook  van 11.45u to;All vehicles prohibited;8/16/2022;158860,94;186828,08
+2878931;B5; ;Stop sign;8/16/2022;159006,87;187192,05
+2879022;F45b; ;No exit, except for bicycle;8/19/2022;107353,461;184448,936
+2879028;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;107343,466;184441,224
+2879032;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;107335,343;184418,84
+2879034;F45b; ;No exit, except for bicycle;8/19/2022;107071,677;184241,932
+2879036;F45b; ;No exit, except for bicycle;8/19/2022;107070,927;184243,12
+2879048;F45b; ;No exit, except for bicycle;8/19/2022;107121,677;183990,495
+2879060;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;107142,302;183830,307
+2879062;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;107143,614;183831,057
+2879063;F4a; ;Speed limit zone;8/19/2022;107266,052;183630,932
+2879064;F4b; ;End of speed limit zone;8/19/2022;107263,802;183630,12
+2879066;F4a; ;Speed limit zone;8/19/2022;107012,239;183546,87
+2879067;F4b; ;End of speed limit zone;8/19/2022;107012,239;183546,87
+2879074;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;106948,489;183747,12
+2879075;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;106948,489;183747,12
+2879077;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;106908,802;183763,495
+2879078;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;106908,802;183763,495
+2879080;F4b | F111 (zone);"F111,[""400x600""],";End of speed limit zone | Bicycle road;8/19/2022;106419,677;184223,932
+2879082;F4a | F111 (zone);"F111,[""400x600""],";Speed limit zone | Bicycle road;8/19/2022;106419,052;184218,182
+2879092;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;106864,114;184151,057
+2879093;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;106864,114;184151,057
+2879096;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;106473,536;183642,325
+2879097;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;106479,836;183633,505
+2879098;F4a; ;Speed limit zone;8/19/2022;106136,563;183415,239
+2879100;F4b; ;End of speed limit zone;8/16/2022;106123,846;183416,652
+2879102;M12 | F19; ;One-way street;8/19/2022;106532,239;184204,995
+2879107;M12 | C1; ;One-way street;8/16/2022;106588,767;184273,944
+2879112;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;106596,079;184274,049
+2879119;M12 | F19; ;One-way street;8/16/2022;106592,947;184192,897
+2879122;M12 | C1; ;One-way street;8/19/2022;106612,098;184101,978
+2879124;F4a; ;Speed limit zone;8/19/2022;106741,802;184410,807
+2879125;F4b; ;End of speed limit zone;8/19/2022;106741,802;184410,807
+2879130;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;106372,239;183819,932
+2879131;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;106372,239;183819,932
+2879133;F4a; ;Speed limit zone;8/19/2022;105967,864;183899,057
+2879134;F4b; ;End of speed limit zone;8/19/2022;105967,864;183899,057
+2879136;F4a; ;Speed limit zone;8/19/2022;105848,239;183713,932
+2879137;F4b; ;End of speed limit zone;8/19/2022;105848,239;183713,932
+2879138;F45b; ;No exit, except for bicycle;8/19/2022;106581,239;183958,432
+2879144;M12 | C1; ;One-way street;8/19/2022;106846,239;183967,182
+2879151;F4a; ;Speed limit zone;8/19/2022;107435,114;184236,245
+2879153;C21 (zone) | F4b;"C21,[""400"",3.5],";Weight limit | End of speed limit zone;8/19/2022;107441,739;184224,495
+2879155;F111 (zone) | A23;"F111,[""400x600""],";Bicycle road | School children crossing the way near school;8/19/2022;107211,614;184063,87
+2879156;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;107216,114;184058,87
+2879158;M12 | F19; ;One-way street;8/19/2022;106830,114;184087,245
+2879168;F4a; ;Speed limit zone;8/19/2022;107114,239;183601,87
+2879169;F4b; ;End of speed limit zone;8/19/2022;107114,239;183601,87
+2879243;C1; ;One-way street;8/16/2022;181720,98;186229,07
+2879263;B1; ;Give way;8/16/2022;181732;186234,43
+2879269;C1; ;One-way street;8/16/2022;181785,763;186198,198
+2879276;F50 | F49; ;Bicycle crossing | Pedestrian crossing;8/16/2022;181710,3;186207,8
+2879280;A25 | A21; ;Bicycle crossing | Pedestrian crossing;8/16/2022;181629,49;186135,87
+2879321;C1; ;One-way street;8/16/2022;180979,86;185382,22
+2879331;XX | C3;Uitgezonderd plaatselijk vervoer;All vehicles prohibited;8/16/2022;180342,2;185409,09
+2879333;XX | C3;Uitgezonderd plaatselijk verkeer;All vehicles prohibited;8/16/2022;180693,57;185264,89
+2879379;F50 | F49; ;Bicycle crossing | Pedestrian crossing;8/16/2022;181708,3;186226,44
+2879384;F50 | F49; ;Bicycle crossing | Pedestrian crossing;8/16/2022;181718;186243,13
+2879394;A25 | A21; ;Bicycle crossing | Pedestrian crossing;8/16/2022;181786,63;186360,64
+2879426;M10 | C3; ;All vehicles prohibited;8/16/2022;181206,65;186750,41
+2879427;F45b; ;No exit, except for bicycle;8/16/2022;181216,41;186723,86
+2879475;A7a; ;Road narrows;8/16/2022;182150,72;186897,2
+2879494;A7a; ;Road narrows;8/16/2022;181936,25;186879,21
+2879509;C43;50;Speed limit;8/16/2022;188972,93;189492,83
+2879510;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/16/2022;189026,53;189514,41
+2879513;M12 | XX | C3;Uitgezonderd plaatselijk verkeer;All vehicles prohibited;8/16/2022;189027,63;189512,57
+2879515;F45b | A39; ;No exit, except for bicycle | Bidirectional traffic;8/16/2022;189030,41;189514,51
+2879518;C43;50;Speed limit;8/16/2022;188811,88;189322,12
+2879523;C43;70;Speed limit;8/16/2022;188779,81;189286,57
+2879526;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/16/2022;188713,32;189119,39
+2879528;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/16/2022;188709,58;189111,58
+2879530;XX | C21;Uitgezonderd plaatselijk verkeer | 7.5;Weight limit;8/16/2022;188694,04;189116,92
+2879534;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/16/2022;188643,91;189087,69
+2879535;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/16/2022;188660,54;189111,37
+2879540;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/16/2022;188676,16;189043,91
+2879543;C43;70;Speed limit;8/16/2022;188641,65;189045,53
+2879544;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/16/2022;188572,56;189010,34
+2879548;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/16/2022;188574,45;188997,14
+2879557;M3 | XX | C3;JAAGPAD Uitgezonderd toelatingen, rijwielen en bromfietsen klasse A;Except for bicycles and mopeds | All vehicles prohibited;8/16/2022;185149,56;187029,12
+2879571;M7 | M18 | D7; ;Mopeds Class B forbidden on cycleway;8/16/2022;159496,87;205356,56
+2879572;F4b; ;End of speed limit zone;8/16/2022;159867,91;205502,91
+2879574;F4b | B1; ;End of speed limit zone | Give way;8/16/2022;159866,64;205504,11
+2879577;C21 (zone);"C21,[""400"",5.5],UITGEZONDERD LADEN EN LOSSEN";Weight limit;8/16/2022;160153,13;205290,07
+2879578;C21 (zone);"C21,[""400"",5.5],UITGEZONDERD  LADEN EN LOSSEN";Weight limit;8/16/2022;160145,61;205291
+2879580;B5; ;Stop sign;8/16/2022;160197,44;205321,41
+2879779;C1 | M12 | F12a; ;One-way street | Living street;8/16/2022;103574,375;192237,958
+2879794;F19 | M18 | C43 (zone) | F12a;30;One-way street | Speed limit | Living street;8/16/2022;103586,933;192161,517
+2879797;F4a; ;Speed limit zone;8/16/2022;104404,688;191119,99
+2879802;B1 | F4b | F12b; ;Give way | End of speed limit zone | End of Living street;8/16/2022;103578,837;192166,41
+2879810;F4b; ;End of speed limit zone;8/16/2022;104403,757;191126,646
+2879857;B1; ;Give way;9/30/2022;78983,133;177841,015
+2879861;B1; ;Give way;9/30/2022;78993,258;177827,015
+2879888;A7c; ;Road narrows left;8/12/2022;159556,97;205348,79
+2879903;D10; ;Pedestrian and bicycle path;8/12/2022;158638,97;205269,96
+2879929;F45b | XX | C3;Uitgezonderd plaatselijk verkeer;No exit, except for bicycle | All vehicles prohibited;8/17/2022;182126,61;185339,87
+2879934;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/17/2022;181240,63;184426,41
+2879935;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/17/2022;180948,16;184294,24
+2879936;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/17/2022;180955,35;184283,83
+2879939;F45b; ;No exit, except for bicycle;8/17/2022;180697,66;183999,17
+2879952;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/17/2022;180272,24;183879,74
+2879960;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/17/2022;180589,86;184804,87
+2879962;M10 | B1; ;Give way;8/17/2022;180621,8;184815,54
+2879976;C43 (zone) | F3a;"C43,[""400"",""Neen"",""50""], | Aarschot,";Speed limit;8/17/2022;181720,05;185475,27
+2879980;M3 | F45;Geen;Except for bicycles and mopeds | No exit;8/17/2022;180328,67;184844,5
+2879999;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/17/2022;189384,2;189288,31
+2880000;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/17/2022;189395,4;189289,5
+2880010;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/17/2022;189335,19;189269,25
+2880011;C43;70;Speed limit;8/17/2022;189492,63;189557,76
+2880017;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/17/2022;189372,27;189533,51
+2880018;C43;70;Speed limit;8/17/2022;189358,16;189547,34
+2880019;C43;70;Speed limit;8/17/2022;189256,63;189550,65
+2880022;C43;50;Speed limit;8/17/2022;189282,54;189529,7
+2880025;XX | C21 | C43;Uitgezonderd plaatselijk verkeer | 7.5 | 70;Weight limit | Speed limit;8/17/2022;189258,32;189510,83
+2880037;B1; ;Give way;9/1/2022;155842,531;204747,5
+2880103;F12a | C1 | M11; ;Living street | One-way street | Only applies to link road;8/17/2022;105036,21;194545,522
+2880107;F19 | M17 Klein; ;One-way street;8/17/2022;105074,729;194583,249
+2880119;C1 | M11 Klein; ;One-way street;8/17/2022;105111,44;194479,82
+2880124;C1 | M11 Klein; ;One-way street;8/17/2022;105097,71;194480,912
+2880130;F19 | M17 Klein; ;One-way street;8/17/2022;105071,446;194578,12
+2880170;F13 | F19 | M17;sy-vsd-3-3-125,P,3,5t max,ZONE,Bewoners,herhaling;One-way street;8/17/2022;105104,89;194488,265
+2880308;B15a | F4a; ;Speed limit zone;8/17/2022;107267,162;197249,321
+2880391;F111 (zone);"F111,[""400x600""],";Bicycle road;8/12/2022;158565,51;205215,36
+2880401;F111 (zone);"F111,[""400x600""],";Bicycle road;8/12/2022;158773,82;205163,37
+2880406;F49; ;Pedestrian crossing;8/12/2022;158663,65;205317,2
+2880408;C43;30;Speed limit;8/31/2022;64201,419;191632,127
+2880411;C45;30;End of speed limit;8/31/2022;64208,169;191626,627
+2880412;C43;30;Speed limit;8/31/2022;64199,794;191597,002
+2880418;C45;30;End of speed limit;8/31/2022;64189,669;191592,377
+2880419;F49; ;Pedestrian crossing;8/12/2022;158646,23;205328,41
+2880428;M2 | C1; ;Except for bicycles | One-way street;8/12/2022;158665,04;205381,96
+2880447;C43 | B5;30;Speed limit | Stop sign;8/31/2022;64060,044;191554,627
+2880448;C45;30;End of speed limit;8/31/2022;64057,169;191549,815
+2880449;C45;30;End of speed limit;8/31/2022;64106,919;191442,752
+2880450;C43;30;Speed limit;8/31/2022;64105,044;191433,377
+2880453;C45;30;End of speed limit;8/31/2022;64162,419;191400,627
+2880454;C43;30;Speed limit;8/31/2022;64167,669;191411,627
+2880460;F19 | M4; ;One-way street | Not oneway for bicycles;8/12/2022;158635,68;205381,18
+2880462;F111 (zone) | F45b;"F111,[""400x600""],";Bicycle road | No exit, except for bicycle;8/12/2022;158641,14;205345,88
+2880470;F87; ;Speed bump;8/12/2022;158631,34;205361,74
+2880471;F87; ;Speed bump;8/12/2022;158631,34;205361,74
+2880472;F19; ;One-way street;8/12/2022;158625,31;205388,36
+2880481;C1; ;One-way street;8/12/2022;158619,58;205383,8
+2880486;F111; ;Bicycle road;8/12/2022;158587,23;205492,61
+2880502;A14; ;Speed bump;8/12/2022;159567,4;204482,59
+2880685;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/18/2022;178997,69;185450,6
+2880692;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/18/2022;179007,81;185446,55
+2880694;C43;70;Speed limit;8/18/2022;178973,38;185282,96
+2880696;B1; ;Give way;8/18/2022;181519,12;183922,43
+2880699;B1; ;Give way;8/18/2022;181398,31;183949,43
+2880703;B1; ;Give way;8/18/2022;181146,1;183969,3
+2880707;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/18/2022;180879,48;183892,59
+2880708;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/18/2022;181142,56;183668,87
+2880711;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/18/2022;180108,43;183666,16
+2880718;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/18/2022;179266,77;182783,89
+2880719;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/18/2022;179259,31;182775,82
+2880720;A7b; ;Road narrows right;8/18/2022;179791,17;183690,47
+2880734;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/18/2022;179084,48;184429,06
+2880741;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/18/2022;179097,19;184459,38
+2880755;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/18/2022;179558,36;184072,4
+2880756;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/18/2022;179569,48;184080,22
+2880758;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/18/2022;180121,32;183686,65
+2880765;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/18/2022;181389,99;183982,4
+2880777;B1; ;Give way;8/18/2022;182027,19;183974,03
+2880786;F87; ;Speed bump;8/18/2022;182911,79;185276,53
+2880797;F45b; ;No exit, except for bicycle;8/18/2022;183717,92;184402,52
+2880801;B1; ;Give way;8/18/2022;183913,31;184285,27
+2880887;XX | C21;Uitgezonderd plaatselijk verkeer | 3.5;Weight limit;8/18/2022;183225,84;184211,79
+2880888;B1; ;Give way;8/18/2022;183222,17;184236,58
+2880896;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/18/2022;183222,12;184193,4
+2880902;F113 (zone) | F4b;"F113,[""400x600""],";End of speed limit zone;8/18/2022;132498,491;163538,615
+2880908;F4b | F113 (zone);"F113,[""400x600""],";End of speed limit zone;8/18/2022;130248,741;163604,74
+2880913;F4b | F113 (zone);"F113,[""400x600""],";End of speed limit zone;8/18/2022;130937,116;163967,615
+2880915;F4a | F111 (zone);"F111,[""400x600""],";Speed limit zone | Bicycle road;8/18/2022;130927,491;163972,99
+2880921;F4b | F113 (zone) | F101c;"F113,[""400x600""],";End of speed limit zone | End of access only for pedestrians, cyclists, horses and agricultural;8/18/2022;131231,241;164478,74
+2881123;F4a; ;Speed limit zone;8/16/2022;104405,951;191118,197
+2881151;F111 (zone);"F111,[""400x600""],";Bicycle road;8/18/2022;131717,366;164485,615
+2881166;C23 | GVIIa | GIV;5.5 | UITGEZONDERD PLAATSELIJK VERKEER;Heavy goods vehicles prohibited;8/19/2022;44086,516;170920,989
+2881172;C23 | GVIIa | GIV;5.5 | UITGEZONDERD PLAATSELIJK VERKEER;Heavy goods vehicles prohibited;8/19/2022;43703,579;172131,082
+2881212;C43;50;Speed limit;8/19/2022;184232,3;184239,39
+2881214;C43;70;Speed limit;8/19/2022;186267,36;184502
+2881217;C43 | F3a;70 | Rillaar,;Speed limit;8/19/2022;186485,8;184651,21
+2881220;C43;70;Speed limit;8/19/2022;186419,29;184554,77
+2881221;B1; ;Give way;8/19/2022;186385,22;184530,67
+2881225;F49; ;Pedestrian crossing;8/31/2022;84999,857;179478,421
+2881236;B1; ;Give way;8/19/2022;185803,12;184195,22
+2881238;B1; ;Give way;8/19/2022;185747,1;184173,12
+2881239;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/19/2022;185742,15;184176,16
+2881240;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/19/2022;185757,41;184181,25
+2881241;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/19/2022;185761,02;184133,9
+2881243;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/19/2022;185780,63;184130,08
+2881248;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/19/2022;185124,2;183939,54
+2881252;B1; ;Give way;8/19/2022;185142,87;183907,04
+2881253;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/19/2022;185148,5;183880,15
+2881254;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/19/2022;185137,86;183878,92
+2881255;B1; ;Give way;8/19/2022;185063,15;183909,65
+2881261;C43;30;Speed limit;8/19/2022;184420,6;184105,28
+2881264;C43;30;Speed limit;8/19/2022;184275,31;184142,36
+2881266;XX | C3;Uitgezonderd plaatselijk verkeer;All vehicles prohibited;8/19/2022;185160,18;184562,48
+2881283;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/19/2022;184716,32;185440,87
+2881286;GIa | B1;m,150;Give way;8/19/2022;184813,16;185368,5
+2881299;A3 | B17;12;Steep descent;8/19/2022;183495,96;185484,9
+2881374;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/19/2022;182929,89;183699,25
+2881383;B1; ;Give way;8/19/2022;187078,3;183167,95
+2881384;C43;50;Speed limit;8/19/2022;187070,92;183178,42
+2881386;C43;70;Speed limit;8/19/2022;187165,11;183336,12
+2881387;B1; ;Give way;8/19/2022;187197,07;183376,68
+2881388;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/19/2022;187191,1;183394,04
+2881389;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/19/2022;187190,84;183373,34
+2881390;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/19/2022;185285,51;183422,95
+2881392;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/19/2022;185262,84;183412,02
+2881438;C43 | F3a;50 | Rillaar,;Speed limit;8/19/2022;186499,51;184344,47
+2881452;XX | C3 | C21;Uitgezonderd plaatselijk verkeer | 5.5;All vehicles prohibited | Weight limit;8/19/2022;186726,1;184883,14
+2881674;C1 | M2; ;One-way street | Except for bicycles;8/19/2022;106067,353;191651,951
+2882046;B5; ;Stop sign;8/22/2022;239767,063;189633,125
+2882062;B1; ;Give way;8/22/2022;243418,313;185488,516
+2882068;B1; ;Give way;8/22/2022;243399,813;185488,078
+2882071;B5; ;Stop sign;8/22/2022;243429,938;185502,641
+2882169;B1; ;Give way;8/22/2022;171633,81;223954,5
+2882290;C45;50;End of speed limit;8/22/2022;76753,99;177302,07
+2882291;C43;50;Speed limit;8/22/2022;76744,92;177297
+2882292;C43;50;Speed limit;8/22/2022;76820,24;177185,3
+2882293;C43;50;Speed limit;8/22/2022;76903,71;177114,2
+2882357;F19 | M17 Klein; ;One-way street;8/22/2022;105055,245;193611,755
+2882367;C3 | GIII | F12a;UITGEZONDERD,,en vergunninghouders,van 18u - 11u,S148,S147,A, P;All vehicles prohibited | Living street;8/15/2022;104942,737;193587,481
+2882373;C1 | M11 | F113; ;One-way street | Only applies to link road;8/22/2022;104907,824;193746,791
+2882396;C3 | GIII | F12a;UITGEZONDERD,,en vergunninghouders,van 18u - 11u,S148,S147,A, P;All vehicles prohibited | Living street;8/15/2022;104904,829;193707,483
+2882404;C1 | M11 | F12a; ;One-way street | Only applies to link road | Living street;8/15/2022;105020,504;193292,609
+2882408;B1 | F111; ;Give way | Bicycle road;8/15/2022;105001,532;193714,844
+2882420;B1 | F12b; ;Give way | End of Living street;8/15/2022;104860,435;193759,795
+2882429;C1 | M11 Klein; ;One-way street;8/15/2022;104974,367;193482,982
+2882445;F19 | M17; ;One-way street;8/15/2022;104982,248;193688,565
+2882451;F19 | M17 | F12a; ;One-way street | Living street;8/15/2022;104956,119;193581,807
+2882466;C3 | GIII | F12a;UITGEZONDERD,,en vergunninghouders,van 18u - 11u,S148,S147,A, P;All vehicles prohibited | Living street;8/15/2022;104938,095;193580,74
+2882468;B1 | F12b; ;Give way | End of Living street;8/15/2022;104938,095;193580,74
+2882482;C3 | GIII | F12a;UITGEZONDERD,,en vergunninghouders,van 18u - 11u,S148,S147,A, P;All vehicles prohibited | Living street;8/22/2022;104880,412;193748,006
+2882485;B1 | F111 | F12b; ;Give way | Bicycle road | End of Living street;8/22/2022;104880,412;193748,006
+2882495;F19 | M17 Klein | F113 | F13 | F12a;ZONE,C3,sy-vsd-3-3-210,S148,S147,UITGEZONDERD,A, P,Uitgezonderd,vergunninghouders;One-way street | Living street;8/15/2022;105006,194;193731,037
+2882861;F19 | M12; ;One-way street;8/19/2022;106891,614;183853,932
+2882873;B1; ;Give way;8/9/2022;64670,94;202811,71
+2882878;M12 | C1; ;One-way street;8/19/2022;106596,927;184195,682
+2882895;F49; ;Pedestrian crossing;8/23/2022;48542,005;168380,995
+2882897;F49; ;Pedestrian crossing;8/23/2022;48527,88;168370,714
+2882901;C43;50;Speed limit;8/23/2022;49033,24;167994,58
+2883160;C43;50;Speed limit;8/17/2022;162703,673;180823,841
+2883161;C43;50;Speed limit;8/17/2022;162902,173;180946,966
+2883162;C43;50;Speed limit;8/17/2022;163076,517;181059,122
+2883163;C43;50;Speed limit;8/17/2022;163124,017;181083,997
+2883164;C43;50;Speed limit;8/17/2022;163220,079;181144,372
+2883245;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/24/2022;187079,14;184958,64
+2883252;F50 | F49; ;Bicycle crossing | Pedestrian crossing;8/24/2022;187154,01;184906,77
+2883265;C43;70;Speed limit;8/24/2022;188064,06;184555,77
+2883267;C43;70;Speed limit;8/24/2022;188243,88;184496,58
+2883270;B1; ;Give way;8/24/2022;188695,57;184438,56
+2883274;C43;70;Speed limit;8/24/2022;188939,39;184407,22
+2883276;B1; ;Give way;8/24/2022;188965,04;184391,69
+2883277;C43;50;Speed limit;8/24/2022;188956,23;184390,18
+2883278;B1; ;Give way;8/24/2022;188951,54;184416,61
+2883279;C43;50;Speed limit;8/24/2022;188961,1;184424,31
+2883281;C43;70;Speed limit;8/24/2022;189253,35;184475,17
+2883284;C43;50;Speed limit;8/24/2022;189276,95;184443,84
+2883287;B1; ;Give way;8/24/2022;188808,47;184408,19
+2883289;C43;50;Speed limit;8/24/2022;188688,29;184403,37
+2883292;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/24/2022;188283,64;184465,07
+2883293;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/24/2022;188274,98;184464,09
+2883295;C43;70;Speed limit;8/24/2022;188124,18;184517,5
+2883296;C43;50;Speed limit;8/24/2022;188052,55;184507,42
+2883311;F50 | F49; ;Bicycle crossing | Pedestrian crossing;8/24/2022;187171,56;184894,68
+2883317;D7 | F19; ;One-way street;8/24/2022;187152,99;184890,36
+2883319;F50 | F49; ;Bicycle crossing | Pedestrian crossing;8/24/2022;187139,22;184905,16
+2883322;A21 | A25; ;Pedestrian crossing | Bicycle crossing;8/24/2022;187073,81;184952,04
+2883327;XX | C21;Uitgezonderd plaatselijk verkeer | 7.5;Weight limit;8/24/2022;187369,16;185708,28
+2883329;XX | C21;Uitgezonderd plaatselijk verkeer | 7.5;Weight limit;8/24/2022;187178,77;185332,05
+2883331;F45b; ;No exit, except for bicycle;8/24/2022;187338;185710,75
+2883342;C21 (zone) | C43;"C21,[""400"",7.5],Uitgezonderd  plaatselijk verkeer | 70";Weight limit | Speed limit;8/24/2022;188062,94;186302,38
+2883345;D7 | C43 (zone) | C43;"C43,[""400"",""Neen"",""50""], | 70";Speed limit | Speed limit;8/24/2022;187985,15;186275,71
+2883347;XX | C21;Uitgezonderd plaatselijk verkeer | 7.5;Weight limit;8/24/2022;187795,51;186186,91
+2883353;XX | C21;Uitgezonderd  plaatselijk verkeer | 7.5;Weight limit;8/24/2022;187485,92;185881,36
+2883354;F45b; ;No exit, except for bicycle;8/24/2022;186358,75;185939,94
+2883356;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/24/2022;185831,71;185390,18
+2883360;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/24/2022;185444,44;185530,87
+2883361;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/24/2022;185407,98;185492,88
+2883362;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/24/2022;185324,78;185991,38
+2883364;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/24/2022;185351,6;186028,68
+2883373;XX | C3;JAAGPAD Uitgezonderd toelatingen, rijwielen en bromfietsen klasse A;All vehicles prohibited;8/24/2022;185319,18;186946,93
+2883377;XX | C3;JAAGPAD Uitgezonderd toelatingen, rijwielen en bromfietsen klasse A;All vehicles prohibited;8/24/2022;185180,31;187004,87
+2883379;XX | C3;JAAGPAD Uitgezonderd toelatingen, rijwielen en bromfietsen klasse A;All vehicles prohibited;8/24/2022;185163,28;186994,1
+2883458;C43;70;Speed limit;8/24/2022;187250,36;183456,09
+2883462;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/24/2022;187284,77;183467,61
+2883463;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/24/2022;187239,04;183482,44
+2883466;C43;70;Speed limit;8/24/2022;187286,1;183490,73
+2883468;C43;70;Speed limit;8/24/2022;187284,83;183594,16
+2883470;C43;50;Speed limit;8/24/2022;187311,72;183608,39
+2883476;C43;50;Speed limit;8/24/2022;187287,4;183701,27
+2883477;C43;70;Speed limit;8/24/2022;187312,97;183722,49
+2883480;C43;70;Speed limit;8/24/2022;187287,54;183836,81
+2883481;B1; ;Give way;8/24/2022;187276,91;183884,9
+2883482;C43;50;Speed limit;8/24/2022;187255,69;183889,42
+2883483;C43;70;Speed limit;8/24/2022;187267,11;183942,24
+2883484;C43;70;Speed limit;8/24/2022;187093,48;184103,11
+2883485;C43;70;Speed limit;8/24/2022;187055,71;184166,97
+2883496;B1; ;Give way;8/24/2022;186979,24;184202,48
+2883498;C43;70;Speed limit;8/24/2022;186957,86;184229,92
+2883501;B1; ;Give way;8/24/2022;186922,22;184268,97
+2883510;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/24/2022;186914,36;184301,83
+2883511;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/24/2022;186906,7;184281,04
+2883513;C43 (zone) | F1a;"C43,[""400"",""Neen"",""50""], | Rillaar,";Speed limit;8/24/2022;186856,07;184420,59
+2883678;F4a; ;Speed limit zone;8/15/2022;169542,062;181292,438
+2883681;F4b; ;End of speed limit zone;8/15/2022;169543,438;181304,562
+2883748;B1 | M1; ;Give way | Only for bicycles;8/24/2022;105371,648;193211,489
+2883790;B1; ;Give way;8/17/2022;105390,8;193116,548
+2883802;VL Rd-Or-Gr | C3 | GIV;UITGEZONDERD ,BUS;All vehicles prohibited;8/17/2022;105390,762;193116,628
+2883812;D1f | D7 | M7; ;Mopeds Class B forbidden on cycleway;8/24/2022;105345,211;193202,255
+2883834;C1 | M11 Klein; ;One-way street;8/17/2022;104976,701;193630,206
+2883849;F19 | M17 | E9a | GIII | GXa; ;One-way street | Parking;8/10/2022;104912,254;193713,751
+2883857;C1 | M11 | F34b2 - R - MA;S148,LEIESTREEK,S301,50,gent-20161017-c3;One-way street | Only applies to link road;8/17/2022;103767,285;193846,285
+2883860;C3 | GIV | M2;UITGEZONDERD ,VOERTUIGEN STADSDIENSTEN;All vehicles prohibited | Except for bicycles;8/17/2022;103630,486;194301,871
+2883863;C3 | GIV | M2;UITGEZONDERD ,VOERTUIGEN STADSDIENSTEN;All vehicles prohibited | Except for bicycles;8/15/2022;103613,449;194298,634
+2883867;C1 | M11; ;One-way street | Only applies to link road;8/17/2022;103731,989;194034,004
+2883871;C1 | M11 Klein; ;One-way street;8/17/2022;104980,419;193680,146
+2883886;C1 | M11 | F12a | F113; ;One-way street | Only applies to link road | Living street;8/17/2022;104918,217;193759,609
+2883896;F19 | M17 Klein | E9a | GVIIa | GXa;BEWONERS;One-way street | Parking;8/17/2022;104993,507;193688,073
+2883994;F111 (zone);"F111,[""400x600""],";Bicycle road;8/25/2022;159699,128;206853,462
+2884157;A21 | A51 | GIII;RUITERS;Pedestrian crossing | General danger;8/11/2022;76228,477;200479,164
+2884254;GIa | A7b;m,75;Road narrows right;8/19/2022;158572,03;205558,15
+2884256;GIb | B1;m,150;Give way;8/19/2022;159987,8;204795,62
+2884260;FtsRt | M7 | D7 | XX-Straatnaam;Doorverwijzingsbord,Links,61, | MASTENWEG;Mopeds Class B forbidden on cycleway;8/19/2022;160074,95;204887,67
+2884262;F45b | C43;30;No exit, except for bicycle | Speed limit;8/19/2022;160082,01;204878,98
+2884265;B5; ;Stop sign;8/19/2022;160064,69;204871,34
+2884266;F45b; ;No exit, except for bicycle;8/19/2022;160047,35;204874,78
+2884267;B1; ;Give way;8/19/2022;160652,89;204414,17
+2884269;F45b | C43;30;No exit, except for bicycle | Speed limit;8/19/2022;160656,61;204415,92
+2884273;F4b | B1; ;End of speed limit zone | Give way;8/19/2022;160670,81;204403,31
+2884275;F45b | C43;30;No exit, except for bicycle | Speed limit;8/19/2022;160675,11;204391,18
+2884284;B1; ;Give way;8/19/2022;161392,33;202581,89
+2884285;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/19/2022;161417,66;202393,45
+2884286;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/19/2022;161420,75;202394,72
+2884290;C21 (zone) | Fxx-BIN;"C21,[""400"",5.5],UITGEZONDERD LADEN EN LOSSEN";Weight limit;8/19/2022;161403,96;202367,56
+2884438;C3; ;All vehicles prohibited;8/25/2022;105360,451;193128,661
+2884439;B1; ;Give way;8/25/2022;105336,273;193325,047
+2884473;VL Rd-Or-Gr | B1 | C3 | GIV;UITGEZONDERD ,BUS;Give way | All vehicles prohibited;8/17/2022;105390,762;193116,628
+2884542;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/26/2022;179830,03;184432,59
+2884546;C43 (zone) | B5;"C43,[""400"",""Neen"",""50""],";Speed limit | Stop sign;8/26/2022;181511,03;185466,54
+2884548;D7 | C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/26/2022;180799,07;185036,15
+2884549;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/26/2022;180772,28;185021,97
+2884550;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/26/2022;180982,88;185947,86
+2884552;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/26/2022;180614,12;184875,28
+2884570;B1; ;Give way;8/26/2022;128139,21;162478,396
+2884605;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/26/2022;189126,17;185618,39
+2884606;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/26/2022;189139,94;185589,33
+2884617;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/26/2022;181316,73;189087,04
+2884621;C43 (zone) | B1;"C43,[""400"",""Neen"",""50""],";Speed limit | Give way;8/26/2022;185850,96;189625,67
+2884623;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/26/2022;187683,772;190983,858
+2884624;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/26/2022;188975,62;190187,62
+2884625;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/26/2022;189166,245;189852,995
+2884635;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/26/2022;188736,745;189260,182
+2884646;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/26/2022;188448,12;188993,495
+2884653;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/26/2022;185551,87;185320,995
+2884664;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/26/2022;185543,995;185325,87
+2884680;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/26/2022;183285,12;187419,37
+2889233;F19 | M17; ;One-way street;8/22/2022;105055,245;193611,755
+2889241;C1 | M11; ;One-way street | Only applies to link road;8/19/2022;105067,309;193621,976
+2889620;C3 | GIII | F113 | F12a | Nrxx;UITGEZONDERD,,en vergunninghouders,van 18u - 11u,S148,S147,A, P | S227,camera bewaking,Lokale Politi;All vehicles prohibited | Living street;8/19/2022;104872,979;193748,008
+2889627;F13 | C3 | M11 Klein;ZONE,gent-20161017-c3,sy-vsd-3-3-212,S148,S147,UITGEZONDERD,A, P,Uitgezonderd,vergunninghouders;All vehicles prohibited;8/19/2022;104947,468;193549,043
+2889636;D7 | M7; ;Mopeds Class B forbidden on cycleway;8/19/2022;103663,712;194283,672
+2889647;C1 | M11 | F113; ;One-way street | Only applies to link road;8/19/2022;104993,934;193719,365
+2889651;C1 | M11 Klein; ;One-way street;8/19/2022;105034,5;193615,38
+2889676;C1 | M11; ;One-way street | Only applies to link road;8/26/2022;104399,874;193189,24
+2889682;C1 | M11 Klein; ;One-way street;8/19/2022;105042,373;193614,884
+2889698;F19 | M17; ;One-way street;8/26/2022;104354,862;193180,176
+2890821;B1; ;Give way;8/26/2022;102803,411;195981,922
+2912930;M3 | C31a; ;Except for bicycles and mopeds;8/1/2022;77314,12;176404,61
+2920169;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/29/2022;185465,08;185253,815
+2920173;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/29/2022;185451,58;185265,815
+2920641;C43 (zone) | F1a;"C43,[""400"",""Neen"",""50""], | Rillaar,";Speed limit;8/29/2022;186773,18;185641,807
+2920645;F3a | C43 (zone);"Rillaar, | C43,[""400"",""Neen"",""50""],";Speed limit;8/29/2022;186802,18;185648,307
+2920674;C43 (zone) | F1a;"C43,[""400"",""Neen"",""50""], | Rillaar,";Speed limit;8/29/2022;187657,43;183940,807
+2920678;C43 | F3a;50 | Rillaar,;Speed limit;8/29/2022;186485,43;184873,057
+2920979;F4a; ;Speed limit zone;8/29/2022;180538,075;183848,81
+2921722;F111 (zone) | F4b | B1;"F111,[""400x600""],";Bicycle road | End of speed limit zone | Give way;8/29/2022;182461,33;186261,503
+2923080;B1; ;Give way;8/29/2022;172560,36;227364,07
+2923085;B1; ;Give way;8/29/2022;172558,63;227373,26
+2923088;B1; ;Give way;8/29/2022;172561,575;227377,922
+2923098;B1; ;Give way;8/29/2022;172577,85;227378,489
+2923101;B1; ;Give way;8/29/2022;172585,23;227378,65
+2923106;B1; ;Give way;8/29/2022;172591,24;227375,33
+2923630;F1a | C43 (zone);"Leerbeek,Gooik | C43,[""400"",""Neen"",""30""],HERHALING";Speed limit;8/29/2022;132412,304;163675,427
+2923643;F3a | F4a;Leerbeek,Gooik;Speed limit zone;8/29/2022;132412,054;163682,427
+2927971;B1 | F111 (zone); ;Give way | Bicycle road;8/22/2022;105808,965;193919,722
+2928975;C3 | GIV | M2;UITGEZONDERD ,VOERTUIGEN STADSDIENSTEN;All vehicles prohibited | Except for bicycles;8/17/2022;103671,307;194225,545
+2929353;F4b; ;End of speed limit zone;8/29/2022;106852,652;196900,571
+2929366;C23 | GIV | GIV | E1 | GXd;+3 ,t,5;Heavy goods vehicles prohibited | No Parking;8/29/2022;108104,374;196922,275
+2929368;F4a | F1a;Sint-Amandsberg,Gent;Speed limit zone;8/29/2022;108291,127;195932,134
+2929376;F4b; ;End of speed limit zone;8/29/2022;107284,808;197248,765
+2929380;F4b | B1; ;End of speed limit zone | Give way;8/29/2022;106569,914;194506,903
+2929390;F12a; ;Living street;8/29/2022;106915,776;195211,739
+2929406;B1 | F4b; ;Give way | End of speed limit zone;8/29/2022;107144,139;195332,28
+2929408;A21 | GIa;100m;Pedestrian crossing;8/29/2022;107694,598;196654,273
+2929414;C1 | M3; ;One-way street | Except for bicycles and mopeds;8/29/2022;107902,428;197002,149
+2929421;B1 | F34b2 - Mariakerke | F3a;ZONE,C3,Uitgezonderd,plaatselijk verkeer | Gent,Oostakker;Give way;8/29/2022;109003,559;196711,108
+2929431;F19 | M4 | E1 | GXa;S148,S317,S318;One-way street | Not oneway for bicycles | No Parking;8/29/2022;106731,83;194842,197
+2929433;F4a; ;Speed limit zone;8/29/2022;107155,46;195343,954
+2929435;A21 | GIa;100m;Pedestrian crossing;8/29/2022;107694,598;196654,273
+2929438;F4a | F1a;Sint-Amandsberg,Gent;Speed limit zone;8/29/2022;108414,214;196063,692
+2929452;C1 | M3; ;One-way street | Except for bicycles and mopeds;8/29/2022;107963,25;197457,122
+2929460;F12b; ;End of Living street;8/29/2022;106917,628;195207,771
+2929464;F45b; ;No exit, except for bicycle;8/29/2022;106936,406;195970,371
+2929465;F4b; ;End of speed limit zone;8/29/2022;109000,823;196714,626
+2929469;F4b; ;End of speed limit zone;8/29/2022;109436,274;197038,498
+2929470;F4a; ;Speed limit zone;8/29/2022;106574,731;194519,616
+2929475;F12b; ;End of Living street;8/29/2022;107368,725;196793,285
+2929482;A23 | F19 | M5; ;School children crossing the way near school | One-way street | Not oneway for bicycles and mofas;8/29/2022;107986,625;197410,062
+2929493;F13 | C3 | Schoolpoort | GIV;S148,S147,UITGEZONDERD;All vehicles prohibited;8/22/2022;109144,252;196273,52
+2929496;F12b; ;End of Living street;8/29/2022;107947,052;196688,618
+2929503;F12b | C1 | M2; ;End of Living street | One-way street | Except for bicycles;8/29/2022;107327,801;196381,431
+2929508;F4a | F34b2 - Mariakerke | F1a;ZONE,C3,Uitgezonderd,plaatselijk verkeer | Oostakker,Gent;Speed limit zone;8/29/2022;109009,048;196714,684
+2929515;F4b | F3a;Gent,Sint-Amandsberg;End of speed limit zone;8/29/2022;108266,795;195932,197
+2929529;F4a | E1 | GXa; ;Speed limit zone | No Parking;8/29/2022;106246,925;194391,502
+2929539;F4b | F3a;Gent,Sint-Amandsberg;End of speed limit zone;8/29/2022;108401,981;196062,067
+2929542;B1 | E1 | GXb; ;Give way | No Parking;8/29/2022;106178,396;194463,772
+2929549;F4a; ;Speed limit zone;8/29/2022;106692,853;194925,199
+2929555;F4a; ;Speed limit zone;8/29/2022;109422,6;197047,207
+2929559;F4a; ;Speed limit zone;8/29/2022;107754,342;195314,31
+2929570;B1 | F12b; ;Give way | End of Living street;8/19/2022;110224,484;195773,547
+2929571;F4a; ;Speed limit zone;8/29/2022;108036,097;197514,006
+2929577;F4b; ;End of speed limit zone;8/29/2022;106695,394;194572,252
+2929589;F4b | F3a | F14;Gent,Oostakker;End of speed limit zone;8/29/2022;108818,23;196534,215
+2929590;F4a; ;Speed limit zone;8/29/2022;106852,904;196900,335
+2929591;F4a; ;Speed limit zone;8/29/2022;108825,018;196541,427
+2929620;F12a | F45; ;Living street | No exit;8/19/2022;110231,098;195775,452
+2929627;F12b; ;End of Living street;8/29/2022;107605,898;196705,463
+2929631;F4b; ;End of speed limit zone;8/29/2022;108040,727;197506,466
+2929634;F12b; ;End of Living street;8/29/2022;107290,707;196301,812
+2929638;F4a; ;Speed limit zone;8/29/2022;106622,096;195535,762
+2929643;B5 | F4b; ;Stop sign | End of speed limit zone;8/29/2022;107313,985;195417,733
+2929646;F4b; ;End of speed limit zone;8/29/2022;106610,034;195538,658
+2929654;F4b | B1 | E1 | GXb; ;End of speed limit zone | Give way | No Parking;8/29/2022;106237,627;194389,57
+2932714;F4a; ;Speed limit zone;9/1/2022;169801,906;208825,875
+2932739;F4b; ;End of speed limit zone;9/1/2022;169810,25;208813,812
+2932744;F4a; ;Speed limit zone;9/1/2022;169608,75;208760,75
+2932745;B1; ;Give way;8/30/2022;172589,78;227337,43
+2932750;B1; ;Give way;8/30/2022;172583,532;227334,475
+2932752;B1; ;Give way;8/30/2022;172569,961;227340,939
+2932753;B1; ;Give way;8/30/2022;172566,024;227338,238
+2932755;C11; ;Bicycles prohibited;8/30/2022;172561,553;227330,61
+2932757;B1; ;Give way;8/30/2022;172561,01;227343,05
+2932758;B1; ;Give way;8/30/2022;172557,92;227337,64
+2932831;F4a; ;Speed limit zone;9/1/2022;169497,688;208742,562
+2932898;F4b; ;End of speed limit zone;9/1/2022;169518,25;208730,5
+2932916;F4b; ;End of speed limit zone;9/1/2022;169591,125;208600,906
+2932923;F4a; ;Speed limit zone;9/1/2022;169592,969;208597,75
+2932973;F4a; ;Speed limit zone;9/1/2022;169679,781;208465,656
+2935446;F45b | F99c; ;No exit, except for bicycle | Access only for pedestrians, cyclists, horses and agricultural;8/30/2022;252761,125;159163,875
+2939009;F49; ;Pedestrian crossing;8/31/2022;175606,906;175015,781
+2939077;B1; ;Give way;8/31/2022;173316,68;228217,25
+2939078;B1; ;Give way;8/31/2022;172553,35;227342,79
+2939086;D1c | M2 | Type Ib.1; ;Except for bicycles;8/31/2022;36782,875;187065,344
+2939111;D1c | M2 | Type Ib.1; ;Except for bicycles;8/31/2022;36662,125;187012,094
+2939113;B1; ;Give way;8/31/2022;168489,16;226292,14
+2939137;C11; ;Bicycles prohibited;8/31/2022;172555,688;227350,715
+2939278;D7 | M7 | F113 (zone); ;Mopeds Class B forbidden on cycleway;8/31/2022;103802,519;193665,266
+2939282;C11; ;Bicycles prohibited;8/17/2022;103722,996;194084,827
+2939294;F111 (zone); ;Bicycle road;8/31/2022;103800,966;193675,323
+2939308;B1 | F111 (zone); ;Give way | Bicycle road;8/31/2022;103801,491;193663,162
+2939310;F19 | M17; ;One-way street;8/19/2022;103696,961;194176,399
+2939483;B1 | C43 (zone);"C43,[""400"",""Neen"",""50""],";Give way | Speed limit;9/1/2022;164552;222299,298
+2939569;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;9/1/2022;174915,961;231631,303
+2939578;C43 | B9;70;Speed limit | Priority road;9/1/2022;71182,125;206063,375
+2939581;C43 | B9;70;Speed limit | Priority road;9/1/2022;71203,75;206032,125
+2939646;C43 | Fxx-CAM;50;Speed limit;9/1/2022;247994,625;189418,469
+2939648;C43;50;Speed limit;9/1/2022;247954,125;189861,469
+2939661;C43;50;Speed limit;9/1/2022;247847,875;190232,844
+2939666;C43;50;Speed limit;9/1/2022;247818,125;190309,594
+2939668;C43;50;Speed limit;9/1/2022;247524,125;190467,094
+2939678;C43;50;Speed limit;9/1/2022;247466,375;190499,594
+2939681;C43;50;Speed limit;9/1/2022;247228,125;190548,344
+2939682;C43;50;Speed limit;9/1/2022;247142,875;190607,844
+2939685;C43;50;Speed limit;9/1/2022;247034,125;190630,469
+2939700;B1; ;Give way;8/19/2022;135434,875;178919
+2939746;C3 | M3bis; ;All vehicles prohibited;9/6/2022;41529,215;208958,895
+2939748;C3 | M3bis; ;All vehicles prohibited;9/6/2022;41639,34;208998,645
+2941322;F12a; ;Living street;9/4/2022;191176,5;224125,125
+2941323;F12b; ;End of Living street;9/5/2022;191184,25;224126,375
+2941327;M4 | F19; ;Not oneway for bicycles | One-way street;9/5/2022;191175,5;223802,5
+2941329;M4 | F19; ;Not oneway for bicycles | One-way street;9/5/2022;191310;223820,75
+2941331;M2 | C1; ;Except for bicycles | One-way street;9/5/2022;191291;223871,875
+2941333;C1 | M2; ;One-way street | Except for bicycles;9/5/2022;191290,25;223816,375
+2941339;F49; ;Pedestrian crossing;9/5/2022;191295;223896,375
+2941340;F49; ;Pedestrian crossing;9/5/2022;191281,125;223909,5
+2941343;F49; ;Pedestrian crossing;9/5/2022;191276,625;223886,25
+2941344;F49; ;Pedestrian crossing;9/5/2022;191264,875;223873,75
+2941348;F49; ;Pedestrian crossing;9/5/2022;191279,375;224000,25
+2941349;F49; ;Pedestrian crossing;9/5/2022;191264,875;224033
+2941357;F49; ;Pedestrian crossing;9/1/2022;189214,625;223000,25
+2941358;F49; ;Pedestrian crossing;9/1/2022;189225,625;223022,25
+2943388;B1; ;Give way;9/1/2022;102558,603;196465,346
+2943391;B1; ;Give way;9/1/2022;102780,611;196101,472
+2943397;B1; ;Give way;9/1/2022;102447,949;196745,817
+2943408;B1; ;Give way;9/1/2022;102483,27;196697,44
+2943413;C45 (zone);30;End of speed limit;9/1/2022;103677,191;195670,187
+2943415;B1; ;Give way;9/1/2022;102526,579;196491,293
+2943418;B15c | A14 | GIa;50m;Speed bump;9/1/2022;102786,599;195986,278
+2943420;F4a | A23; ;Speed limit zone | School children crossing the way near school;8/26/2022;102800,891;195980,707
+2943421;B1; ;Give way;9/1/2022;102668,642;196267,024
+2943509;M2 | C1; ;Except for bicycles | One-way street;9/2/2022;66209,35;166704,77
+2943513;M4 | F19; ;Not oneway for bicycles | One-way street;9/2/2022;66273,49;166810,41
+2943531;D10; ;Pedestrian and bicycle path;9/2/2022;66627,19;171527,33
+2943536;B1; ;Give way;9/2/2022;66325,2;171465,6
+2943553;F45b; ;No exit, except for bicycle;9/2/2022;66307,14;171456,58
+2943574;D10; ;Pedestrian and bicycle path;9/2/2022;66597,09;171555,19
+2943578;D10; ;Pedestrian and bicycle path;9/2/2022;66532,25;171889,7
+2943579;B1; ;Give way;9/2/2022;66519,3;171900,64
+2943588;D10; ;Pedestrian and bicycle path;9/2/2022;66483,96;172064,71
+2943605;D10; ;Pedestrian and bicycle path;9/2/2022;66453,34;172090,66
+2943609;B1; ;Give way;9/2/2022;65825,37;172365,79
+2943610;B1; ;Give way;9/2/2022;65853,29;172348,09
+2943611;D10; ;Pedestrian and bicycle path;9/2/2022;66479,18;172137,84
+2943613;D10 | C43 (zone);"C43,[""400"",""Neen"",""50""],";Pedestrian and bicycle path | Speed limit;9/2/2022;66953,15;172303,01
+2943614;B1; ;Give way;9/2/2022;66958,13;172303,5
+2943616;D10; ;Pedestrian and bicycle path;9/2/2022;66965,39;172321,02
+2943619;B1; ;Give way;9/2/2022;66969,09;172329,75
+2943625;D10; ;Pedestrian and bicycle path;9/2/2022;66982,09;172322,51
+2943627;GVIII | B1;3,van boven naar links,onder;Give way;9/2/2022;66983,44;172313,26
+2943628;D10; ;Pedestrian and bicycle path;9/2/2022;66979;172296,44
+2943632;B1; ;Give way;9/2/2022;66757,64;172163,99
+2943633;D10; ;Pedestrian and bicycle path;9/2/2022;66515,96;172092,65
+2943635;B1; ;Give way;9/2/2022;66504,04;172091,19
+2943636;B1; ;Give way;9/2/2022;66503,85;172103,09
+2943639;B1; ;Give way;9/2/2022;66466,17;172086,14
+2943643;B1; ;Give way;9/2/2022;66481,97;172073,38
+2943644;B1; ;Give way;9/2/2022;66490,08;172074,76
+2943654;D10; ;Pedestrian and bicycle path;9/2/2022;66895,43;171636,03
+2943655;D10; ;Pedestrian and bicycle path;9/2/2022;66971,23;171653,68
+2943657;B1; ;Give way;9/2/2022;66976,86;171644,27
+2943660;D10; ;Pedestrian and bicycle path;9/2/2022;66917,58;171627,38
+2943663;D10; ;Pedestrian and bicycle path;9/2/2022;66659,16;171558,47
+2943665;D10; ;Pedestrian and bicycle path;9/2/2022;66626,88;171592,31
+2943667;B1; ;Give way;9/2/2022;66615,28;171583,58
+2943674;B1; ;Give way;9/2/2022;66608,15;171550,72
+2943675;B1; ;Give way;9/2/2022;66606,84;171558,42
+2943678;B1; ;Give way;9/2/2022;66622,22;171578,67
+2943679;B1; ;Give way;9/2/2022;66628,89;171581,48
+2943682;B1; ;Give way;9/2/2022;66649,65;171564,3
+2943683;B1; ;Give way;9/2/2022;66651,68;171557,68
+2943684;B1; ;Give way;9/2/2022;66627,83;171534,57
+2943685;B1; ;Give way;9/2/2022;66635,13;171536,03
+2943697;D10; ;Pedestrian and bicycle path;9/2/2022;66718,89;171103,9
+2944168;A14 | GIa;m,50;Speed bump;9/5/2022;69304,328;225569,953
+2944170;F87; ;Speed bump;9/5/2022;69244,766;225510,766
+2944172;A14 | GIa;m,50;Speed bump;9/5/2022;69203,359;225459,172
+2944173;F87; ;Speed bump;9/5/2022;69235,234;225490,797
+2944176;F49; ;Pedestrian crossing;9/5/2022;47078,43;172050,17
+2944518;B1; ;Give way;9/6/2022;163357,1;221212,91
+2944877;C43;70;Speed limit;9/5/2022;191908,16;165344,87
+2944878;C43;70;Speed limit;9/5/2022;191910,67;165338,47
+2944885;B1; ;Give way;9/6/2022;157474;189088,625
+2944888;B1; ;Give way;9/6/2022;157472,312;189111,875
+2944891;B1; ;Give way;9/6/2022;157484,031;189124,594
+2944994;B1; ;Give way;8/12/2022;205872,781;167361,813
+2945029;B1; ;Give way;9/6/2022;205870,583;167367,442
+2945034;B1; ;Give way;9/6/2022;205875,083;167381,379
+2945054;B1; ;Give way;9/6/2022;90990,983;177699,412
+2945058;B1; ;Give way;9/6/2022;205923,833;167373,817
+2945115;F19 | M4; ;One-way street | Not oneway for bicycles;9/6/2022;45426,575;172301,045
+2945123;C1 | M2; ;One-way street | Except for bicycles;9/6/2022;45387,606;172287,795
+2945362;F50 | F49; ;Bicycle crossing | Pedestrian crossing;9/4/2022;157730,24;230012,63
+2945364;A23 | A25; ;School children crossing the way near school | Bicycle crossing;9/4/2022;157736,23;230001,59
+2945365;D10; ;Pedestrian and bicycle path;9/4/2022;157721,77;230015,81
+2945369;F49 | F50; ;Pedestrian crossing | Bicycle crossing;9/4/2022;157720,12;230021,93
+2945374;A25 | Fxx-BIN; ;Bicycle crossing;9/4/2022;157705,55;230054,46
+2945417;F4b; ;End of speed limit zone;9/5/2022;190559,72;164254,48
+2945452;B1; ;Give way;8/14/2022;105881,01;203802,55
+2945454;B1; ;Give way;8/14/2022;105887,61;203804,3
+2945456;B1; ;Give way;8/14/2022;105883,82;203800,09
+2945463;B1; ;Give way;8/14/2022;105879,31;203786,81
+2945470;C5-C7 | GIV;UITGEZONDERD DIENSTVOERTUIGEN;Motorcars and motorcycles prohibited;8/14/2022;105894,57;203804,55
+2945473;C29;4.05;Height limit;8/14/2022;105900,24;203809,57
+2945475;C29;4.05;Height limit;8/14/2022;105941,53;203843,78
+2945476;B1; ;Give way;9/7/2022;71161,094;213373,281
+2945480;B1; ;Give way;9/7/2022;71176,844;213404,031
+2945486;B1; ;Give way;9/7/2022;71176,844;213404,031
+2945534;C3 | GIV;UITGEZONDERD DIENSTEN;All vehicles prohibited;9/7/2022;44869,02;204610,66
+2945535;C43;70;Speed limit;9/7/2022;49675,7;212406,72
+2945541;C3 | GIV;UITGEZONDERD DIENSTEN;All vehicles prohibited;9/7/2022;44845,08;204606,25
+2945894;F4b | F111 (zone);"F111,[""400x600""],";End of speed limit zone | Bicycle road;9/8/2022;68205,75;170692,15
+2945900;F4a | F111 (zone);"F111,[""400x600""],";Speed limit zone | Bicycle road;9/8/2022;68202,23;170703,28
+2945924;C11; ;Bicycles prohibited;9/8/2022;167251,027;205050,589
+2945958;F45b | C21 (zone);"C21,[""400"",3.5],Uitgezonderd bus en  laden en lossen";No exit, except for bicycle | Weight limit;9/8/2022;167025,048;204951,673
+2945966;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;106723,614;183776,932
+2945967;F111 (zone);"F111,[""400x600""],";Bicycle road;8/19/2022;106723,614;183776,932
+2945969;F111 (zone) | F4a;"F111,[""400x600""],";Bicycle road | Speed limit zone;8/16/2022;106588,205;184277,708
+2945971;F45b; ;No exit, except for bicycle;8/16/2022;106888,413;183984,677
+2945973;GIa | A25;m,10;Bicycle crossing;9/8/2022;198499,89;185959,1
+2946019;F12b; ;End of Living street;9/12/2022;191360,75;223783,375
+2946027;F12a | F45b; ;Living street | No exit, except for bicycle;9/12/2022;191366,5;223784,375
+2946255;A14; ;Speed bump;9/9/2022;166995,7;203396,821
+2946323;C43;50;Speed limit;9/8/2022;65819,204;205226,593
+2946393;F19; ;One-way street;9/9/2022;155570,688;221007,906
+2946394;C1; ;One-way street;9/9/2022;155565,812;221004,656
+2946395;C1; ;One-way street;9/9/2022;155555,812;220997,406
+2946396;F19; ;One-way street;9/9/2022;155550,312;220993,781
+2946921;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/30/2022;188724,69;213369,37
+2946966;C43 | F3b;50;Speed limit;8/30/2022;188115,07;213273,87
+2946968;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/31/2022;188115,88;213247,69
+2946970;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/31/2022;188126,43;213256,72
+2946978;M12 | F19; ;One-way street;8/28/2022;187519,81;213164,46
+2947018;B1 | D1f | M11 | C45 (zone);30;Give way | Only applies to link road | End of speed limit;8/29/2022;105878,306;193939,851
+2947084;B1 | M10; ;Give way;8/23/2022;103721,442;194081,89
+2947093;F113 (zone) | D7 | M7; ;Mopeds Class B forbidden on cycleway;8/23/2022;103721,255;194083,357
+2947121;F13 | C3 | Schoolpoort | GIV;S148,S147,UITGEZONDERD;All vehicles prohibited;8/22/2022;109144,252;196273,52
+2947128;F4a | E1 | GXa; ;Speed limit zone | No Parking;9/5/2022;106203,655;194449,307
+2947144;D7 | M7; ;Mopeds Class B forbidden on cycleway;9/16/2022;104208,472;196443,275
+2947147;F4b; ;End of speed limit zone;9/9/2022;104331,091;196312,285
+2947148;F4a; ;Speed limit zone;9/9/2022;104328,154;196317,286
+2947173;F4b; ;End of speed limit zone;9/8/2022;105913,942;191712,978
+2947175;B1 | F4b; ;Give way | End of speed limit zone;9/8/2022;105882,07;191724,817
+2947177;F12b | F4a; ;End of Living street | Speed limit zone;9/8/2022;105871,301;192156,421
+2947180;F4b | FtsRt;LF 30b,Deltaroute,Schelde-,sy-S302;End of speed limit zone;9/8/2022;105947,782;192535,157
+2947181;F4a; ;Speed limit zone;9/8/2022;105904,321;191720,628
+2947185;F4a; ;Speed limit zone;9/8/2022;105917,051;191709,208
+2947189;C3 | M11; ;All vehicles prohibited | Only applies to link road;9/8/2022;105853,933;192158,514
+2947191;F4a | F33a;Centrum;Speed limit zone;9/8/2022;105884,79;191722,31
+2947192;F4b; ;End of speed limit zone;9/8/2022;105913,942;191712,978
+2947194;B1 | F4b; ;Give way | End of speed limit zone;9/8/2022;105882,07;191724,817
+2947199;C3 | M12 Klein | GVIIa | F4a;UITGEZONDERD HULP,,EN GEMEENTELIJKE,DIENSTEN;All vehicles prohibited | Speed limit zone;9/8/2022;105942,05;192537,769
+2947203;F4a; ;Speed limit zone;9/8/2022;105917,051;191709,208
+2947205;F4a | F33a;Centrum;Speed limit zone;9/8/2022;105884,79;191722,31
+2947209;C3 | M11 Klein | F12a | F4b; ;All vehicles prohibited | Living street | End of speed limit zone;9/8/2022;105872,041;192160,019
+2947352;C3; ;All vehicles prohibited;8/31/2022;69199,31;210972,175
+2947353;C3; ;All vehicles prohibited;8/31/2022;69162,94;211105,723
+2947387;C11; ;Bicycles prohibited;8/29/2022;68528,456;212542,176
+2947444;B5; ;Stop sign;8/9/2022;69773,583;211069,047
+2947649;D1c | M2 | Type Ib.1; ;Except for bicycles;8/31/2022;36782,875;187065,344
+2947860;F19 | M17; ;One-way street;9/14/2022;105299,368;193373,651
+2947862;C3; ;All vehicles prohibited;9/14/2022;105281,658;193420,06
+2947876;F19 | M17; ;One-way street;9/7/2022;105132,389;193664,625
+2947887;F19 | M17 | E9a | GVIIa | GXa;BEWONERS;One-way street | Parking;8/29/2022;105073,485;193671,051
+2947899;C3 | GV | M3bis | B1;UITGEZONDERD BUS, TAXI,GEMEENTELIJKE AFVALOPHALING,EN PRIORITAIRE VOERTUIGEN | S148,S147,UITGEZONDER;All vehicles prohibited | Give way;9/7/2022;105226,603;193504,18
+2947932;C1 | GV | M11 | F34b2 | FtsRt;,,UITGEZONDERD,BUS | S148,Oost-West Route,S301,Sint-Amandsberg | LF 5a,Fietsroute,Vlaanderen,sy-S301;One-way street | Only applies to link road;9/7/2022;105237,705;193488,982
+2947945;C1 | GV | M11;,,UITGEZONDERD,BUS;One-way street | Only applies to link road;9/7/2022;105296,039;193353,391
+2947951;C1 | GV | M11;,,UITGEZONDERD,BUS;One-way street | Only applies to link road;9/7/2022;105139,034;193638,597
+2947957;B1 | M2; ;Give way | Except for bicycles;9/7/2022;105134,907;193662,181
+2947974;F19 | M17; ;One-way street;9/7/2022;105226,268;193531,895
+2947979;F19 | M17; ;One-way street;9/14/2022;105315,106;193347,124
+2947989;F19 | M4 | E9b (zone); ;One-way street | Not oneway for bicycles | Parking for cars only;9/7/2022;105143,422;193654,849
+2947995;F19 | M17; ;One-way street;8/19/2022;105055,811;193619,455
+2948002;B15g | F111 (zone); ;Bicycle road;8/31/2022;103719,287;194094,184
+2948016;F19 | M17 Klein; ;One-way street;8/19/2022;105026,288;193626,094
+2948020;C1 | M11; ;One-way street | Only applies to link road;8/26/2022;104406,033;193189,243
+2948039;B1 | F111 | F13 | F12b;ZONE,gent-20161017-c3,sy-vsd-3-3-212,S148,S147,UITGEZONDERD,A, P,Uitgezonderd,vergunninghouders;Give way | Bicycle road | End of Living street;8/29/2022;104999,743;193735,45
+2948055;B1 | F111 (zone); ;Give way | Bicycle road;8/31/2022;103713,801;194088,174
+2948059;C1 | M11; ;One-way street | Only applies to link road;8/29/2022;105014,75;193786,264
+2948067;F19 | M17 Klein | E1 | GXd; ;One-way street | No Parking;9/12/2022;104091,474;193723,343
+2948081;C1 | M11 | F113; ;One-way street | Only applies to link road;8/19/2022;104993,934;193719,365
+2948127;B1; ;Give way;9/7/2022;107182,852;191967,27
+2948131;C29;3,90;Height limit;9/7/2022;107178,84;191957,898
+2948141;F4b | B1; ;End of speed limit zone | Give way;9/7/2022;107274,96;192014,123
+2948147;B17 | F4a; ;Speed limit zone;9/7/2022;107522,382;192086,91
+2948148;C11; ;Bicycles prohibited;9/7/2022;107125,87;191923,229
+2948152;B1; ;Give way;9/7/2022;107123,476;191901,715
+2948155;C1; ;One-way street;9/7/2022;107061,579;191896,34
+2948163;F19 | C21 | GIV;3 | ,PLAATSELIJK,VERKEER,UITGEZONDERD;One-way street | Weight limit;9/7/2022;107087,321;191909,31
+2948184;F4a | F13 rh 600x900; ;Speed limit zone;9/7/2022;107081,291;191909,935
+2948199;C43;50;Speed limit;9/1/2022;246993,125;190653,844
+2948298;F19; ;One-way street;9/15/2022;67712,25;213868,812
+2948330;C43;50;Speed limit;8/9/2022;191923,344;166187,406
+2948331;C43;50;Speed limit;8/9/2022;191906,219;166213,906
+2948332;C43;50;Speed limit;8/9/2022;192270,094;166211,656
+2948333;C43;50;Speed limit;8/9/2022;192241,094;166223,281
+2948334;C43;50;Speed limit;8/9/2022;192600,969;166137,156
+2948335;C43;50;Speed limit;8/9/2022;192595,219;166175,156
+2948336;C43;50;Speed limit;8/9/2022;192651,219;166076,031
+2948337;C43;50;Speed limit;8/9/2022;192638,969;166050,531
+2948338;C43;50;Speed limit;8/9/2022;192630,969;165928,531
+2948339;C43;50;Speed limit;8/9/2022;192651,594;165940,906
+2948340;C43;50;Speed limit;8/9/2022;192597,719;165838,906
+2948341;C43;50;Speed limit;8/9/2022;192531,875;165616,75
+2948342;C43;50;Speed limit;8/9/2022;192621,344;165852,031
+2948346;C43;50;Speed limit;8/9/2022;192558,094;165739,531
+2948413;C3 | GIV | M3bis;UITGEZONDERD ,VERGUNNINGHOUDERS | S148,S147,UITGEZONDERD,;All vehicles prohibited;9/8/2022;105227,244;193514,431
+2948416;C3 | GIV | M3bis;UITGEZONDERD BUS, TAXI EN,PRIORITAIRE VOERTUIGEN | S148,S147,UITGEZONDERD,;All vehicles prohibited;9/8/2022;105227,244;193514,431
+2948418;F19 | M18; ;One-way street;9/14/2022;105247,359;193501,076
+2948432;C1 | GV | M11;,,UITGEZONDERD,BUS;One-way street | Only applies to link road;9/8/2022;105305,411;193357,526
+2948445;C1 | GV | M11;,,UITGEZONDERD,BUS;One-way street | Only applies to link road;9/7/2022;105139,034;193638,597
+2948455;C1 | GV | M11;,,UITGEZONDERD,BUS;One-way street | Only applies to link road;9/1/2022;105118,218;193667,63
+2948476;F19 | M17 Klein; ;One-way street;8/19/2022;105026,288;193626,094
+2948486;C3 | GIII | F12a | F113;UITGEZONDERD,,en vergunninghouders,van 18u - 11u,S148,S147,A, P;All vehicles prohibited | Living street;9/8/2022;104868,652;193765,977
+2948488;F111 | F12b; ;Bicycle road | End of Living street;9/8/2022;104868,652;193765,977
+2948668;C43 (zone);"C43,[""400"",""Ja"",""30""],Herhaling";Speed limit;9/16/2022;157395,828;221944,234
+2948670;C43 (zone);"C43,[""400"",""Ja"",""30""],Herhaling";Speed limit;9/16/2022;157392,453;221947,234
+2948687;B1 | IV1; ;Give way;9/15/2022;76667,177;201368,606
+2949329;B5; ;Stop sign;9/19/2022;174523,672;174866,828
+2949561;C1 | M11; ;One-way street | Only applies to link road;8/29/2022;105065,995;193572,989
+2949575;F19 | M17; ;One-way street;8/29/2022;104927,378;193851,074
+2949581;C1 | M11; ;One-way street | Only applies to link road;8/29/2022;104913,749;193701,33
+2949612;B1 | F13 | F12b | F111;ZONE,gent-20161017-c3,sy-vsd-3-3-212,S148,S147,UITGEZONDERD,A, P,Uitgezonderd,vergunninghouders;Give way | End of Living street | Bicycle road;8/29/2022;104909,564;193762,384
+2949648;B1 | F111 | E9a | GVII | GXb;BEWONERS;Give way | Bicycle road | Parking;8/29/2022;104916,202;193742,224
+2949651;F19 | M18; ;One-way street;9/19/2022;106142,64;194560,402
+2949655;C1 | M12; ;One-way street;9/19/2022;106042,571;194447,709
+2949659;F19 | M18; ;One-way street;9/19/2022;106050,031;194711,374
+2949662;C1 | M12; ;One-way street;9/19/2022;106091,406;194645,259
+2949664;F19 | M18; ;One-way street;9/19/2022;106054,012;194441,328
+2949666;C1 | M12; ;One-way street;9/19/2022;106150,228;194548,369
+2949670;C1 | M12; ;One-way street;9/19/2022;106059,714;194705,436
+2949672;C1 | M12; ;One-way street;9/19/2022;106193,294;194762,842
+2949676;F19 | M18; ;One-way street;9/19/2022;106099,582;194651,504
+2949678;C1 | M12; ;One-way street;9/19/2022;106135,084;194546,972
+2949684;F19 | M18; ;One-way street;9/19/2022;106219,231;194640,399
+2949686;F19 | M18; ;One-way street;9/19/2022;106093,022;194660,812
+2949710;B1; ;Give way;9/19/2022;100882,113;190492,622
+2949713;B1; ;Give way;9/19/2022;100898,023;190588,056
+2949724;B1; ;Give way;9/19/2022;100876,951;190600,152
+2949739;B1; ;Give way;9/19/2022;100903,695;190389,723
+2949770;F49 | F50; ;Pedestrian crossing | Bicycle crossing;9/12/2022;106733,75;192705,45
+2949798;F19 | C21 | GIV;3 | UITGEZONDERD ,PLAATSELIJK VERKEER;One-way street | Weight limit;9/7/2022;107087,321;191909,31
+2949807;B1; ;Give way;8/29/2022;107302,789;191991,36
+2949840;C3 | M12 Klein | GV;UITGEZONDERD,,DIENSTEN;All vehicles prohibited;9/12/2022;107520,897;192138,522
+2949854;F4a | F13 rh 600x900; ;Speed limit zone;9/7/2022;107081,291;191909,935
+2949862;B1; ;Give way;9/7/2022;107182,852;191967,27
+2949866;C29;3,90;Height limit;9/7/2022;107178,84;191957,898
+2949875;B17 | F4a; ;Speed limit zone;9/7/2022;107522,382;192086,91
+2950049;F4b; ;End of speed limit zone;9/20/2022;32262,34;195471,75
+2950113;B1; ;Give way;9/19/2022;235170,25;203475,156
+2950118;C43 | B9;50;Speed limit | Priority road;9/19/2022;235691,25;203440,156
+2950203;C3 | GIV;uitgezonderd diensten;All vehicles prohibited;8/5/2022;49776,404;206319,248
+2950445;F111 (zone);"F111,[""400x600""],";Bicycle road;9/9/2022;155553,938;220988,031
+2950455;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/21/2022;156950,97;220769,62
+2950458;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/21/2022;156940,4;220770,35
+2950459;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/21/2022;156940,4;220770,35
+2950464;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/21/2022;157156,07;220797,13
+2950465;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/21/2022;157156,07;220797,13
+2950466;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/21/2022;157165,32;220796,61
+2950471;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/21/2022;157511,18;220939,71
+2950472;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/21/2022;157511,18;220939,71
+2950473;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/21/2022;157519,11;220945,57
+2950474;C43;30;Speed limit;9/21/2022;157639,42;221022,54
+2950478;C43;30;Speed limit;9/21/2022;157646,69;221026,95
+2950481;F111 (zone);"F111,[""400x600""],";Bicycle road;9/21/2022;157821,26;221134,76
+2950484;F111 (zone) | Fxx-BIN | FtsRt;"F111,[""400x600""], | Doorverwijzingsbord,Rechtdoor,,51";Bicycle road;9/21/2022;157821,26;221134,76
+2950488;F111 (zone) | C43 (zone);"F111,[""400x600""], | C43,[""400"",""Neen"",""30""],";Bicycle road | Speed limit;9/21/2022;157824,39;221137,4
+2950490;F111 (zone);"F111,[""400x600""],";Bicycle road;9/21/2022;157904,66;221274,2
+2950491;F111 (zone);"F111,[""400x600""],";Bicycle road;9/21/2022;157904,66;221274,2
+2950493;C43 (zone) | F111 (zone);"C43,[""400"",""Neen"",""30""], | F111,[""400x600""],";Speed limit | Bicycle road;9/21/2022;157906,89;221277,81
+2950495;F111 (zone);"F111,[""400x600""],";Bicycle road;9/21/2022;157949,36;221385,65
+2950496;F111 (zone);"F111,[""400x600""],";Bicycle road;9/21/2022;157949,36;221385,65
+2950498;C43 (zone);"C43,[""400"",""Neen"",""30""],Herhaling";Speed limit;9/21/2022;157464,2;221729,03
+2950499;C43 (zone);"C43,[""400"",""Neen"",""30""],Herhaling";Speed limit;9/21/2022;157460,75;221723,12
+2950574;B1; ;Give way;9/1/2022;106198,33;204037,25
+2950580;C29;4.05;Height limit;9/1/2022;106110,12;203888,37
+2950581;C29;4.05;Height limit;9/1/2022;106119,81;203941,6
+2950584;B1; ;Give way;9/1/2022;106107,19;203862,33
+2950634;F19 | M12; ;One-way street;9/21/2022;157558,52;221682,99
+2950637;M12 | C1; ;One-way street;9/21/2022;157574,2;221668,36
+2950639;M12 | C1; ;One-way street;9/21/2022;157717,46;221573,04
+2950648;F111 (zone);"F111,[""400x600""],";Bicycle road;9/21/2022;157696,04;221574,37
+2950650;F111 (zone) | C43 (zone);"F111,[""400x600""], | C43,[""400"",""Neen"",""30""],";Bicycle road | Speed limit;9/21/2022;157696,04;221574,37
+2950657;C43 (zone) | F111 (zone);"C43,[""400"",""Neen"",""30""], | F111,[""400x600""],";Speed limit | Bicycle road;9/21/2022;157694,09;221570,58
+2950658;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/21/2022;157694,09;221570,58
+2950673;M12 | F19; ;One-way street;9/21/2022;157719,4;221556,38
+2950674;F111 (zone);"F111,[""400x600""],";Bicycle road;9/9/2022;155612,062;220867,781
+2950681;F111 (zone);"F111,[""400x600""],";Bicycle road;9/9/2022;155607,125;221030,375
+2950689;C43 (zone);"C43,[""400"",""Ja"",""30""],";Speed limit;9/16/2022;157844,453;222238,859
+2950690;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/16/2022;157844,453;222238,859
+2950691;C43 (zone);"C43,[""400"",""Ja"",""30""],";Speed limit;9/16/2022;157843,891;222239,609
+2950744;C3 | GV | M3bis | B1;UITGEZONDERD BUS, TAXI,GEMEENTELIJKE AFVALOPHALING,EN PRIORITAIRE VOERTUIGEN | S148,S147,UITGEZONDER;All vehicles prohibited | Give way;9/7/2022;105226,603;193504,18
+2950755;C1 | M11; ;One-way street | Only applies to link road;8/29/2022;105065,995;193572,989
+2950771;B1; ;Give way;9/14/2022;104876,839;192544,937
+2950780;C1 | M11 | F12a; ;One-way street | Only applies to link road | Living street;9/14/2022;104936,437;192256,007
+2950784;F19 | M17; ;One-way street;9/16/2022;105038,171;193578,02
+2950787;F12a | F19 | M17; ;Living street | One-way street;9/14/2022;104880,447;192538,659
+2950794;C1 | M11 Klein; ;One-way street;8/15/2022;104974,367;193482,982
+2950797;F118 | zc3m12kl | F12b; ;End of Living street;9/14/2022;104920,066;192263,515
+2950805;C1 | M11 Klein; ;One-way street;9/16/2022;104967,473;193629,099
+2950819;B1 | E9a | GVII | GXb | F111;BEWONERS;Give way | Parking | Bicycle road;8/29/2022;104916,202;193742,224
+2950822;C3 | M11; ;All vehicles prohibited | Only applies to link road;9/14/2022;104899,259;192368,415
+2950824;C1 | M12 Klein; ;One-way street;9/14/2022;105043,498;193534,404
+2950826;C1 | M11; ;One-way street | Only applies to link road;8/29/2022;104913,749;193701,33
+2950834;F19 | M17 | F13 | F12a;ZONE,C3,sy-vsd-3-3-210,S148,S147,UITGEZONDERD,A, P,Uitgezonderd,vergunninghouders;One-way street | Living street;9/16/2022;104945,484;193565,536
+2950836;B15c | F12b; ;End of Living street;9/14/2022;104887,224;192539,348
+2950838;F19 | M17; ;One-way street;9/14/2022;104895,819;192350,635
+2950902;C43;50;Speed limit;9/22/2022;230645,25;199344,813
+2950908;A29 | C21 | GIV;5.5 | UITGEZONDERD PLAATSELIJK VERKEER;Cattle | Weight limit;9/22/2022;45827,471;176302,553
+2951026;F19 | M18 | F111 (zone);"F111,[""400x600""],";One-way street | Bicycle road;9/23/2022;61865,304;181294,996
+2951030;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;61860;181290,844
+2951038;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;61781;181465,375
+2951044;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;61775,25;181460,688
+2951086;C31a | M3; ;Except for bicycles and mopeds;9/22/2022;37052,895;205120,6
+2951169;C43;50;Speed limit;9/22/2022;194328,36;162223,38
+2951170;C45;50;End of speed limit;9/22/2022;194322,12;162230,28
+2951174;C43 | B9;50;Speed limit | Priority road;9/22/2022;194344,65;162298,26
+2951181;C43 | B9;50;Speed limit | Priority road;9/22/2022;194371,52;162315,41
+2951183;C43 | B9;50;Speed limit | Priority road;9/22/2022;194423,87;162342,45
+2951188;C43 | B9;50;Speed limit | Priority road;9/22/2022;194388,91;162345,34
+2951189;C45;50;End of speed limit;9/22/2022;194488,96;162408,7
+2951190;C43;50;Speed limit;9/22/2022;194483,26;162413,45
+2951208;IV1 | B1; ;Give way;9/22/2022;181725,25;168636,69
+2951372;B1; ;Give way;9/19/2022;100899,203;190338,852
+2951695;B1; ;Give way;9/23/2022;205922,844;167332,359
+2951699;B1; ;Give way;9/23/2022;74497,875;226236,25
+2951735;F49; ;Pedestrian crossing;9/23/2022;74491,5;226234,562
+2951739;F49; ;Pedestrian crossing;9/23/2022;74498,188;226246,812
+2951770;B1; ;Give way;9/23/2022;74494,312;226245,375
+2951789;B1; ;Give way;9/23/2022;205931,188;167343,109
+2951869;B1; ;Give way;9/23/2022;206057,656;167377,391
+2951891;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;157416,22;221292,8
+2951892;C43;30;Speed limit;9/23/2022;157416,22;221292,8
+2951896;F111 (zone) | C43;"F111,[""400x600""], | 30";Bicycle road | Speed limit;9/23/2022;157387,03;221268,41
+2951897;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;157387,03;221268,41
+2951898;C43 (zone);"C43,[""400"",""Neen"",""30""],Herhaling";Speed limit;9/23/2022;157111,56;221032,45
+2951901;C43 (zone);"C43,[""400"",""Neen"",""30""],Herhaling";Speed limit;9/23/2022;157129,08;221019,12
+2951902;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;156936,87;221061,75
+2951903;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;156931,54;221070,66
+2951904;C43 (zone);"C43,[""400"",""Neen"",""30""],Herhaling";Speed limit;9/23/2022;156908,88;221189,11
+2951905;C43 (zone);"C43,[""400"",""Neen"",""30""],Herhaling";Speed limit;9/23/2022;156874,73;221158,29
+2951909;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;156733,28;221271,49
+2951910;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;156743,598;221252,622
+2951913;C43 (zone);"C43,[""400"",""Neen"",""30""],Herhaling";Speed limit;9/23/2022;156958,57;221560,35
+2951914;C43 (zone);"C43,[""400"",""Neen"",""30""],Herhaling";Speed limit;9/23/2022;156945,08;221541,18
+2951915;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;156854,39;221567,69
+2951918;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;156844,16;221583,56
+2951919;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;156844,16;221583,56
+2951922;C43 (zone) | F111 (zone);"C43,[""400"",""Neen"",""30""], | F111,[""400x600""],";Speed limit | Bicycle road;9/23/2022;157506,5;221579,6
+2951923;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;157506,5;221579,6
+2951927;F111 (zone) | C43 (zone);"F111,[""400x600""], | C43,[""400"",""Neen"",""30""],";Bicycle road | Speed limit;9/23/2022;157540,43;221573,14
+2951928;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;157540,43;221573,14
+2951932;C43 (zone) | F111 (zone);"C43,[""400"",""Neen"",""30""], | F111,[""400x600""],";Speed limit | Bicycle road;9/23/2022;157497,01;221518,5
+2951933;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;157497,01;221518,5
+2951938;F111 (zone) | C43 (zone);"F111,[""400x600""], | C43,[""400"",""Neen"",""30""],";Bicycle road | Speed limit;9/23/2022;157479,93;221533,73
+2951939;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;157479,93;221533,73
+2952084;B1 | F12b; ;Give way | End of Living street;8/16/2022;103578,837;192166,41
+2952351;C43;50;Speed limit;9/26/2022;205770,75;167431,375
+2952396;C43;50;Speed limit;9/22/2022;194328,36;162223,38
+2952398;C45;50;End of speed limit;9/22/2022;194322,12;162230,28
+2952402;C43 | B9;50;Speed limit | Priority road;9/22/2022;194344,65;162298,26
+2952404;C43 | B9;50;Speed limit | Priority road;9/22/2022;194371,52;162315,41
+2952406;C43 | B9;50;Speed limit | Priority road;9/22/2022;194423,87;162342,45
+2952408;C43 | B9;50;Speed limit | Priority road;9/22/2022;194388,91;162345,34
+2952409;C45;50;End of speed limit;9/22/2022;194488,96;162408,7
+2952411;C43;50;Speed limit;9/22/2022;194483,26;162413,45
+2952506;B5; ;Stop sign;9/13/2022;188547,81;212888,36
+2952531;C43;50;Speed limit;9/26/2022;228986,066;160777,184
+2952569;C3 | GIV;UITGEZONDERD AANGELANDEN;All vehicles prohibited;9/26/2022;229000,816;160722,996
+2952579;B9 | C43;50;Priority road | Speed limit;9/26/2022;229051,066;160689,309
+2952584;B1; ;Give way;9/26/2022;229052,535;160687,934
+2952588;B1; ;Give way;9/26/2022;229046,191;160679,043
+2952756;C3 | GIV;JAAGPAD uitgezonderd toelatingen rijwielen en bromfietsen klasse A;All vehicles prohibited;9/26/2022;170715,88;202837,4
+2952774;A25; ;Bicycle crossing;9/26/2022;171264,755;203528,275
+2952846;C29;4.05;Height limit;9/1/2022;106068,65;203776,49
+2952848;C29;4.05;Height limit;9/1/2022;106057,4;203718,08
+2952889;B9 | C43;50;Priority road | Speed limit;9/26/2022;230268,875;189580
+2952894;B9 | C43;50;Priority road | Speed limit;9/26/2022;230254,375;189545,5
+2952906;F4b; ;End of speed limit zone;9/16/2022;248059,125;161341,875
+2952927;F19 | M18; ;One-way street;9/26/2022;105420,934;192150,135
+2953005;F111 (zone); ;Bicycle road;8/31/2022;103800,966;193675,323
+2953028;F4b; ;End of speed limit zone;8/29/2022;106342,649;193200,417
+2953050;B9 | F4a | F13 | D9a;S318,S326,B,S326,S317,U,S,T,R,A,M;Priority road | Speed limit zone;9/7/2022;103880,01;192752,531
+2953112;F4b; ;End of speed limit zone;8/29/2022;103376,037;191946,843
+2953129;F4a; ;Speed limit zone;9/19/2022;103248,372;192794,067
+2953134;F4a; ;Speed limit zone;8/29/2022;103381,1;191943,887
+2953138;F4b; ;End of speed limit zone;8/29/2022;103380,994;191943,384
+2953207;B5; ;Stop sign;9/27/2022;229026,483;160738,767
+2953244;F19 | M12; ;One-way street;8/28/2022;187445,86;213166,03
+2953246;M12 | C1; ;One-way street;8/28/2022;187524,57;213185,87
+2953255;F45b; ;No exit, except for bicycle;10/4/2022;37235,925;206455,215
+2953280;B1 | E9a-GVIIb (zone);"E9a-GVIIb,[""400x600""],Uitgezonderd parkeerkaarthouders";Give way;9/1/2022;77331,702;167653,587
+2953290;F19 | M18 | E9a-GVIIb (zone);"E9a-GVIIb,[""400x600""],";One-way street;9/1/2022;77331,479;167654,84
+2953315;C23 | GVIIa | GIII | E9a-GVIIb (zone);5.5 | ma tot vrij van 7u45 tot 8u30 en van 15u00 tot 16.30u woe van 7u45 tot 8u30 en van 11u30 tot 1;Heavy goods vehicles prohibited;9/1/2022;77499,363;167529,272
+2953373;B1 | F111 | E9a-GVIIb (zone);"E9a-GVIIb,[""400x600""],Uitgezonderd parkeerkaarthouders";Give way | Bicycle road;9/1/2022;77403,087;167461,897
+2953388;B1 | E9a-GVIIb (zone);"E9a-GVIIb,[""400x600""],Uitgezonderd parkeerkaarthouders";Give way;9/1/2022;77263,723;167434,564
+2953435;GIV | C5-C7;UITGEZONDERD DIENSTVOERTUIGEN;Motorcars and motorcycles prohibited;9/1/2022;106036,81;203702,05
+2953529;B1; ;Give way;9/22/2022;69860,115;199666,909
+2953612;B1; ;Give way;9/27/2022;233163,077;170957,111
+2953675;GIV | C3 | C43;UITGEZONDERD PLAATSELIJK VERKEER | 50;All vehicles prohibited | Speed limit;9/1/2022;39678,188;195075,938
+2953677;C43 | B15f;50;Speed limit;9/1/2022;39332,969;195283,531
+2953679;C45 | B15c;50;End of speed limit;9/1/2022;39360,469;195269,656
+2953685;F19 | M12; ;One-way street;9/23/2022;157739,21;221532,43
+2953689;M12 | C1; ;One-way street;9/23/2022;157795,1;221587,02
+2953694;F111 (zone) | C43 (zone);"F111,[""400x600""], | C43,[""400"",""Neen"",""30""],";Bicycle road | Speed limit;9/23/2022;157813,25;221589,47
+2953695;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;157813,25;221589,47
+2953704;C43 (zone) | F111 (zone);"C43,[""400"",""Neen"",""30""], | F111,[""400x600""],";Speed limit | Bicycle road;9/23/2022;157823,25;221594,94
+2953705;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;157823,25;221594,94
+2953707;M12 | F19; ;One-way street;9/23/2022;157819,32;221597,24
+2953709;M12 | C1; ;One-way street;9/23/2022;157856,4;221670,41
+2953713;C43 (zone) | F111 (zone);"C43,[""400"",""Neen"",""30""], | F111,[""400x600""],";Speed limit | Bicycle road;9/23/2022;157845,58;221673,8
+2953714;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;157845,58;221673,8
+2953724;F111 (zone) | C43 (zone);"F111,[""400x600""], | C43,[""400"",""Neen"",""30""],";Bicycle road | Speed limit;9/23/2022;157853,4;221683,97
+2953725;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;157853,4;221683,97
+2953727;M12 | F19; ;One-way street;9/23/2022;157869,34;221675,6
+2953740;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;157959,95;221752,29
+2953742;C43 | F111 (zone);"30 | F111,[""400x600""],";Speed limit | Bicycle road;9/23/2022;157959,95;221752,29
+2953744;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;157965,42;221758,92
+2953745;C43;30;Speed limit;9/23/2022;157965,42;221758,92
+2953923;C5-C7; ;Motorcars and motorcycles prohibited;9/9/2022;103249,816;191352,794
+2953972;B1; ;Give way;9/27/2022;233162,625;170943,563
+2954006;M12 | F19; ;One-way street;9/23/2022;157983,45;221767,45
+2954008;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;157463,75;221351,46
+2954010;C43 | F111 (zone);"30 | F111,[""400x600""],";Speed limit | Bicycle road;9/23/2022;157463,75;221351,46
+2954019;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;157481,39;221365,78
+2954020;C43;30;Speed limit;9/23/2022;157481,39;221365,78
+2954023;C43;30;Speed limit;9/23/2022;157759;221174,82
+2954024;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;157759;221174,82
+2954028;C43 | F111 (zone);"30 | F111,[""400x600""],";Speed limit | Bicycle road;9/23/2022;157749,03;221186,04
+2954029;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;157749,03;221186,04
+2954033;C43 (zone) | F111 (zone);"C43,[""400"",""Neen"",""30""], | F111,[""400x600""],";Speed limit | Bicycle road;9/23/2022;157281,33;221192,61
+2954034;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;157281,33;221192,61
+2954038;F111 (zone) | C43 (zone);"F111,[""400x600""], | C43,[""400"",""Neen"",""30""],";Bicycle road | Speed limit;9/23/2022;157274,55;221199,5
+2954039;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;157274,55;221199,5
+2954040;C43 (zone);"C43,[""400"",""Neen"",""30""],Herhaling";Speed limit;9/23/2022;157228,1;221243,47
+2954041;C43 (zone);"C43,[""400"",""Neen"",""30""],Herhaling";Speed limit;9/23/2022;157222,67;221238,51
+2954042;C43 (zone);"C43,[""400"",""Neen"",""30""],Herhaling";Speed limit;9/23/2022;157106,55;221367,75
+2954043;C43 (zone);"C43,[""400"",""Neen"",""30""],Herhaling";Speed limit;9/23/2022;157101,23;221362,62
+2954047;C43 (zone) | F111 (zone);"C43,[""400"",""Neen"",""30""], | F111,[""400x600""],";Speed limit | Bicycle road;9/16/2022;157108,677;221488,172
+2954048;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/16/2022;157108,677;221488,172
+2954050;F111 (zone);"F111,[""400x600""],";Bicycle road;9/16/2022;157114,552;221497,672
+2954052;C43 (zone) | F111 (zone);"C43,[""400"",""Neen"",""30""], | F111,[""400x600""],";Speed limit | Bicycle road;9/16/2022;157114,552;221497,672
+2954054;C43 (zone);"C43,[""400"",""Ja"",""30""],Herhaling";Speed limit;9/16/2022;157153,677;221563,36
+2954055;C43 (zone);"C43,[""400"",""Ja"",""30""],Herhaling";Speed limit;9/16/2022;157145,177;221566,422
+2954098;F19 | M18; ;One-way street;9/9/2022;63292,532;181735,183
+2954160;F99c; ;Access only for pedestrians, cyclists, horses and agricultural;9/28/2022;225944;200976,625
+2954198;F4a; ;Speed limit zone;9/1/2022;63015,252;182915,645
+2954247;F111 (zone) | C43 (zone);"F111,[""400x600""], | C43,[""400"",""Neen"",""30""],";Bicycle road | Speed limit;9/23/2022;157203,48;221724,63
+2954248;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;157203,48;221724,63
+2954249;C1; ;One-way street;9/28/2022;157363,125;188413,062
+2954253;C43 (zone) | F111 (zone);"C43,[""400"",""Neen"",""30""], | F111,[""400x600""],";Speed limit | Bicycle road;9/23/2022;157201,51;221719,47
+2954254;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;157201,51;221719,47
+2954256;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;158033,82;221842,69
+2954268;M12 | C1; ;One-way street;9/23/2022;158063,56;221869,48
+2954271;M12 | C1; ;One-way street;9/23/2022;158066,53;221862,12
+2954273;C43;30;Speed limit;9/23/2022;158109,72;221700,94
+2954280;C43;30;Speed limit;9/23/2022;158106,74;221713,98
+2954281;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;158102,14;221682,23
+2954286;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;158114,31;221674,93
+2954287;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;158114,31;221674,93
+2954306;C43 (zone);"C43,[""400"",""Neen"",""30""],Herhaling";Speed limit;9/16/2022;157123,927;221762,422
+2954307;C43 (zone);"C43,[""400"",""Neen"",""30""],Herhaling";Speed limit;9/16/2022;157116,927;221751,422
+2954364;B1; ;Give way;9/28/2022;67627,25;213876,25
+2954372;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;158037,73;221838,29
+2954373;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;158037,73;221838,29
+2954427;F19 | M17; ;One-way street;9/7/2022;105132,389;193664,625
+2954486;C3 | M12 | GIV;UITGEZONDERD ,prioritaire voertuigen;All vehicles prohibited;9/21/2022;103726,105;194216,651
+2954492;F4b | C31a | M12; ;End of speed limit zone;9/21/2022;103721,241;194226,044
+2954624;B5; ;Stop sign;9/29/2022;218079,447;166281,152
+2954832;B1; ;Give way;9/29/2022;230139,375;173453,375
+2954848;B1; ;Give way;9/29/2022;230151,063;173445,813
+2954888;C43;50;Speed limit;9/29/2022;230098,844;173399,875
+2954894;C33; ;U-turn not allowed;9/29/2022;230061,344;173338,25
+2954896;F49; ;Pedestrian crossing;9/29/2022;230027,906;173283,281
+2954911;B1 | M10; ;Give way;9/29/2022;229966,03;173150,88
+2954928;C43;50;Speed limit;9/29/2022;229972,906;173174,188
+2954929;C33; ;U-turn not allowed;9/29/2022;230019,594;173250,219
+2954930;F49; ;Pedestrian crossing;9/29/2022;230031,719;173270,5
+2955194;C1; ;One-way street;9/29/2022;100830,108;190213,058
+2955202;C9; ;Mopeds prohibited;9/29/2022;103634,744;191300,236
+2955276;F12b; ;End of Living street;9/30/2022;235938,312;204045,656
+2955304;F12a | F19 | M18; ;Living street | One-way street;9/30/2022;235950,438;204040,875
+2955309;M12 | C1 | F12a; ;One-way street | Living street;9/30/2022;235824,312;204135,781
+2955322;F19 | M18; ;One-way street;9/30/2022;235890,469;204194,406
+2955330;F19 | M18; ;One-way street;9/30/2022;235895,25;204204,156
+2955351;F19 | M18; ;One-way street;9/30/2022;236017,531;204253,906
+2955364;E9b (zone) | F12b | B1;"E9b,[""400x600""],";Parking for cars only | End of Living street | Give way;9/30/2022;235841,531;204269,281
+2955369;M12 | C1 | F12a; ;One-way street | Living street;9/30/2022;235833,766;204269,703
+2955372;C1; ;One-way street;9/30/2022;235828,078;204271,234
+2955373;B1; ;Give way;9/30/2022;235841,453;204279,859
+2955374;C1; ;One-way street;9/30/2022;235834,016;204281,797
+2955377;F19 | M18 | F12a; ;One-way street | Living street;9/30/2022;235983,906;204319,281
+2955380;F12b; ;End of Living street;9/30/2022;235988,266;204319,047
+2955392;C1 | M12; ;One-way street;9/30/2022;236014,266;204249,984
+2955394;F19 | M18; ;One-way street;9/30/2022;236168,281;204133,281
+2955415;C1 | M12; ;One-way street;9/30/2022;236168,391;204142,047
+2955417;F19 | M18; ;One-way street;9/30/2022;236063,906;204186,781
+2955419;F19 | M18; ;One-way street;9/30/2022;236117,781;204218,531
+2955423;F19 | M18; ;One-way street;9/30/2022;236116,031;204209,281
+2955431;C1 | M12; ;One-way street;9/30/2022;236131,266;204226,672
+2955433;M12 | C1; ;One-way street;9/30/2022;235989,062;204135,312
+2955451;F19 | M18; ;One-way street;9/30/2022;236197,688;204251,406
+2955455;C1 | M12; ;One-way street;9/30/2022;236138,141;204220,422
+2955459;F19 | M18; ;One-way street;9/30/2022;236058,766;204182,547
+2955473;C1 | M12; ;One-way street;9/30/2022;235994,797;204139,703
+2955477;C3 | M12; ;All vehicles prohibited;9/30/2022;236041,297;204172,328
+2955481;C3 | M12; ;All vehicles prohibited;9/30/2022;235962,297;204180,078
+2955501;M12 | C3; ;All vehicles prohibited;9/30/2022;236001,578;204250,359
+2955509;M12 | C1; ;One-way street;9/23/2022;157950,55;221762,61
+2955513;F111 (zone) | C43 (zone);"F111,[""400x600""], | C43,[""400"",""Neen"",""30""],";Bicycle road | Speed limit;9/23/2022;157879,39;221467,01
+2955514;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;157879,39;221467,01
+2955518;C43 (zone) | F111 (zone);"C43,[""400"",""Neen"",""30""], | F111,[""400x600""],";Speed limit | Bicycle road;9/23/2022;157867,35;221472,79
+2955519;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;157867,35;221472,79
+2955520;C43 (zone);"C43,[""400"",""Neen"",""30""],Herhaling";Speed limit;9/23/2022;157626,64;221820,8
+2955521;C43 (zone);"C43,[""400"",""Neen"",""30""],Herhaling";Speed limit;9/23/2022;157632,31;221837,32
+2955524;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/16/2022;157100,266;222267,422
+2955525;C43 (zone);"C43,[""400"",""Ja"",""30""],";Speed limit;9/16/2022;157112,141;222275,547
+2955526;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/16/2022;157112,141;222275,547
+2955529;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;9/1/2022;140355,18;202364,69
+2955535;M3 | C1; ;Except for bicycles and mopeds | One-way street;9/1/2022;140341,94;202400,86
+2955537;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;9/1/2022;140257,09;202554,88
+2955541;M3 | D1e | F12b; ;Except for bicycles and mopeds | End of Living street;9/1/2022;140269,899;202539,429
+2955549;B1 | F12b | E9b (zone);"E9b,[""400x600""],";Give way | End of Living street | Parking for cars only;9/30/2022;235829,859;204150,328
+2955568;D1e | F12b; ;End of Living street;9/1/2022;140334,368;202348,964
+2955584;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;9/1/2022;140353,74;202325,63
+2955587;M3 | C1; ;Except for bicycles and mopeds | One-way street;9/1/2022;140341,35;202314,3
+2955650;B5; ;Stop sign;9/30/2022;218012,494;166306,074
+2955660;B5; ;Stop sign;9/30/2022;217994,494;166334,574
+2955673;M3 | C1; ;Except for bicycles and mopeds | One-way street;9/1/2022;140089,74;202452,05
+2955685;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;9/1/2022;140136,35;202489,28
+2955687;M3 | C1; ;Except for bicycles and mopeds | One-way street;9/1/2022;140152,23;202494,38
+2955693;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;9/1/2022;140151,06;202506,99
+2955697;M3 | D1e; ;Except for bicycles and mopeds;9/1/2022;140178,36;202510,39
+2955701;M3 | D1e; ;Except for bicycles and mopeds;9/1/2022;140256,55;202355,75
+2955703;M3 | D1e; ;Except for bicycles and mopeds;9/1/2022;140220,71;202423,17
+2955706;E9a-GVIIb (zone) | M5 | F19;"E9a-GVIIb,[""400x600""],";Not oneway for bicycles and mofas | One-way street;9/30/2022;236511,516;204247,297
+2955707;B1; ;Give way;9/1/2022;140270,97;202266,52
+2955709;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;9/1/2022;140293,6;202253,62
+2955732;M3 | C1; ;Except for bicycles and mopeds | One-way street;9/1/2022;140268,09;202249,41
+2955739;C45 (zone) | A39;"C45,[""400"",""30""],";End of speed limit | Bidirectional traffic;9/30/2022;236496,984;203978,453
+2955743;F27 | F4b;Opheers,N784,Luik,Borgworm,St.-Truiden,N3,N3;End of speed limit zone;9/30/2022;215754,539;160374,793
+2955769;M3 | F19 | F12a; ;Except for bicycles and mopeds | One-way street | Living street;9/30/2022;236263,297;203785,453
+2955787;GVIII | B1;4,van boven naar rechts,links,onder;Give way;9/1/2022;140056,28;202446,16
+2955790;F111 | M5 | F19; ;Bicycle road | Not oneway for bicycles and mofas | One-way street;9/1/2022;140064,8;202429,55
+2955792;M3 | C1; ;Except for bicycles and mopeds | One-way street;9/1/2022;140086,49;202428,32
+2955794;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;9/1/2022;140241,79;202223,06
+2955947;E9a | M1; ;Parking | Only for bicycles;8/19/2022;105619,224;192745,76
+2956050;B1 | D1f | E1 | GXb; ;Give way | No Parking;9/7/2022;103830,132;192478,517
+2956058;B1 | D1f | M12 | Reflecterende koker; ;Give way;9/7/2022;103794,609;192488,428
+2956065;F19 | M18 Klein; ;One-way street;9/7/2022;103879,466;192670,943
+2956078;C1 | M2; ;One-way street | Except for bicycles;9/7/2022;103857,624;192655,285
+2956089;F19 | M4; ;One-way street | Not oneway for bicycles;9/7/2022;103812,752;192279,194
+2956104;C1 | M12; ;One-way street;9/7/2022;103803,024;192376,803
+2956115;B1 | D1f | E9a | GIII | GXb;BEWONERS;Give way | Parking;9/7/2022;103799,975;192366,169
+2956126;B1 | VL - Fts; ;Give way;9/7/2022;103811,958;192273,807
+2956617;C27 | C29;2.5 | 2.5;Width limit | Height limit;9/28/2022;70274,583;211317,325
+2956728;C1 | M11; ;One-way street | Only applies to link road;8/19/2022;105067,309;193621,976
+2956860;C3; ;All vehicles prohibited;9/15/2022;70010,985;210960,263
+2956933;C3; ;All vehicles prohibited;9/30/2022;69696,919;210652,839
+2956935;F111 (zone) | C43 (zone);"F111,[""400x600""], | C43,[""400"",""Neen"",""30""],";Bicycle road | Speed limit;9/21/2022;157951,22;221389,72
+2956948;C1; ;One-way street;10/4/2022;146606,625;176342,75
+2956949;C1; ;One-way street;10/4/2022;146613;176335,625
+2957639;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/23/2022;157953,33;221764,317
+2957641;C43 (zone) | F111 (zone);"C43,[""400"",""Neen"",""30""], | F111,[""400x600""],";Speed limit | Bicycle road;9/23/2022;157953,33;221764,317
+2957643;F111 (zone) | C43 (zone);"F111,[""400x600""], | C43,[""400"",""Neen"",""30""],";Bicycle road | Speed limit;9/23/2022;157956,08;221766,395
+2957644;F111 (zone);"F111,[""400x600""],";Bicycle road;9/23/2022;157956,08;221766,395
+2957705;F19 | M4; ;One-way street | Not oneway for bicycles;10/4/2022;105234,876;194843,62
+2957712;C1 | GV | M11;,,UITGEZONDERD,BUS;One-way street | Only applies to link road;9/1/2022;105115,962;193670,285
+2959279;M5 | F19 | C43;30;Not oneway for bicycles and mofas | One-way street | Speed limit;10/18/2022;40853,4;208805,455
+2959282;M3 | C1; ;Except for bicycles and mopeds | One-way street;10/18/2022;40508,9;208542,705
+2959286;B1 | M10;sy-S307,sy-S309,sy-S148,sy-S147;Give way;10/5/2022;93137,303;178855,29
+2959351;C43;90;Speed limit;10/5/2022;218158,844;181606,781
+2959365;C43 | XX;70;Speed limit;10/5/2022;218167,219;181603,25
+2959367;B1; ;Give way;10/4/2022;61084,14;201897,04
+2959391;B1; ;Give way;10/4/2022;61162,365;201923,601
+2959393;B1; ;Give way;10/4/2022;61081,71;201902,39
+2959407;B1; ;Give way;10/4/2022;61165,74;201918,32
+2959701;C43;50;Speed limit;10/18/2022;41189,25;207551,25
+2959702;C43;50;Speed limit;10/18/2022;41175,75;207540,75
+2959704;C43;50;Speed limit;10/18/2022;41186;207537
+2959712;C43;50;Speed limit;10/18/2022;40883,75;207176,75
+2959713;C43;50;Speed limit;10/18/2022;40896,5;207177,5
+2959714;C43;50;Speed limit;10/18/2022;40891;207188
+2959722;C43;50;Speed limit;10/18/2022;40012,5;208156,75
+2959728;C43;50;Speed limit;10/18/2022;40810,75;207083,25
+2959729;C43;50;Speed limit;10/18/2022;40825,75;207086,75
+2959730;C43;50;Speed limit;10/18/2022;40819,25;207077,5
+2959731;C43;50;Speed limit;10/18/2022;41498,25;207031
+2959733;C43;50;Speed limit;10/18/2022;42324,5;207446,5
+2959734;C43;50;Speed limit;10/18/2022;41483,75;207031,75
+2959735;C43;50;Speed limit;10/18/2022;41487;207020,75
+2959739;C43;50;Speed limit;10/18/2022;41651,5;206670,25
+2959740;C43;50;Speed limit;10/18/2022;41641,5;206668,5
+2959750;C43;50;Speed limit;10/18/2022;40141,25;206253
+2959754;C43;50;Speed limit;10/18/2022;40154;206249
+2959797;B1 | GIa;100m;Give way;9/28/2022;91537,519;178505,775
+2959801;M10 | B1; ;Give way;9/28/2022;91533,119;178419,382
+2959802;B5; ;Stop sign;9/6/2022;91384,468;178256,479
+2959804;GIb | B1;m,;Give way;9/6/2022;91488,091;178154,992
+2959829;C43;50;Speed limit;10/18/2022;40354,375;206190,75
+2959830;C43;50;Speed limit;10/18/2022;40368,625;206192,875
+2959831;C43;50;Speed limit;10/18/2022;40368,25;206185,25
+2959832;C43;50;Speed limit;10/18/2022;40349,125;206175,125
+2959833;C43;50;Speed limit;10/18/2022;40252,5;205791,375
+2959834;C43;50;Speed limit;10/18/2022;40140,375;206264,5
+2960203;C31a | B1; ;Give way;10/7/2022;236178;204335,125
+2960205;M12 | C1; ;One-way street;9/30/2022;236008,203;204258,359
+2960209;C1 | M12; ;One-way street;9/30/2022;236183,625;204327,5
+2960330;IV4 | F49; ;Pedestrian crossing;10/7/2022;65686,55;170822,94
+2960333;IV4 | F49; ;Pedestrian crossing;10/7/2022;65695,24;170859,4
+2960340;IV4 | F49; ;Pedestrian crossing;10/7/2022;67637,41;171297,88
+2960342;IV4 | F49; ;Pedestrian crossing;10/7/2022;67620,94;171343,67
+2960350;C1 | M2; ;One-way street | Except for bicycles;10/7/2022;67730,695;171339,277
+2960354;XX | F111; ;Bicycle road;10/7/2022;67701,34;171145,05
+2960356;M4 | F19; ;Not oneway for bicycles | One-way street;10/7/2022;67700,22;171141,96
+2960384;F111 (zone) | C43 (zone);"F111,[""400x600""], | C43,[""400"",""Ja"",""30""],";Bicycle road | Speed limit;10/7/2022;68060,25;170603,8
+2960393;F111 (zone) | C43 (zone);"F111,[""400x600""], | C43,[""400"",""Ja"",""30""],";Bicycle road | Speed limit;10/7/2022;67844,3;170486,19
+2960460;F12a; ;Living street;10/7/2022;235336,438;205210,406
+2960504;B1; ;Give way;10/7/2022;235930,313;204025,688
+2960537;M3 | C1; ;Except for bicycles and mopeds | One-way street;10/7/2022;236390,812;205652,25
+2960598;F4a; ;Speed limit zone;10/7/2022;236406,031;205520,375
+2960610;B21 | F87; ;Speed bump;10/7/2022;236776,969;205067,469
+2960614;F87 | B19; ;Speed bump;10/7/2022;236785,344;205066,656
+2960618;F87 | B19; ;Speed bump;10/7/2022;236689,344;205220,156
+2960623;F87 | B21; ;Speed bump;10/7/2022;236678,094;205219,406
+2960642;F4a; ;Speed limit zone;10/7/2022;236512,969;205375,031
+2960644;A7c | B19; ;Road narrows left;10/7/2022;236428,094;205519,531
+2960646;F4a; ;Speed limit zone;10/7/2022;236316,969;205536,031
+2960653;F4b | B1; ;End of speed limit zone | Give way;10/7/2022;236308,719;205529,031
+2960699;E9b | F19; ;Parking for cars only | One-way street;10/7/2022;235930,562;203935,375
+2960701;M3 | C31b; ;Except for bicycles and mopeds;10/7/2022;235943,062;203937,375
+2960703;M10 | B1; ;Give way;10/7/2022;235988,562;203996,5
+2960706;D1f | B1; ;Give way;10/7/2022;235995,438;204004,75
+2960711;F4a | F19; ;Speed limit zone | One-way street;10/7/2022;236055,812;204003,125
+2960726;M2 | C1; ;Except for bicycles | One-way street;10/7/2022;236060,812;204014,125
+2960729;E1 (zone) | F12a | D3a;"E1,[""400""],";No Parking | Living street;10/7/2022;236054,312;204009
+2960735;F12b | E1 (zone) | D1e;"E1,[""400""],";End of Living street | No Parking;10/7/2022;236045,188;204013,5
+2960746;C45 (zone) | F19;"C45,[""400"",""30""],";End of speed limit | One-way street;10/7/2022;236170,812;204024,875
+2960748;C1; ;One-way street;10/7/2022;236160,312;204031,375
+2960756;C1 | M12 | F12a; ;One-way street | Living street;9/30/2022;236242,141;204094,172
+2960758;F12a | F19; ;Living street | One-way street;10/7/2022;236234,812;204087,5
+2960759;C1; ;One-way street;10/7/2022;236223,812;204080
+2960761;D1f | B1; ;Give way;10/7/2022;236270,938;204101,125
+2960767;F19; ;One-way street;10/7/2022;236265,188;204114,75
+2960780;C1; ;One-way street;10/7/2022;236204,688;204279,625
+2960782;C1; ;One-way street;10/7/2022;236222,688;204247,125
+2960813;C1; ;One-way street;9/30/2022;236254,438;204163,5
+2960814;F19; ;One-way street;10/7/2022;236260,812;204170,75
+2960823;C1; ;One-way street;9/30/2022;236259,188;204153
+2960881;C43;50;Speed limit;8/31/2022;175535,498;182978,949
+2960907;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;10/7/2022;178161,279;183133,887
+2961193;C3 | GIII;private weg;All vehicles prohibited;10/7/2022;109524,72;197562,82
+2961359;F4a; ;Speed limit zone;9/30/2022;103375,302;190796,277
+2961475;F4a; ;Speed limit zone;10/9/2022;103226,662;191907,573
+2961490;F4b; ;End of speed limit zone;10/9/2022;103221,371;191906,25
+2961740;F4a; ;Speed limit zone;9/1/2022;49861,99;211173,18
+2962086;B1; ;Give way;10/10/2022;155735,375;191645,438
+2962127;B9 | C43 | F13;90 | 3,rechts,geen pijl,geen pijl,stippellijn;Priority road | Speed limit;10/10/2022;218334,938;181565,656
+2962131;GIa | A25;m,120;Bicycle crossing;10/10/2022;50188,438;185206,063
+2962145;A25 | GIa;m,100;Bicycle crossing;10/10/2022;50187,438;185445,563
+2962233;F4b; ;End of speed limit zone;9/1/2022;52146,17;211221,76
+2962234;F4a; ;Speed limit zone;9/1/2022;52141,25;211217,75
+2962674;B1 | D1f | E1 | GXb; ;Give way | No Parking;9/7/2022;103830,132;192478,517
+2962702;B1; ;Give way;10/3/2022;103863,408;192662,92
+2962731;B1 | D1f | E9a | GIII | GXb;BEWONERS;Give way | Parking;9/7/2022;103799,975;192366,169
+2962739;B1 | VL - Fts; ;Give way;9/7/2022;103811,958;192273,807
+2962806;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/1/2022;52890,934;210605,592
+2962812;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;9/1/2022;52887,59;210616,78
+2962819;F4a; ;Speed limit zone;9/1/2022;52559,64;210442,34
+2962889;C43;50;Speed limit;10/11/2022;242008,625;204469
+2962890;C43;50;Speed limit;10/11/2022;242011,125;204456,125
+2962962;GIa | A25;m,50;Bicycle crossing;10/11/2022;56971,313;191052,5
+2962982;GIa | A25;m,50;Bicycle crossing;10/11/2022;57260,063;191144,75
+2963000;A25 | GIa;m,40;Bicycle crossing;10/10/2022;51389,313;190341
+2963002;A25 | GIa;m,40;Bicycle crossing;10/10/2022;51440,563;190295,125
+2963008;F4b; ;End of speed limit zone;9/1/2022;52558,99;210453,24
+2963080;A14 | GIa;m,50;Speed bump;10/11/2022;59576,375;220858,188
+2963097;F4a; ;Speed limit zone;9/1/2022;63415,203;183002,391
+2963108;F4a; ;Speed limit zone;9/1/2022;63514,406;183026,813
+2963415;F12a | F45;Geen;Living street | No exit;9/28/2022;107248,55;194734,81
+2963425;F12b | B1; ;End of Living street | Give way;9/28/2022;107239,97;194733,66
+2963427;B1; ;Give way;10/11/2022;155709,984;191611,547
+2963637;B1; ;Give way;10/11/2022;93663,156;179001,636
+2963644;GIa | A25;m,30;Bicycle crossing;10/11/2022;43541,5;169711
+2963688;A25 | GIa;m,40;Bicycle crossing;10/10/2022;51440,563;190295,125
+2963690;A25 | GIa;m,40;Bicycle crossing;10/10/2022;51389,313;190341
+2963695;B9 | A25 | GIa;m,15;Priority road | Bicycle crossing;9/26/2022;51164,688;190544,688
+2963954;C3 | GVIIa | M12 Klein | F12a;UITGEZONDERD,,LEVERINGEN KETELVEST;All vehicles prohibited | Living street;10/11/2022;104603,339;193392,697
+2963956;E9a | M1; ;Parking | Only for bicycles;10/11/2022;104557,245;193353,006
+2963959;F49; ;Pedestrian crossing;10/11/2022;104445,573;193899,613
+2963976;C3 | GIV | F12a | F19 | M18;UITGEZONDERD ,PLAATSELIJK VERKEER;All vehicles prohibited | Living street | One-way street;10/11/2022;104616,918;193316,95
+2964053;C35 | E1 | GXd; ;No overtaking | No Parking;9/8/2022;102542,044;192383,338
+2964059;C3 | M11 | F113 (zone); ;All vehicles prohibited | Only applies to link road;9/8/2022;103851,491;191820,822
+2964068;B1 | D1e | M12 | F111 (zone); ;Give way | Bicycle road;9/8/2022;103934,193;191778,989
+2964079;D10; ;Pedestrian and bicycle path;9/8/2022;102631,378;192560,577
+2964097;A51 | GII | C43 | GIV;SNELHEIDSREMMER,300m | 50 | HERHALING;General danger | Speed limit;9/8/2022;102318,234;192032,24
+2964102;C25 | F19;7m;Length limit | One-way street;9/8/2022;103671,189;191810,63
+2964113;B1; ;Give way;9/23/2022;103536,188;191165,15
+2964114;B1; ;Give way;9/8/2022;102381,675;192145,998
+2964119;A51 | GIV | C35 | D7;SNELHEIDSREMMER,75m;General danger | No overtaking;9/8/2022;102526,619;192370,102
+2964120;B1; ;Give way;9/8/2022;102526,619;192370,102
+2964125;C43 | GVI;50 | HERHALING;Speed limit;9/8/2022;102558,117;192428,172
+2964135;B1; ;Give way;9/23/2022;103529,194;191156,151
+2964142;C3 | M12 | GIV;UITGEZONDERD ,STADSDIENSTEN;All vehicles prohibited;10/4/2022;103840,724;191795,831
+2964145;C35 | E1 | GXa; ;No overtaking | No Parking;9/8/2022;102322,452;192041,383
+2964154;C3 | M12 Klein; ;All vehicles prohibited;9/8/2022;102496,512;192387,606
+2964157;F49 | F50; ;Pedestrian crossing | Bicycle crossing;10/9/2022;103544,745;191159,092
+2964162;C3 | M12 Klein; ;All vehicles prohibited;9/8/2022;102499,513;192303,589
+2964168;F19 | M18 | F113; ;One-way street;9/8/2022;103847,998;191809,771
+2964275;A14; ;Speed bump;10/11/2022;86604,906;193728,625
+2964276;F87; ;Speed bump;10/11/2022;86648,063;193586,188
+2964340;F4b; ;End of speed limit zone;9/1/2022;53125,31;210360,24
+2964347;F12b; ;End of Living street;10/7/2022;235342,062;205202,094
+2964400;F4b; ;End of speed limit zone;10/12/2022;52575,062;211054,875
+2964474;C43;30;Speed limit;10/12/2022;51176,438;211262,438
+2964812;C43;70;Speed limit;10/12/2022;192035,75;192731,5
+2965094;C43;50;Speed limit;10/12/2022;240120;204389,5
+2965096;C43;50;Speed limit;10/12/2022;240120;204403
+2965105;C43;50;Speed limit;10/12/2022;240555;204417,5
+2965106;C43;50;Speed limit;10/12/2022;240556,75;204404,5
+2965111;C43;50;Speed limit;10/12/2022;241465,25;204385
+2965115;C43;50;Speed limit;10/12/2022;241464;204396,75
+2965197;F4b | C21 (zone);"C21,[""400"",3.5],";End of speed limit zone | Weight limit;10/12/2022;47859,375;213886,875
+2965520;F49; ;Pedestrian crossing;10/13/2022;235152,625;192659,938
+2965521;F49; ;Pedestrian crossing;10/13/2022;235140,625;192673,063
+2965535;F4b; ;End of speed limit zone;9/1/2022;50329,58;213634,01
+2965543;F4a; ;Speed limit zone;9/1/2022;50329,59;213703,07
+2965552;GIV | M3 | C3;UITGEZONDERD DIENSTVOERTUIGEN;Except for bicycles and mopeds | All vehicles prohibited;9/1/2022;50658,05;213686,82
+2965564;F4a; ;Speed limit zone;9/1/2022;50702,2;213699,19
+2965734;F4a; ;Speed limit zone;9/1/2022;50334,05;213959
+2965738;C3 | GVIId;fietsers afstappen;All vehicles prohibited;9/1/2022;50447,925;213923,25
+2965752;F12b; ;End of Living street;10/13/2022;47801,875;211447,75
+2965907;M5 | F19; ;Not oneway for bicycles and mofas | One-way street;9/1/2022;50328,39;213866,83
+2965913;F111 | F111 (zone);"F111,[""400x600""],";Bicycle road | Bicycle road;9/1/2022;50348,393;213809,265
+2965915;F113 | C3; ;All vehicles prohibited;9/1/2022;50444,08;213923,609
+2966103;C43;30;Speed limit;9/23/2022;206019,016;167358,203
+2966514;F4a; ;Speed limit zone;9/7/2022;105557,093;192249,973
+2966515;F4b; ;End of speed limit zone;9/7/2022;105557,093;192249,973
+2966593;B1 | D1e | M12 | F111 (zone); ;Give way | Bicycle road;10/6/2022;103808,182;197969,437
+2966811;F4b; ;End of speed limit zone;10/6/2022;103694,215;191020,572
+2966820;C1; ;One-way street;10/6/2022;103683,616;191028,828
+2966929;F4a; ;Speed limit zone;9/1/2022;50870,283;214835,565
+2966930;A14; ;Speed bump;10/11/2022;86626,688;193322,563
+2966960;F4a; ;Speed limit zone;9/1/2022;50810,588;214980,77
+2966961;F4b; ;End of speed limit zone;9/1/2022;50814,588;214974,645
+2966962;C45 (zone);"C45,[""400"",""50""],";End of speed limit;10/14/2022;238995,125;201916,562
+2966963;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;10/14/2022;238988,938;201925,25
+2966964;F87; ;Speed bump;10/11/2022;86670,125;193454,813
+2966971;M2 | C3; ;Except for bicycles | All vehicles prohibited;9/1/2022;50320,04;215261,37
+2966995;M5 | C1; ;Not oneway for bicycles and mofas | One-way street;10/14/2022;239535,875;201504,406
+2967002;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;10/14/2022;239541,125;201443,656
+2967003;C45 (zone);"C45,[""400"",""30""],";End of speed limit;10/14/2022;239533,875;201443,344
+2967064;D11; ;Pedestrian path;9/1/2022;50683,37;214593,8
+2967080;F4b; ;End of speed limit zone;9/1/2022;50295,12;213974,11
+2967374;C43;70;Speed limit;10/14/2022;155172,922;177021,048
+2967375;C43;70;Speed limit;10/14/2022;155164,422;177032,048
+2967376;C43;70;Speed limit;10/14/2022;155403,672;177245,048
+2967377;C43;70;Speed limit;10/14/2022;155408,172;177236,298
+2967388;C43;50;Speed limit;10/12/2022;240120;204403
+2967389;C43;50;Speed limit;10/12/2022;240120;204389,5
+2967406;C43;50;Speed limit;10/12/2022;241464;204396,75
+2967411;C43;50;Speed limit;10/12/2022;241465,25;204385
+2967445;C43;50;Speed limit;10/11/2022;242011,125;204456,125
+2967447;C43;50;Speed limit;10/11/2022;242008,625;204469
+2967458;C43;50;Speed limit;10/12/2022;240556,75;204404,5
+2967459;C43;50;Speed limit;10/12/2022;240555;204417,5
+2967466;C43;70;Speed limit;10/14/2022;155305,422;177161,048
+2967641;B9 | C43;90;Priority road | Speed limit;10/12/2022;218446,563;181502,625
+2967678;F111; ;Bicycle road;9/4/2022;30964;201980
+2967881;GIa | A14;m,150;Speed bump;10/14/2022;172967,856;204662,691
+2967963;D1f | F4b | B1; ;End of speed limit zone | Give way;9/1/2022;62438,161;182280,815
+2967967;C1 | M3 | F4b; ;One-way street | Except for bicycles and mopeds | End of speed limit zone;9/1/2022;62377,745;182260,26
+2967971;M3 | C31b | B15f; ;Except for bicycles and mopeds;9/1/2022;62372,081;182263,863
+2967974;B15a | D1e | M3; ;Except for bicycles and mopeds;9/1/2022;62179,749;182218,855
+2967980;M3 | C1; ;Except for bicycles and mopeds | One-way street;9/1/2022;62160,247;182216,817
+2967990;F4a | B1; ;Speed limit zone | Give way;9/1/2022;62381,87;182266,01
+2967994;B1; ;Give way;10/14/2022;172792,231;204629,941
+2967996;B5 | M10; ;Stop sign;9/1/2022;62153,249;182211,418
+2968000;B5 | M10 | D1f | M3; ;Stop sign | Except for bicycles and mopeds;9/1/2022;62168,124;182206,418
+2968004;F4a | GVIId | GXa;BETALEND MAX. 30 MIN.;Speed limit zone;9/1/2022;62427,469;182286,688
+2968013;GXa | F4a; ;Speed limit zone;9/1/2022;62427,469;182286,688
+2968098;A25 | GIa;m,150;Bicycle crossing;10/14/2022;172647,669;204624,191
+2968171;F4b | B1 | D1f; ;End of speed limit zone | Give way;10/6/2022;105460,909;192196,454
+2968174;C1 | M12 | F4a; ;One-way street | Speed limit zone;9/26/2022;105407,811;192198,051
+2968188;F4a | F19 | M18; ;Speed limit zone | One-way street;10/6/2022;105453,124;192196,928
+2968533;F4a; ;Speed limit zone;9/1/2022;62151,5;182207,25
+2968542;F4b; ;End of speed limit zone;9/1/2022;62149,75;182210,625
+2969354;F4a; ;Speed limit zone;10/17/2022;29388,625;200811,75
+2969362;F4b; ;End of speed limit zone;10/17/2022;30479,5;201626,625
+2969509;M2 | C3; ;Except for bicycles | All vehicles prohibited;10/17/2022;29828,938;201281,688
+2969520;F49; ;Pedestrian crossing;10/13/2022;235140,625;192673,063
+2969523;F49; ;Pedestrian crossing;10/13/2022;235152,625;192659,938
+2969603;F111 | B9; ;Bicycle road | Priority road;10/17/2022;29498,812;201202,812
+2969703;B1; ;Give way;10/17/2022;29452,438;201172,062
+2969721;F4a; ;Speed limit zone;10/17/2022;28922,938;201202,875
+2969743;C1; ;One-way street;10/17/2022;28683,688;201359,75
+2969745;C1; ;One-way street;10/17/2022;28687,938;201351,375
+2969827;F4a; ;Speed limit zone;10/9/2022;155533,375;178687,562
+2969829;F4b; ;End of speed limit zone;10/9/2022;155535,594;178684,656
+2969856;D10; ;Pedestrian and bicycle path;9/1/2022;50097,22;215151,22
+2969869;C3 | GIV | M2;UITGEZONDERD DIENSTEN;All vehicles prohibited | Except for bicycles;9/1/2022;49503,48;215039,89
+2969881;C45;50;End of speed limit;10/17/2022;193056,031;191767,469
+2969901;C3 | GIV | M2;UITGEZONDERD DIENSTEN;All vehicles prohibited | Except for bicycles;9/1/2022;49313,85;215027
+2969904;C3 | M3 | GIV;UITGEZONDERD DIENSTEN;All vehicles prohibited | Except for bicycles and mopeds;9/1/2022;49303,99;215227,23
+2969917;F4b; ;End of speed limit zone;9/1/2022;49851,65;214916,42
+2969922;F4a; ;Speed limit zone;9/1/2022;49845,39;214921,97
+2970114;C1 | M2; ;One-way street | Except for bicycles;10/17/2022;25567,812;200347,125
+2970208;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;10/16/2022;93706,75;209235,75
+2970214;F4a | A23; ;Speed limit zone | School children crossing the way near school;10/17/2022;32355,062;195362,125
+2970217;F4b; ;End of speed limit zone;10/17/2022;32345,688;195360,75
+2970228;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;10/16/2022;93639,25;209147,312
+2970299;B1; ;Give way;10/17/2022;67573,5;217119,219
+2970310;F12a; ;Living street;10/17/2022;105325,91;194974,348
+2970428;F19 | M17; ;One-way street;8/26/2022;104354,862;193180,176
+2970472;F12a; ;Living street;10/10/2022;103726,312;192482,52
+2970504;B1 | D1f | M12 | Reflecterende koker; ;Give way;10/10/2022;103794,609;192488,428
+2970620;F45b; ;No exit, except for bicycle;9/1/2022;50028,12;214169,93
+2970635;F4a | F19 | M17;stemp, P,S221,S318,S317;Speed limit zone | One-way street;9/26/2022;150548,31;208773,55
+2970650;C1 | M11; ;One-way street | Only applies to link road;9/26/2022;150450,481;208807,408
+2970658;C1 | M11; ;One-way street | Only applies to link road;9/26/2022;150361,684;208752,627
+2970668;C1 | M11; ;One-way street | Only applies to link road;9/26/2022;150273,132;208872,747
+2970691;F4a; ;Speed limit zone;9/1/2022;50006,13;214719,36
+2970692;F4b; ;End of speed limit zone;9/1/2022;49991,808;214705,899
+2970703;B1 | D5; ;Give way;10/18/2022;219950,438;202154,313
+2970739;C1 | M3bis | F34b1;links,normaal,PARKING HOPPINPUNT,sy-S148;One-way street;10/18/2022;219984,188;202163,563
+2970747;B1; ;Give way;10/18/2022;220044,188;202151,75
+2970761;A51 | GIII | C3 | GIV;FIETSERS | UITGEZONDERD PLAATSELIJK VERKEER;General danger | All vehicles prohibited;10/18/2022;220035,625;202150,875
+2970866;C23 | GIV;+3t5 UITGEZONDERD PLAATSELIJK VERKEER;Heavy goods vehicles prohibited;10/18/2022;219935,313;202058,563
+2971028;B5; ;Stop sign;10/18/2022;219929,281;202227,234
+2971123;C43;20;Speed limit;10/18/2022;69293,812;216237,812
+2971199;B9 | C43;50;Priority road | Speed limit;10/18/2022;223226,281;212000,484
+2971219;B1; ;Give way;10/18/2022;223384,003;211968,48
+2971322;C11; ;Bicycles prohibited;10/18/2022;223376,25;211961,375
+2971336;B1; ;Give way;10/18/2022;69384,438;213302,625
+2971338;B1; ;Give way;10/18/2022;69376,562;213297,562
+2971574;XX | F87 | B21;LET OP!  Whatsapp   Buurtpreventie;Speed bump;10/18/2022;236801,445;198349,561
+2971652;B17 | C21 (zone);"C21,[""400"",35],Uitgezonderd plaatselijk verkeer, landbouwvoertuigen en autocars";Weight limit;10/18/2022;124809,91;201123,63
+2971684;C3 | M3; ;All vehicles prohibited | Except for bicycles and mopeds;10/4/2022;192110,872;224313,867
+2971747;M11 | C1; ;Only applies to link road | One-way street;10/18/2022;124756,64;201426,49
+2971773;M18 | F19; ;One-way street;10/18/2022;124683,26;201379,61
+2972028;F45b; ;No exit, except for bicycle;10/4/2022;196367,642;223294,203
+2972090;M3 | D1f; ;Except for bicycles and mopeds;10/18/2022;68564,219;211972,562
+2972319;B9 | C43 | F3a;50 | Scheldewindeke,Oosterzele;Priority road | Speed limit;10/19/2022;109575,41;181456,354
+2972339;C11-C19 | C19; ;Pedestrians prohibited;10/19/2022;146542,25;190018,63
+2972373;F4b | B1 | D1f; ;End of speed limit zone | Give way;9/1/2022;49524,7;212760,18
+2972406;M2 | GIV | C3;UITGEZONDERD PLAATSELIJK VERKEER;Except for bicycles | All vehicles prohibited;10/19/2022;194878,188;239404,75
+2972407;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;10/19/2022;203482,256;199011,311
+2972427;B1 | C43 (zone);"C43,[""400"",""Neen"",""50""],";Give way | Speed limit;10/19/2022;203459,569;198997,858
+2972464;F4a; ;Speed limit zone;10/19/2022;75448,75;213645
+2972576;F111; ;Bicycle road;10/19/2022;72118,5;211745,25
+2972580;F111; ;Bicycle road;10/19/2022;72182,5;211738,25
+2972583;GIV | C3;UITGEZONDERD PLAATSELIJK VERKEER;All vehicles prohibited;10/19/2022;72198,5;211740,25
+2972626;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;10/19/2022;110425,72;184964,148
+2972639;C45 (zone);"C45,[""400"",""50""],";End of speed limit;10/19/2022;110426,908;184964,273
+2972687;F45b | F4a; ;No exit, except for bicycle | Speed limit zone;10/19/2022;72969,75;209809
+2972781;C1; ;One-way street;9/5/2022;91374,092;178267,971
+2972806;C21 | GIV;3.5 | UITGEZONDERD PLAATSELIJK VERKEER;Weight limit;10/19/2022;72312,312;210026,062
+2972815;B1; ;Give way;9/5/2022;92066,461;178506,697
+2972841;B21 | F87; ;Speed bump;10/18/2022;231448,915;198865,67
+2972854;F87 | B19; ;Speed bump;10/19/2022;231434,915;198882,295
+2972867;B19 | F87; ;Speed bump;10/19/2022;231402,915;198992,67
+2972869;F87 | B21; ;Speed bump;10/19/2022;231389,915;199001,42
+2972887;F87; ;Speed bump;10/19/2022;231385,415;199073,045
+2972905;F87; ;Speed bump;10/19/2022;231380,165;199097,295
+2972909;F87 | B19; ;Speed bump;10/19/2022;231362,915;199223,545
+2972922;B21 | F87; ;Speed bump;10/19/2022;231376,415;199222,42
+2972924;B9 | C43;70;Priority road | Speed limit;10/11/2022;84753,524;173950,085
+2972936;B19 | F87; ;Speed bump;10/19/2022;231277,29;199352,92
+2972944;C1; ;One-way street;10/11/2022;84782,03;173936,7
+2972947;C1; ;One-way street;10/11/2022;84777,72;173931,02
+2972951;B21 | F87; ;Speed bump;10/19/2022;231226,165;199413,045
+2972955;F87 | B19; ;Speed bump;10/19/2022;231209,853;199416,983
+2972974;C43 | B9;70;Speed limit | Priority road;10/11/2022;84762,49;173961,31
+2972975;B1; ;Give way;9/21/2022;92773,1;178726,073
+2972977;B5 | D1a; ;Stop sign;10/11/2022;84767,82;173925,17
+2972982;B5 | D1e; ;Stop sign;10/11/2022;84802,89;173902,94
+2972983;C1; ;One-way street;10/11/2022;84802,89;173902,94
+2972988;F13 | C43 | B9;2,rechtdoor,rechtdoor en links,volle lijn | 50;Speed limit | Priority road;10/11/2022;84814,29;173891,11
+2972996;B1 | M10; ;Give way;9/5/2022;92782,916;178731,844
+2973030;B1 | GIII;OPGELET FIETSERS;Give way;10/19/2022;92326,678;178614,534
+2973044;F13 | C43 | B9;2,rechtdoor,rechtdoor en links,volle lijn | 50;Speed limit | Priority road;10/11/2022;84806,54;173885,52
+2973055;C1; ;One-way street;10/11/2022;84803,48;173882,82
+2973060;B1 | GIII;OPGELET FIETSERS;Give way;10/19/2022;92326,678;178614,534
+2973061;C1; ;One-way street;10/11/2022;84783,53;173896,42
+2973075;D1a | B5; ;Stop sign;10/11/2022;84759,62;173919,94
+2973079;C1; ;One-way street;10/11/2022;84763,77;173929,72
+2973109;C21 | GIV | Type V | D7;5 | UITGEZONDERD PLAATSELIJKE BEDIENING | links;Weight limit;10/19/2022;230877,478;202493,138
+2973110;B1; ;Give way;10/11/2022;84622,199;174036,71
+2973112;B1; ;Give way;10/11/2022;84623,348;174038,249
+2973118;B1; ;Give way;8/31/2022;92331,642;178597,857
+2973122;B1; ;Give way;10/11/2022;84599,75;174044,64
+2973129;B1; ;Give way;10/11/2022;84621,042;174077,19
+2973140;C43 | B9;70;Speed limit | Priority road;10/11/2022;84632,41;174042,64
+2973164;C11 | C43 | B9;70;Bicycles prohibited | Speed limit | Priority road;10/11/2022;84633,27;174034,03
+2973166;B1 | M10; ;Give way;8/31/2022;92330,505;178602,894
+2973261;B1; ;Give way;10/19/2022;82576,59;177446,4
+2973296;B1 | M10; ;Give way;8/31/2022;92338,444;178598,59
+2973337;B1; ;Give way;10/7/2022;91118,808;177759,574
+2973354;M2 | D7; ;Except for bicycles;9/5/2022;90996,03;177698,87
+2973643;F4b; ;End of speed limit zone;10/19/2022;70021;207864,188
+2974756;D7 | 25kmu | M7; ;Mopeds Class B forbidden on cycleway;9/20/2022;151267,081;213875,14
+2975288;D11; ;Pedestrian path;9/1/2022;49610,977;215153,807
+2975367;F4b; ;End of speed limit zone;9/1/2022;47692,416;213513,653
+2975385;F4a; ;Speed limit zone;9/1/2022;47693,823;213504,559
+2975605;F4b; ;End of speed limit zone;8/29/2022;182902,344;185801,594
+2975616;C3 | M12 | XX | F4a | F45b;Uitgezonderd plaatselijk verkeer;All vehicles prohibited | Speed limit zone | No exit, except for bicycle;8/5/2022;182914,844;185802,281
+2975619;F111 (zone);"F111,[""400x600""],";Bicycle road;8/5/2022;182854,125;185987,594
+2975620;F19; ;One-way street;8/5/2022;182847,36;185988,07
+2975621;F111 (zone);"F111,[""400x600""],";Bicycle road;8/5/2022;182847,36;185988,07
+2975623;F5; ;Motorway;8/3/2022;37043,316;201206,579
+2975640;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;8/11/2022;183292,75;186416,969
+2975744;F4a; ;Speed limit zone;8/29/2022;182980,688;187105,906
+2975746;F4b; ;End of speed limit zone;8/29/2022;182979,438;187116,469
+2975749;B1 | F4b; ;Give way | End of speed limit zone;8/3/2022;183120,438;186940,719
+2975752;F3a | C43;,OOSTKAMP | 50;Speed limit;10/20/2022;70272,875;206508,375
+2975789;F4a; ;Speed limit zone;10/20/2022;72612,062;205278
+2975800;F4b | C43 (zone);"C43,[""400"",""Neen"",""50""],";End of speed limit zone | Speed limit;10/20/2022;72616,938;205267
+2975809;B1; ;Give way;8/1/2022;135504,875;182462
+2975816;B1; ;Give way;8/1/2022;135495,875;182455,188
+2975839;C43 (zone);"C43,[""400"",""Neen"",""50""],";Speed limit;10/20/2022;71712,125;203919,375
+2975856;B1 | C43 (zone);"C43,[""400"",""Neen"",""50""],";Give way | Speed limit;8/8/2022;182723,5;187856,969
+2975858;F45b | C43 (zone);"C43,[""400"",""Neen"",""50""],";No exit, except for bicycle | Speed limit;8/8/2022;182715,875;187847,031
+2975873;C3 | XX | M3 | F1a;Uitgezonderd plaatselijk  verkeer | Aarschot,;All vehicles prohibited | Except for bicycles and mopeds;8/12/2022;182441,18;187828,93
+2975904;C43 (zone);"C43,[""400"",""Neen"",""50""],Herhaling";Speed limit;8/17/2022;180270,15;183898,88
+2975934;B1; ;Give way;10/20/2022;219997;179785,75
+2975936;B1; ;Give way;10/20/2022;220022,75;179772,438
+2975948;B1; ;Give way;10/20/2022;220077,75;179724,938
+2975961;B1; ;Give way;10/20/2022;220115,75;179697,938
+2975974;B1; ;Give way;10/20/2022;220176,25;179667
+2975994;B1; ;Give way;10/20/2022;220198,5;179666,625
+2975995;B1; ;Give way;10/20/2022;220200,625;179662,188
+2975999;B1; ;Give way;10/20/2022;220196,75;179678,438
+2976001;B1; ;Give way;10/20/2022;220203,688;179665,344
+2976026;B1; ;Give way;10/20/2022;220226,125;179694,688
+2976029;B1; ;Give way;10/20/2022;220237,875;179696,75
+2976033;B1; ;Give way;10/20/2022;220222,375;179685,75
+2976047;A25 | GIa;m,7;Bicycle crossing;10/20/2022;220219;179661,063
+2976053;B1; ;Give way;10/20/2022;220230,25;179658,75
+2976057;B1; ;Give way;10/20/2022;220221,375;179652,313
+2976061;B1; ;Give way;10/20/2022;220234,5;179652,5
+2976066;B1; ;Give way;10/20/2022;220237,375;179646,688
+2976072;B1; ;Give way;10/20/2022;220243,375;179674,625
+2976077;B1; ;Give way;10/20/2022;220257;179673,75
+2976079;B1; ;Give way;10/20/2022;220251,375;179672,188
+2976090;B1; ;Give way;10/20/2022;220262,875;179657,563
+2976093;B1; ;Give way;10/20/2022;220259;179654,906
+2976183;C43 | F45;50 | Geen;Speed limit | No exit;8/9/2022;186647,531;190209,156
+2976298;B9 | A25 | GIa;m,15;Priority road | Bicycle crossing;9/26/2022;51164,688;190544,688
+2976712;M12 | F19; ;One-way street;8/29/2022;187536,347;213093,525
+2976716;M12 | F19; ;One-way street;8/29/2022;187553,035;213087,713
+2976718;A39; ;Bidirectional traffic;8/29/2022;187634,347;213105,088
+2976743;C1 | M12; ;One-way street;8/28/2022;187547,597;213097,65
+2976755;C1 | M12; ;One-way street;8/28/2022;187614,472;213109,525
+2976808;C1 | M12; ;One-way street;8/28/2022;187477,722;213075,275
+2976907;F19; ;One-way street;10/20/2022;239237,375;176889,5
+2977212;B5; ;Stop sign;10/13/2022;103391,222;192504,959
+2977213;F12b; ;End of Living street;8/16/2022;103582,385;192233,908
+2977216;F12b; ;End of Living street;10/13/2022;103675,499;192459,583
+2977231;F12a; ;Living street;10/13/2022;103676,609;192453,793
+2977244;C21 | GIV;3 | UITGEZONDERD,PLAATSELIJKE BEDIENING;Weight limit;8/9/2022;103381,723;192239,261
+2977249;C1 | M12; ;One-way street;10/13/2022;103525,843;192293,745
+2977257;F12b; ;End of Living street;10/13/2022;103728,615;192476,038
+2977261;B5; ;Stop sign;10/13/2022;103411,265;192526,63
+2977271;C21 | GIV;3 | UITGEZONDERD,PLAATSELIJKE BEDIENING;Weight limit;8/9/2022;103404,57;192228,031
+2977387;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/30/2022;188266,063;212871,938
+2977388;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/30/2022;188259,094;212881,906
+2977389;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/30/2022;188861;213014,563
+2977391;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/30/2022;188853,594;213023,688
+2977418;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/30/2022;188719,578;213411,422
+2977420;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/30/2022;188725,078;213419,047
+2977444;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/30/2022;188692,531;213324,875
+2977448;C1 | M12; ;One-way street;10/21/2022;114870,062;201497,25
+2977449;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/30/2022;188692,594;213315,188
+2977451;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/30/2022;188825,031;212983,75
+2977452;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/30/2022;188830,594;212984,938
+2977453;C43 (zone);"C43,[""400"",""Ja"",""30""],";Speed limit;8/31/2022;188683,062;212859,531
+2977454;C43 (zone);"C43,[""400"",""Neen"",""30""],";Speed limit;8/31/2022;188696,562;212864,031
+2977456;M18 | F19; ;One-way street;10/21/2022;114881,369;201478,13
+2977505;C3 | M2; ;All vehicles prohibited | Except for bicycles;10/21/2022;48235,621;170405,039
+2977781;F111 (zone);"F111,[""400x600""],";Bicycle road;10/21/2022;44548,188;192812,875
+2977796;F49; ;Pedestrian crossing;10/21/2022;43506,812;191966,094
+2977797;F49; ;Pedestrian crossing;10/21/2022;43512,5;191972,781
+2977799;GIV | C3;UITGEZONDERD FIETSERS EN VOETGANGERS;All vehicles prohibited;10/21/2022;43460,375;191960,469
+2977803;GIV | C3;UITGEZONDERD FIETSERS EN VOETGANGERS;All vehicles prohibited;10/21/2022;43497,625;191967,156
+2977808;B1; ;Give way;10/21/2022;169322,07;206730,61
+2978022;GIV | GIII | C3;UITGEZONDERD AANGELANDEN TOELATINGEN W&Z, RIJWIELEN EN BROMFIETSEN KLASSE A | JAAGPAD;All vehicles prohibited;10/21/2022;34150,875;183472,781
+2978080;C43 (zone) | C21;"C43,[""400"",""Ja"",""30""], | 7.5";Speed limit | Weight limit;10/21/2022;35538,938;181175,312
+2978090;F99c; ;Access only for pedestrians, cyclists, horses and agricultural;10/21/2022;34489,562;181125,688
+2978182;C1 | M11 Klein; ;One-way street;8/19/2022;105034,5;193615,38
+2978193;B1; ;Give way;10/3/2022;104132,725;193038,864
+2978252;B1; ;Give way;9/26/2022;102955,839;192906,511
+2978269;B15a | F4b; ;End of speed limit zone;9/19/2022;103257,46;192787,28
+2978280;C21 | GIV;3 | UITGEZONDERD,PLAATSELIJKE BEDIENING,EN BUS;Weight limit;10/14/2022;103212,453;192299,323
+2978291;B1 | F4b; ;Give way | End of speed limit zone;10/14/2022;102689,426;192580,27
+2978296;B15f | F111 (zone) | F18;S148,S147,P,S154,S326;Bicycle road | Bus/tram lane in between dual carriage way;9/8/2022;103838,563;191814,783
+2978315;F4a; ;Speed limit zone;10/14/2022;102679,893;192573,234
+2978318;F19 | M18 | F12a; ;One-way street | Living street;8/16/2022;103586,933;192161,517
