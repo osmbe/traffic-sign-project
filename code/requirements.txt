@@ -9,4 +9,7 @@ PyYAML==6.0
 requests==2.27.1
 six==1.16.0
 urllib3==1.26.8
-1.4.2==1.4.2
+pandas==1.4.2
+pandas-geojson
+folium
+pyproj
