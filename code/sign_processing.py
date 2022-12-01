@@ -22,9 +22,8 @@ def extract_new_signs(feature_file, process_date):
   logger.info("%s contains %d features", feature_file, len(feature_df))
   feature_df['date'] = pd.to_datetime(feature_df['datum_plaatsing'], errors = 'coerce', format='%d/%m/%Y')
   filter_mask = feature_df['date'].notna() \
+      & (feature_df["date"] > process_date) \
       & (feature_df['date'] < (pd.Timestamp.today() + pd.Timedelta('1D')))
-      # & (feature_df["date"] > process_date) \
-      # & (feature_df['date'] < (pd.Timestamp.today() + pd.Timedelta('1D')))
   filtered_df = feature_df[filter_mask]
   logger.info("%d features after filtering by date greater than %s.", len(filtered_df), process_date)
   if filtered_df.empty:
