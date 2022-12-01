@@ -33,5 +33,5 @@ jobs:
         API_KEY: ${{ secrets.API_KEY }}
       run: |
         echo "Challenge Identifier: ${{ github.event.inputs.challenge_id }}"
-        CHALLENGE_ID=${{ github.event.inputs.challenge_id }} python3 test.pypython code/process_new_signs.py
+        CHALLENGE_ID=${{ github.event.inputs.challenge_id }} python3 code/process_new_signs.py
       shell: sh
