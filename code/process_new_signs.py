@@ -1,5 +1,5 @@
 import logging
-import os
+from os import environ
 from fetch_signs import fetch_all_features_by_type
 from utils import get_first_day_previous_month
 from sign_processing import extract_new_signs, save_geojson, upload_to_maproulette
@@ -10,11 +10,9 @@ wfs_url = 'https://opendata.apps.mow.vlaanderen.be/opendata-geoserver/awv/wfs'
 feature_type = "awv:Verkeersborden.Vlaanderen_Borden"
 feature_file = "./python_output/feature_output.csv"
 geojson_file = "./python_output/geojson_output.json"
-process_date = os.environ['LAST_PROCESSED_DATE'] if os.environ.get('LAST_PROCESSED_DATE') else get_first_day_previous_month()
-process_date = "2022/01/01"
-logging.info(process_date)
-maproulette_api_key = "1" #os.environ.get("MAPROULETTE_API_KEY")
-challenge_id = "1" #os.environ['CHALLENGE_ID']
+process_date = environ['LAST_PROCESSED_DATE'] if environ.get('LAST_PROCESSED_DATE') else get_first_day_previous_month()
+maproulette_api_key = environ.get("MAPROULETTE_API_KEY")
+challenge_id = environ['CHALLENGE_ID']
 
 if __name__== "__main__":
   process_date = get_first_day_previous_month()
