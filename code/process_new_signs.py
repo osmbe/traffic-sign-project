@@ -10,7 +10,7 @@ wfs_url = 'https://opendata.apps.mow.vlaanderen.be/opendata-geoserver/awv/wfs'
 feature_type = "awv:Verkeersborden.Vlaanderen_Borden"
 feature_file = "./python_output/feature_output.csv"
 geojson_file = "./python_output/geojson_output.json"
-maproulette_api_key = os.environ.get("API_KEY")
+maproulette_api_key = os.environ.get("MAPROULETTE_API_KEY")
 challenge_id = os.environ['CHALLENGE_ID']
 
 if __name__== "__main__":
