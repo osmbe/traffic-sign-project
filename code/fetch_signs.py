@@ -37,7 +37,7 @@ def fetch_all_features_by_type(wfs_url, feature_output_file, feature_type):
       total_features = _get_total_features_by_type(wfs_url, feature_type)
       logger.info("Starting fetching data from WFS service, total features %d and retry number %d.", total_features, try_count)
       _get_and_store_features(wfs_url, feature_output_file, feature_type, total_features)
-      logger.info("WFS data stored in %d", feature_output_file)
+      logger.info("WFS data stored in %s", feature_output_file)
       stored_features_df = pd.read_csv(feature_output_file)
       total_stored_features = len(stored_features_df.index)
       logger.debug("Stored %d features in the csv.", total_stored_features)
