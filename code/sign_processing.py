@@ -24,7 +24,7 @@ def extract_new_signs(feature_file, process_date):
   filter_mask = feature_df['date'].notna() \
       & (feature_df["date"] > process_date) \
       & (feature_df['date'] < (pd.Timestamp.today() + pd.Timedelta('1D')))
-  filtered_df = feature_df[filter_mask]
+  filtered_df = feature_df[filter_mask].reset_index(drop=True)
   logger.info("%d features after filtering by date greater than %s.", len(filtered_df), process_date)
   if filtered_df.empty:
     return filtered_df

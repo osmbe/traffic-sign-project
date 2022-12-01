@@ -7,6 +7,10 @@ on:
         description: 'Map Roulette Challenge Identifier'
         required: true
         type: number
+      last_processed_date:
+        description: 'Last processed data in YY-MM-DD format'
+        required: false
+        type: string
 
 jobs:
   fetch_new_signs:
@@ -32,6 +36,6 @@ jobs:
       env:
         API_KEY: ${{ secrets.API_KEY }}
       run: |
-        echo "Challenge Identifier: ${{ github.event.inputs.challenge_id }}"
-        CHALLENGE_ID=${{ github.event.inputs.challenge_id }} python3 code/process_new_signs.py
+        echo "Challenge Identifier: ${{ github.event.inputs.challenge_id }} and last processed date: ${{ github.event.inputs.last_processed_date }}"
+        CHALLENGE_ID=${{ github.event.inputs.challenge_id }} LAST_PROCESSED_DATE=${{ github.event.inputs.last_processed_date }} python3 code/process_new_signs.py
       shell: sh
