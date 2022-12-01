@@ -15,7 +15,6 @@ maproulette_api_key = environ.get("MAPROULETTE_API_KEY")
 challenge_id = environ['CHALLENGE_ID']
 
 if __name__== "__main__":
-  process_date = get_first_day_previous_month()
   logging.info("Processing new features after %s, updates will be published to challenge %s", process_date, challenge_id)
   fetch_all_features_by_type(wfs_url, feature_file, feature_type)
   signs_dataframe = extract_new_signs(feature_file, process_date)
