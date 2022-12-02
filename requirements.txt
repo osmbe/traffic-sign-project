@@ -1,0 +1,10 @@
+certifi==2021.10.8
+charset-normalizer==2.0.11
+idna==3.3
+pyproj==3.3.0
+python-dateutil==2.8.2
+requests==2.27.1
+pandas==1.4.2
+pandas-geojson
+pyproj
+maproulette
