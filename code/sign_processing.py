@@ -67,7 +67,7 @@ def save_geojson(signs_df, geojson_file):
   write_geojson(geo_json, filename=geojson_file) 
 
 def upload_to_maproulette(api_key, challenge_id, geojson_file):
-  logger.info("Uploading geojson content to maproulette challenge %d", challenge_id)
+  logger.info("Uploading geojson content to maproulette challenge %s", challenge_id)
   # Create a configuration object for MapRoulette using your API key:
   config = maproulette.Configuration(api_key=api_key)
   # Create an API objects with the above config object:
