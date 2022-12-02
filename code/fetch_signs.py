@@ -15,7 +15,8 @@ def _get_total_features_by_type(wfs_url, feature_type):
      'count': 1
     })
     j = json.loads(response.content)
-    return j['totalFeatures']
+    return 1000
+    #return j['totalFeatures']
 
 def _get_and_store_features(wfs_url, file_name, feature_type, max_features):
     response = requests.get(wfs_url, params={
