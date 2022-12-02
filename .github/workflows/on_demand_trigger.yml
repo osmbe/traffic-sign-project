@@ -34,8 +34,9 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Run script
       env:
-        API_KEY: ${{ secrets.API_KEY }}
+        MAPROULETTE_API_KEY: ${{ secrets.MAPROULETTE_API_KEY }}
+        CHALLENGE_ID: ${{ github.event.inputs.challenge_id }}
+        LAST_PROCESSED_DATE: ${{ github.event.inputs.last_processed_date }}
       run: |
-        echo "Challenge Identifier: ${{ github.event.inputs.challenge_id }} and last processed date: ${{ github.event.inputs.last_processed_date }}"
-        CHALLENGE_ID=${{ github.event.inputs.challenge_id }} LAST_PROCESSED_DATE=${{ github.event.inputs.last_processed_date }} python3 code/process_new_signs.py
+        python3 code/process_new_signs.py
       shell: sh
