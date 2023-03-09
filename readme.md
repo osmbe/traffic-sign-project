@@ -33,8 +33,9 @@ See [the processing of the traffic sign plugin data](https://github.com/osmbe/pl
 
 
 **Issues / planned improvements**
-The current open tasks were still processed the old way, using a Python Notebook, QGIS and SPSS.
+* The current open tasks were still processed the old way, using a Python Notebook, QGIS and SPSS.
 @feleir rebuilt the entire processing flow in Python and built an automation so that the MapRoulette task can be updated weekly. This will be put in practice soon.
+* The amount of tasks can be a little daunting. We will experiment with the priority of tasks to make sure the most important signs are more visible than the less important ones.
 
 **Try it out**
 At https://maproulette.org/browse/challenges/23550. Detailed mapping instructions and resources there!
