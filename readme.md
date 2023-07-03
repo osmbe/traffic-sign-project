@@ -10,7 +10,7 @@ This is not an import project. We do *not* aim to add the traffic signs themselv
 
 Over time, this could be expanded to other datasources, like Mapillary object detections. At some point, we will also start filtering out traffic signs whose effects are probably already mapped. 
 
-
+[More context via the OSM.be project page](https://openstreetmap.be/en/projects/traffic-sign.html).
 
 
 **Main logic**
