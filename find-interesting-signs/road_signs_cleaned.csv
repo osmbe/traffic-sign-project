@@ -36,11 +36,19 @@ B0;Priority on turning main road; ;Key:give_way;highway;give_way; ;-1
 B1;Give way; ;Key:give_way; ; ;1;1
 B11;Priority road ends; ;Key:priority_road;priority_road;end; ;0
 B13;Priority road ends in x m; ;Key:priority_road; ; ; ;-1
+B15;Priority at next intersection; ;Key:priority_road;priority_road;designated; ;0
+B17;Intersection with priority to the right; ;Key:priority; ; ; ;0
+B19;Narrow passage, give way to traffic from opposite side; ;Key:priority; ; ; ;0
+B21;Narrow passage, priority over traffic from opposite side; ;Key:priority; ; ; ;0
 B3;Give way; ;Key:give_way; ; ; ;1
 B5;Stop sign; ;Key:stop; ; ;1;1
 B7;Give way; ;Key:stop; ; ; ;1
 B9;Priority road; ;Key:priority_road;priority_road;designated; ;0
 C1;One-way street; ;Key:oneway; ; ;1;1
+C7-C15;Motorcycles and Horse prohibited; ;Key:bicycle; ; ;1;1
+C7-C9;Motorcycles and Mopeds prohibited; ;Key:bicycle; ; ;1;1
+C9-C11;Bicycles and mopeds prohibited; ;Key:bicycle; ; ;1;1
+C9-C15;Bicycles and horses prohibited; ;Key:bicycle; ; ;1;1
 C11;Bicycles prohibited; ;Key:bicycle; ; ;1;1
 C11-C9;Bicycles and mopeds prohibited; ;Key:bicycle; ; ;1;1
 C13;Push carts prohibited; ; ; ; ; ;0
@@ -48,6 +56,7 @@ C15;Horses prohibited; ; ; ; ;1;1
 C17;Horse carriages prohibited; ; ; ; ;1;-1
 C19;Pedestrians prohibited; ; ; ; ;1;1
 C21;Weight limit; ;Key:maxweight; ; ;1;1
+C21-5t5;Weight limit 5t; ;Key:maxweight; ; ;1;1
 C23;Heavy goods vehicles prohibited; ;Key:hgv; ; ;1;1
 C24a;Hazardous cargo prohibited; ;Key:hazmat; ; ;1;1
 C24b;Hazardous explosive cargo prohibited; ; ; ; ;1;1
@@ -77,15 +86,25 @@ C6;Quads prohibited; ; ;atv;no; ;1
 C7;Motorcycles prohibited; ; ; ; ;1;1
 C9;Mopeds prohibited; ; ;moped;no; ;1
 D01a;Mandatory to turn into street on the left; ;Tag:restriction; ; ;1;-1
+D1a;Mandatory to turn into street on the left; ;Tag:restriction; ; ;1;-1
 D01b;Mandatory to turn into street on the left; ;Tag:restriction; ; ;1;-1
+D1b;Mandatory to turn into street on the left; ;Tag:restriction; ; ;1;-1
 D01c;Mandatory to continue into the street straight on; ;Tag:restriction; ; ;1;-1
+D1c;Mandatory to continue into the street straight on; ;Tag:restriction; ; ;1;-1
 D01d;Mandatory to follow arrow to the left; ;Tag:restriction; ; ;1;-1
+D1d;Mandatory to follow arrow to the left; ;Tag:restriction; ; ;1;-1
 D02a;Mandatory to turn into street on the right; ;Tag:restriction; ; ;1;-1
+D2a;Mandatory to turn into street on the right; ;Tag:restriction; ; ;1;-1
 D02b;Mandatory to turn into street on the right; ;Tag:restriction; ; ;1;-1
+D2b;Mandatory to turn into street on the right; ;Tag:restriction; ; ;1;-1
 D02c;Mandatory to follow arrow to the right; ;Tag:restriction; ; ;1;-1
+D2c;Mandatory to follow arrow to the right; ;Tag:restriction; ; ;1;-1
 D05;Roundabout; ;Tag:junction=roundabout;junction;roundabout; ;-1
+D5;Roundabout; ;Tag:junction=roundabout;junction;roundabout; ;-1
 D07;Bicycle path; ; ; ; ;1;-1
+D7;Bicycle path; ; ; ; ;1;-1
 D09;Split pedestrian and bicycle path; ; ;access; ; ;-1
+D9;Split pedestrian and bicycle path; ; ;access; ; ;-1
 D10;Pedestrian and bicycle path; ; ;access; ; ;1
 D11;Pedestrian path; ; ;access; ; ;1
 D13;Bridle path; ; ;access; ; ;1
@@ -164,7 +183,7 @@ Type_II[$val];Over a distance of the next x m; ; ; ; ; ;-1
 Type_III;Slippery when road is wet; ;Key:Proposed_features/hazard;hazard;slippery_when_wet; ;-1
 Type_IV;Except for; ; ; ; ; ;-1
 Type_V_fee;Parking fee; ; ; ; ; ;-1
-Type_V[$val];From/till weekdays;Van maandag tot vrijdag / De lundi à vendredi; ; ; ; ;-1
+Type_V[$val];From/till weekdays;Van maandag tot vrijdag / De lundi ï¿½ vendredi; ; ; ; ;-1
 Type_VI;Reminder; ; ; ; ; ;-1
 Type_VII_autodelen;Reserved for car sharing; ; ; ; ; ;-1
 Type_VII_bewoners;Reserved for holders of residential parking permit; ; ; ; ; ;-1
