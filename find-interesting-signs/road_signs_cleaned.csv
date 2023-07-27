@@ -56,7 +56,6 @@ C15;Horses prohibited; ; ; ; ;1;1
 C17;Horse carriages prohibited; ; ; ; ;1;-1
 C19;Pedestrians prohibited; ; ; ; ;1;1
 C21;Weight limit; ;Key:maxweight; ; ;1;1
-C21-5t5;Weight limit 5t; ;Key:maxweight; ; ;1;1
 C23;Heavy goods vehicles prohibited; ;Key:hgv; ; ;1;1
 C24a;Hazardous cargo prohibited; ;Key:hazmat; ; ;1;1
 C24b;Hazardous explosive cargo prohibited; ; ; ; ;1;1
@@ -129,10 +128,12 @@ E9g;Parking forbidden on sidewalk; ;Key:parking; ; ;1;0
 E9h;Parking only for campingcars/mobilhomes; ;Key:parking; ; ;1;0
 E9i;Parking only for motorcycles; ;Key:parking; ; ;1;0
 F1;Built-up area / City Limits; ; ; ; ;1;1
+F1a;Built-up area / City Limits; ; ; ; ;1;1
 F101c;End of access only for pedestrians, cyclists, horses and agricultural; ; ;agricultural;yes; ;1
 F103;Pedestrian zone; ;Tag:highway%3Dpedestrian; ; ;1;1
 F11;End trunk road; ; ; ; ; ;1
-F111;Bicycle road; ; ;source:maxspeed;BE:bicycle_road; ;2
+F111;Bicycle road; ; ;cyclestreet;yes; ;2
+F113;End of Bicycle road; ; ;cyclestreet;yes; ;2
 F12a;Living street; ;Tag:highway%3Dliving_street;maxspeed;20; ;2
 F12b;End of Living street; ;Tag:highway%3Dliving_street; ; ; ;2
 F17;Bus lane;Remove the tags which don't apply;Key:Bus_lanes;lanes:psv:backward;1; ;0
