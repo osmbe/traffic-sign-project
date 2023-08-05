@@ -15,7 +15,7 @@ process_date = get_process_date()
 #challenge_id = environ['CHALLENGE_ID']
 
 if __name__== "__main__":
-  logging.info("Processing new features after %s, updates will be published to challenge %s [API key: %s].", process_date, challenge_id, maproulette_api_key)
+  logging.info("Processing new features after %s, updates will be published.", process_date)
   fetch_all_features_by_type(wfs_url, feature_file, feature_type)
   signs_dataframe = extract_new_signs(feature_file, process_date)
   if signs_dataframe.empty:
