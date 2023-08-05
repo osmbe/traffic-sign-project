@@ -40,3 +40,14 @@ jobs:
       run: |
         python3 code/process_new_signs.py
       shell: sh
+    - name: Upload WFS features
+      uses: actions/upload-artifact@v3
+      with:
+        name: WFS_Input
+        path: python_output/feature_output.csv
+    - name: Upload geojson results
+      uses: actions/upload-artifact@v3
+      with:
+        name: GeoJSON_Output
+        path: python_output/geojson_output.json
+  
