@@ -30,20 +30,24 @@ def extract_new_signs(feature_file, process_date):
     return filtered_df
   # Convert coordinates
   filtered_df[['longitude','latitude']] = filtered_df.apply(convertCoords,axis=1)
-  # Bordcode processing, remove Z from it and add (zone) description.
-  filtered_df['bordcode'] = filtered_df.apply(lambda row: (f"{row['bordcode'][1:]} (zone)" if row['bordcode'].startswith('Z') else row['bordcode']).replace("/", ""), axis=1)
+  # Update parameters to add zone if the sign code starts with Z.
+  filtered_df['parameters'] = filtered_df.apply(lambda row: f"zone,{row['parameters']}" if row['bordcode'].startswith('Z') else row['parameters'], axis=1)
+  # Removed Z if the bordcode starts with a Z, remove all /s and store it in traffic_sign_code column.
+  filtered_df['traffic_sign_code'] = filtered_df.apply(lambda row: (f"{row['bordcode'][1:]}" if row['bordcode'].startswith('Z') else row['bordcode']).replace("/", ""), axis=1)
   # Replace strings from FID
   filtered_df['id'] = filtered_df['FID'].str.replace('Verkeersborden.Vlaanderen_Borden.','')
   filtered_df.drop(columns=['FID'])
   sign_metadata = pd.read_csv(traffic_signs_info, sep=";", encoding = "ISO-8859-1")
-  # Join both datasets by the bordcode
-  joined_df = filtered_df.join(sign_metadata.set_index("bordcode"), on='bordcode')
+  # Rename bordcode to traffic_sign_code.
+  sign_metadata = sign_metadata.rename(columns={"bordcode": "traffic_sign_code"})
+  # Join both datasets by the traffic_sign_code doing a left join.
+  joined_df = filtered_df.merge(sign_metadata, on='traffic_sign_code', how='left')
   # Remove NaN parameters and name
   joined_df[['parameters', 'name']] = joined_df[['parameters','name']].fillna('')
   # Group the features by pole identifier.
   grouped_df = joined_df.groupby('id_aanzicht', as_index=False).agg({
      'opinion': 'max', 
-     'bordcode': ' | '.join,
+     'traffic_sign_code': ' | '.join,
      'latitude': 'max',
      'longitude': 'max',
      'parameters': lambda x : '|'.join(y for y in x if y != ''),
@@ -54,7 +58,6 @@ def extract_new_signs(feature_file, process_date):
   logger.debug("Found %d signs after grouping by pole identifier.", len(grouped_df))
   # Rename columns as per the geojson requirements
   return grouped_df.rename(columns = {
-    "bordcode": "traffic_sign_code", 
     "parameters": "extra_text",
     "datum_plaatsing": "date_installed",
     "name": "traffic_sign_description"
