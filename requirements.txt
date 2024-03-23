@@ -5,6 +5,6 @@ pyproj==3.3.0
 python-dateutil==2.8.2
 requests==2.27.1
 pandas==1.4.2
-pandas-geojson
+pandas-geojson==1.2.0
 pyproj
 maproulette
