@@ -8,7 +8,7 @@ on:
         required: true
         type: number
       last_processed_date:
-        description: 'Last processed date in YY-MM-DD format, use only for manually trigger actions.'
+        description: 'Last processed date in YYYY-MM-DD format, use only for manually trigger actions.'
         required: false
         type: string
 
