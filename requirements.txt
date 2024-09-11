@@ -8,3 +8,4 @@ pandas==1.4.2
 pandas-geojson==1.2.0
 pyproj
 maproulette
+numpy>=1.21.0,<1.23.0
